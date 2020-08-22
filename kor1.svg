@@ -712,9 +712,9 @@
        inkscape:label="{&quot;attr&quot;:&quot;bar&quot;,&quot;max&quot;:100,&quot;min&quot;:0,&quot;tag&quot;:&quot;!EVAL Math.sqrt(Math.pow($V('KOR1TR1MW'),2) + Math.pow($V('KOR1TR1MVAR'),2))&quot;},{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;-99999&quot;,&quot;param&quot;:&quot;-cor-59&quot;,&quot;tag&quot;:&quot;99999&quot;}]},{&quot;attr&quot;:&quot;popup&quot;,&quot;height&quot;:400,&quot;src&quot;:&quot;block&quot;,&quot;width&quot;:500,&quot;x&quot;:100,&quot;y&quot;:100}" />
     <a
        xlink:href="kin1.svg"
-       transform="translate(-86,-2.6171874e-6)"
+       id="a12200"
        inkscape:label=""
-       id="a12200">
+       transform="translate(-86,-2.6171874e-6)">
       <text
          onload="evt.currentTarget.style.cursor='pointer';"
          xml:space="preserve"
@@ -729,13 +729,6 @@
            y="-397.63782"
            style="font-size:24px;line-height:1.25">KIN1</tspan></text>
     </a>
-    <path
-       inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;set&quot;,&quot;prompt&quot;:&quot;&quot;,&quot;src&quot;:&quot;bar230kV&quot;,&quot;tag&quot;:&quot;#copy_xsac_from&quot;,&quot;type&quot;:&quot;Data&quot;}"
-       inkscape:connector-curvature="0"
-       id="path3083"
-       d="m 510,-407.63782 520,0"
-       style="fill:#782121;stroke:#782121;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       sodipodi:nodetypes="cc" />
     <g
        id="g6430"
        inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%n=26549&quot;]}"
@@ -2408,37 +2401,6 @@
        id="path5683"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
-    <path
-       sodipodi:nodetypes="cc"
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#782121;fill-opacity:1;fill-rule:nonzero;stroke:#782121;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
-       d="m 780,-407.63782 0,270"
-       id="path5779"
-       inkscape:connector-curvature="0"
-       inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;set&quot;,&quot;prompt&quot;:&quot;&quot;,&quot;src&quot;:&quot;bar230kV_model&quot;,&quot;tag&quot;:&quot;#copy_xsac_from&quot;,&quot;type&quot;:&quot;Data&quot;}" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Verdana;-inkscape-font-specification:Verdana;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#666666;fill-opacity:1;stroke:none"
-       x="797"
-       y="-247.63782"
-       id="text5785"
-       inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;0&quot;,&quot;param&quot;:&quot;-cor-15|&quot;,&quot;tag&quot;:&quot;99999&quot;}]},{&quot;attr&quot;:&quot;popup&quot;,&quot;height&quot;:400,&quot;src&quot;:&quot;block&quot;,&quot;width&quot;:500,&quot;x&quot;:100,&quot;y&quot;:100}"><tspan
-         y="-247.63782"
-         x="797"
-         id="tspan5787"
-         sodipodi:role="line"
-         style="font-size:12px;line-height:1.25">1•</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Verdana;-inkscape-font-specification:Verdana;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#666666;fill-opacity:1;stroke:none"
-       x="796"
-       y="-313.63782"
-       id="text5819"
-       inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;0&quot;,&quot;param&quot;:&quot;-cor-15|&quot;,&quot;tag&quot;:&quot;99999&quot;}]},{&quot;attr&quot;:&quot;popup&quot;,&quot;height&quot;:400,&quot;src&quot;:&quot;block&quot;,&quot;width&quot;:500,&quot;x&quot;:100,&quot;y&quot;:100}"><tspan
-         id="tspan5821"
-         sodipodi:role="line"
-         x="796"
-         y="-313.63782"
-         style="font-size:12px;line-height:1.25">2•</tspan></text>
     <g
        id="g5863"
        transform="translate(320.04875,-164.22588)"
@@ -2476,64 +2438,6 @@
          inkscape:connector-curvature="0"
          inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;set&quot;,&quot;prompt&quot;:&quot;&quot;,&quot;src&quot;:&quot;bar23kV_model&quot;,&quot;tag&quot;:&quot;#copy_xsac_from&quot;,&quot;type&quot;:&quot;Data&quot;}"
          sodipodi:nodetypes="cc" />
-    </g>
-    <g
-       id="g5879"
-       inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%n=KOR1TR1MW&quot;]}"
-       transform="translate(671.51529,177.50006)">
-      <text
-         inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;set&quot;,&quot;prompt&quot;:&quot;&quot;,&quot;src&quot;:&quot;mw_model&quot;,&quot;tag&quot;:&quot;#copy_xsac_from&quot;,&quot;type&quot;:&quot;Data&quot;}"
-         id="text5881"
-         y="-357.63782"
-         x="210"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Microsoft Sans Serif';-inkscape-font-specification:'Microsoft Sans Serif';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#6a43e5;fill-opacity:1;stroke:none"
-         xml:space="preserve"><tspan
-           y="-357.63782"
-           x="210"
-           id="tspan5883"
-           sodipodi:role="line"
-           style="font-size:22px;line-height:1.25">d^%5.1f</tspan></text>
-      <text
-         inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;set&quot;,&quot;prompt&quot;:&quot;&quot;,&quot;src&quot;:&quot;unit_model&quot;,&quot;tag&quot;:&quot;#copy_xsac_from&quot;,&quot;type&quot;:&quot;Data&quot;}"
-         id="text5885"
-         y="-358.36484"
-         x="213.51529"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#808080;fill-opacity:1;stroke:none"
-         xml:space="preserve"><tspan
-           y="-358.36484"
-           x="213.51529"
-           id="tspan5887"
-           sodipodi:role="line"
-           style="font-size:18px;line-height:1.25">MW</tspan></text>
-    </g>
-    <g
-       inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%n=KOR1TR1MVAR&quot;]}"
-       id="g5889"
-       transform="translate(671.51529,204.33337)">
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Microsoft Sans Serif';-inkscape-font-specification:'Microsoft Sans Serif';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#6a43e5;fill-opacity:1;stroke:none"
-         x="210"
-         y="-357.63782"
-         id="text5891"
-         inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;set&quot;,&quot;prompt&quot;:&quot;&quot;,&quot;src&quot;:&quot;mvar_model&quot;,&quot;tag&quot;:&quot;#copy_xsac_from&quot;,&quot;type&quot;:&quot;Data&quot;}"><tspan
-           sodipodi:role="line"
-           id="tspan5893"
-           x="210"
-           y="-357.63782"
-           style="font-size:22px;line-height:1.25">d^%5.1f</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#808080;fill-opacity:1;stroke:none"
-         x="213.51529"
-         y="-358.36484"
-         id="text5895"
-         inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;set&quot;,&quot;prompt&quot;:&quot;&quot;,&quot;src&quot;:&quot;unit_model&quot;,&quot;tag&quot;:&quot;#copy_xsac_from&quot;,&quot;type&quot;:&quot;Data&quot;}"><tspan
-           sodipodi:role="line"
-           id="tspan5897"
-           x="213.51529"
-           y="-358.36484"
-           style="font-size:18px;line-height:1.25">MVAr</tspan></text>
     </g>
     <g
        inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%n=KOR1TR1--YTAP&quot;]}"
@@ -2784,7 +2688,7 @@
          y="-157.63782"
          style="font-size:18px;line-height:1.25">525kV</tspan></text>
     <g
-       transform="translate(396.99317,-208.62142)"
+       transform="translate(796.01366,59.377417)"
        id="g6359"
        inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%n=KOR1KV230&quot;]}">
       <text
@@ -3990,31 +3894,6 @@
          sodipodi:role="line"
          id="tspan10024"
          style="font-size:12px;line-height:1.25">4</tspan></text>
-    <path
-       inkscape:connector-curvature="0"
-       id="path10034"
-       style="fill:#ff0000;stroke:#808080;stroke-width:2.10819197;stroke-miterlimit:4;stroke-dasharray:none"
-       d="m 856,-357.63782 3.3333,0 m -7.7778,6.66669 0,-13.3334 m -5.5554,16.66675 0,-20 m -6.6669,9.99996 5.5557,0"
-       inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;set&quot;,&quot;prompt&quot;:&quot;&quot;,&quot;src&quot;:&quot;bar230kV_model&quot;,&quot;tag&quot;:&quot;#copy_xsac_from&quot;,&quot;type&quot;:&quot;Data&quot;}" />
-    <path
-       inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;set&quot;,&quot;prompt&quot;:&quot;&quot;,&quot;src&quot;:&quot;bar230kV_model&quot;,&quot;tag&quot;:&quot;#copy_xsac_from&quot;,&quot;type&quot;:&quot;Data&quot;}"
-       inkscape:connector-curvature="0"
-       id="path10044"
-       d="m 840,-357.63782 -60,0"
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#782121;fill-opacity:1;fill-rule:nonzero;stroke:#782121;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
-       sodipodi:nodetypes="cc" />
-    <text
-       inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;0&quot;,&quot;param&quot;:&quot;-cor-15|&quot;,&quot;tag&quot;:&quot;99999&quot;}]},{&quot;attr&quot;:&quot;popup&quot;,&quot;height&quot;:400,&quot;src&quot;:&quot;block&quot;,&quot;width&quot;:500,&quot;x&quot;:100,&quot;y&quot;:100}"
-       id="text10046"
-       y="-377.63782"
-       x="806"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Verdana;-inkscape-font-specification:Verdana;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#666666;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
-         y="-377.63782"
-         x="806"
-         sodipodi:role="line"
-         id="tspan10048"
-         style="font-size:12px;line-height:1.25">1</tspan></text>
     <rect
        inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;0&quot;,&quot;param&quot;:&quot;none|-cor-06&quot;,&quot;tag&quot;:&quot;%n&quot;},{&quot;data&quot;:&quot;1&quot;,&quot;param&quot;:&quot;-cor-03|-cor-08&quot;,&quot;tag&quot;:&quot;%n&quot;},{&quot;data&quot;:&quot;2&quot;,&quot;param&quot;:&quot;-cor-16&quot;,&quot;tag&quot;:&quot;%n&quot;},{&quot;data&quot;:&quot;3&quot;,&quot;param&quot;:&quot;-cor-07|-cor-07&quot;,&quot;tag&quot;:&quot;%n&quot;},{&quot;data&quot;:&quot;128&quot;,&quot;param&quot;:&quot;none|-cor-01&quot;,&quot;tag&quot;:&quot;%n&quot;},{&quot;data&quot;:&quot;129&quot;,&quot;param&quot;:&quot;none|-cor-01&quot;,&quot;tag&quot;:&quot;%n&quot;},{&quot;data&quot;:&quot;130&quot;,&quot;param&quot;:&quot;-cor-01|-cor-01&quot;,&quot;tag&quot;:&quot;%n&quot;},{&quot;data&quot;:&quot;131&quot;,&quot;param&quot;:&quot;-cor-01|-cor-01&quot;,&quot;tag&quot;:&quot;%n&quot;}]}"
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#00ff00;fill-opacity:1;fill-rule:nonzero;stroke:#008200;stroke-width:3.99999952;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
@@ -4041,25 +3920,6 @@
          height="19.999998"
          x="-70"
          y="120.36218" />
-    </g>
-    <g
-       inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%n=KOR1TR1-2XCBR5201&quot;]}"
-       id="g10080"
-       transform="translate(840,-382)">
-      <path
-         inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;set&quot;,&quot;prompt&quot;:&quot;&quot;,&quot;src&quot;:&quot;linebg_model&quot;,&quot;tag&quot;:&quot;#copy_xsac_from&quot;,&quot;type&quot;:&quot;Data&quot;}"
-         inkscape:connector-curvature="0"
-         id="path10082"
-         d="m -60,120.36218 0,20"
-         style="fill:#f9f9f9;stroke:#f9f9f9;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <rect
-         y="119.36218"
-         x="-70"
-         height="19.999998"
-         width="20"
-         id="rect10084"
-         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#00ff00;fill-opacity:1;fill-rule:nonzero;stroke:#008200;stroke-width:3.99999952;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
-         inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;set&quot;,&quot;prompt&quot;:&quot;&quot;,&quot;src&quot;:&quot;dj230kV_model&quot;,&quot;tag&quot;:&quot;#copy_xsac_from&quot;,&quot;type&quot;:&quot;Data&quot;}" />
     </g>
     <rect
        y="202.36218"
@@ -4282,52 +4142,6 @@
          inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;set&quot;,&quot;prompt&quot;:&quot;&quot;,&quot;src&quot;:&quot;xswi230kV_model1&quot;,&quot;tag&quot;:&quot;#copy_xsac_from&quot;,&quot;type&quot;:&quot;Data&quot;}"
          inkscape:connector-curvature="0"
          id="path10217"
-         d="m -70,-297.63782 20,0"
-         style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    </g>
-    <g
-       id="g10219"
-       transform="translate(840,-20)"
-       inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%n=KOR1XSWI2&quot;]}">
-      <path
-         style="fill:#f9f9f9;stroke:#f9f9f9;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m -60,-307.63782 0,20"
-         id="path10221"
-         inkscape:connector-curvature="0"
-         inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;set&quot;,&quot;prompt&quot;:&quot;&quot;,&quot;src&quot;:&quot;linebg_model&quot;,&quot;tag&quot;:&quot;#copy_xsac_from&quot;,&quot;type&quot;:&quot;Data&quot;}" />
-      <path
-         style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m -60,-307.63782 0,20"
-         id="path10223"
-         inkscape:connector-curvature="0"
-         inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;set&quot;,&quot;prompt&quot;:&quot;&quot;,&quot;src&quot;:&quot;xswi230kV_model2&quot;,&quot;tag&quot;:&quot;#copy_xsac_from&quot;,&quot;type&quot;:&quot;Data&quot;}" />
-      <path
-         style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m -70,-297.63782 20,0"
-         id="path10225"
-         inkscape:connector-curvature="0"
-         inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;set&quot;,&quot;prompt&quot;:&quot;&quot;,&quot;src&quot;:&quot;xswi230kV_model1&quot;,&quot;tag&quot;:&quot;#copy_xsac_from&quot;,&quot;type&quot;:&quot;Data&quot;}" />
-    </g>
-    <g
-       inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%n=KOR1XSWI1&quot;]}"
-       transform="matrix(0,1,-1,0,512.36218,-297.63782)"
-       id="g10227">
-      <path
-         inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;set&quot;,&quot;prompt&quot;:&quot;&quot;,&quot;src&quot;:&quot;linebg_model&quot;,&quot;tag&quot;:&quot;#copy_xsac_from&quot;,&quot;type&quot;:&quot;Data&quot;}"
-         inkscape:connector-curvature="0"
-         id="path10229"
-         d="m -60,-307.63782 0,20"
-         style="fill:#f9f9f9;stroke:#f9f9f9;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <path
-         inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;set&quot;,&quot;prompt&quot;:&quot;&quot;,&quot;src&quot;:&quot;xswi230kV_model2&quot;,&quot;tag&quot;:&quot;#copy_xsac_from&quot;,&quot;type&quot;:&quot;Data&quot;}"
-         inkscape:connector-curvature="0"
-         id="path10231"
-         d="m -60,-307.63782 0,20"
-         style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <path
-         inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;set&quot;,&quot;prompt&quot;:&quot;&quot;,&quot;src&quot;:&quot;xswi230kV_model1&quot;,&quot;tag&quot;:&quot;#copy_xsac_from&quot;,&quot;type&quot;:&quot;Data&quot;}"
-         inkscape:connector-curvature="0"
-         id="path10233"
          d="m -70,-297.63782 20,0"
          style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
@@ -5022,55 +4836,6 @@
            y="-358.36484"
            style="font-size:18px;line-height:1.25">Vca/Vcc</tspan></text>
     </g>
-    <g
-       id="g13243"
-       inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%n=!EVAL Math.sqrt(Math.pow($V('KOR1TR1MW'),2) + Math.pow($V('KOR1TR1MVAR'),2))&quot;]}"
-       transform="translate(672,152)">
-      <text
-         inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;set&quot;,&quot;prompt&quot;:&quot;&quot;,&quot;src&quot;:&quot;mva_model&quot;,&quot;tag&quot;:&quot;#copy_xsac_from&quot;,&quot;type&quot;:&quot;Data&quot;}"
-         id="text13245"
-         y="-357.63782"
-         x="210"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Microsoft Sans Serif';-inkscape-font-specification:'Microsoft Sans Serif';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#6a43e5;fill-opacity:1;stroke:none"
-         xml:space="preserve"><tspan
-           y="-357.63782"
-           x="210"
-           id="tspan13247"
-           sodipodi:role="line"
-           style="font-size:22px;line-height:1.25">%5.1f</tspan></text>
-      <text
-         inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;set&quot;,&quot;prompt&quot;:&quot;&quot;,&quot;src&quot;:&quot;unit_model&quot;,&quot;tag&quot;:&quot;#copy_xsac_from&quot;,&quot;type&quot;:&quot;Data&quot;}"
-         id="text13249"
-         y="-358.36484"
-         x="213.51529"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#808080;fill-opacity:1;stroke:none"
-         xml:space="preserve"><tspan
-           y="-358.36484"
-           x="213.51529"
-           id="tspan13251"
-           sodipodi:role="line"
-           style="font-size:18px;line-height:1.25">MVA</tspan></text>
-      <flowRoot
-         xml:space="preserve"
-         id="flowRoot6779"
-         style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;letter-spacing:0px;word-spacing:0px"><flowRegion
-           id="flowRegion6781"><rect
-             id="rect6783"
-             width="360"
-             height="200"
-             x="300"
-             y="940" /></flowRegion><flowPara
-           id="flowPara6785"></flowPara></flowRoot>      <flowRoot
-         xml:space="preserve"
-         id="flowRoot6787"
-         style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;letter-spacing:0px;word-spacing:0px"><flowRegion
-           id="flowRegion6789"><rect
-             id="rect6791"
-             width="480"
-             height="80"
-             x="540"
-             y="1000" /></flowRegion><flowPara
-           id="flowPara6793"></flowPara></flowRoot>    </g>
     <text
        inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;set&quot;,&quot;prompt&quot;:&quot;&quot;,&quot;src&quot;:&quot;linename_model&quot;,&quot;tag&quot;:&quot;#copy_xsac_from&quot;,&quot;type&quot;:&quot;Data&quot;}"
        id="pal9"
@@ -5084,20 +4849,6 @@
          id="tspan13255-4"
          sodipodi:role="line"
          style="font-size:24px;line-height:1.25">KPL4 C1</tspan></text>
-    <path
-       sodipodi:nodetypes="cc"
-       style="fill:#782121;stroke:#782121;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 510,-427.63782 0,40"
-       id="path13278"
-       inkscape:connector-curvature="0"
-       inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;set&quot;,&quot;prompt&quot;:&quot;&quot;,&quot;src&quot;:&quot;bar230kV&quot;,&quot;tag&quot;:&quot;#copy_xsac_from&quot;,&quot;type&quot;:&quot;Data&quot;}" />
-    <path
-       inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;set&quot;,&quot;prompt&quot;:&quot;&quot;,&quot;src&quot;:&quot;bar230kV&quot;,&quot;tag&quot;:&quot;#copy_xsac_from&quot;,&quot;type&quot;:&quot;Data&quot;}"
-       inkscape:connector-curvature="0"
-       id="path13280"
-       d="m 1030,-427.63782 0,40"
-       style="fill:#782121;stroke:#782121;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       sodipodi:nodetypes="cc" />
     <text
        id="text13314"
        y="412.36218"
@@ -5110,19 +4861,6 @@
          x="-318"
          y="412.36218"
          style="font-size:18px;line-height:1.25">Quadro de alarme</tspan></text>
-    <text
-       inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;-999999&quot;,&quot;param&quot;:&quot;-cor-16|&quot;,&quot;tag&quot;:&quot;99999&quot;}]},{&quot;attr&quot;:&quot;popup&quot;,&quot;height&quot;:400,&quot;src&quot;:&quot;block&quot;,&quot;width&quot;:500,&quot;x&quot;:100,&quot;y&quot;:100}"
-       id="text1135"
-       y="-327.63782"
-       x="560"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#666666;fill-opacity:1;stroke:none"
-       xml:space="preserve"
-       onload="evt.currentTarget.style.cursor='pointer';"><tspan
-         y="-327.63782"
-         x="560"
-         id="tspan1137"
-         sodipodi:role="line"
-         style="font-size:24px;line-height:1.25">230kV Sector</tspan></text>
     <path
        style="fill:#ffff00;stroke:#000000;stroke-width:1.75662017;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m -469.86315,-377.88653 -22.5,30 45,0 -22.5,-30"
@@ -5266,32 +5004,6 @@
            id="tspan7330-0-1-7"
            sodipodi:role="line"
            style="font-size:20px;line-height:1.25;font-family:sans-serif">3</tspan></text>
-    </g>
-    <g
-       transform="translate(920,28.999997)"
-       id="g7512-6"
-       inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%n=KOR1TR1-2XCBR5201&quot;]},{&quot;attr&quot;:&quot;popup&quot;,&quot;height&quot;:400,&quot;src&quot;:&quot;notrace&quot;,&quot;width&quot;:500,&quot;x&quot;:100,&quot;y&quot;:100}">
-      <rect
-         inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;set&quot;,&quot;prompt&quot;:&quot;&quot;,&quot;src&quot;:&quot;almshape0&quot;,&quot;tag&quot;:&quot;#copy_xsac_from&quot;,&quot;type&quot;:&quot;Data&quot;}"
-         transform="matrix(0.79973476,-0.60035349,0.79973476,0.60035349,0,0)"
-         y="-366.88016"
-         x="102.23981"
-         height="33.313698"
-         width="33.313698"
-         id="almshape0-2-1"
-         style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:1.66568494;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <text
-         inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;set&quot;,&quot;prompt&quot;:&quot;&quot;,&quot;src&quot;:&quot;almshapetext&quot;,&quot;tag&quot;:&quot;#copy_xsac_from&quot;,&quot;type&quot;:&quot;Data&quot;}"
-         id="almshapetext-5-4"
-         y="-274.63782"
-         x="-185"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-         xml:space="preserve"><tspan
-           y="-274.63782"
-           x="-185"
-           id="tspan7330-0-1-2"
-           sodipodi:role="line"
-           style="font-size:20px;line-height:1.25;font-family:sans-serif">0</tspan></text>
     </g>
     <g
        inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%n=KOR1XCBR5&quot;]},{&quot;attr&quot;:&quot;popup&quot;,&quot;height&quot;:400,&quot;src&quot;:&quot;notrace&quot;,&quot;width&quot;:500,&quot;x&quot;:100,&quot;y&quot;:100}"
@@ -5644,30 +5356,6 @@
            id="tspan7330-0-1-7-0"
            sodipodi:role="line"
            style="font-size:20px;line-height:1.25;font-family:sans-serif">3</tspan></text>
-    </g>
-    <g
-       transform="translate(845,-165)"
-       id="g7517-8-2"
-       inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%n=KOR1KV230&quot;]},{&quot;attr&quot;:&quot;popup&quot;,&quot;height&quot;:400,&quot;src&quot;:&quot;notrace&quot;,&quot;width&quot;:500,&quot;x&quot;:100,&quot;y&quot;:100}">
-      <path
-         inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;set&quot;,&quot;prompt&quot;:&quot;&quot;,&quot;src&quot;:&quot;almanashape1&quot;,&quot;tag&quot;:&quot;#copy_xsac_from&quot;,&quot;type&quot;:&quot;Data&quot;}"
-         sodipodi:nodetypes="cccc"
-         inkscape:connector-curvature="0"
-         id="almshape1-8-4-6"
-         d="m -185.50527,-246.88653 -22.5,30 45,0 -22.5,-30"
-         style="fill:#ffff00;stroke:#000000;stroke-width:1.75662017;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <text
-         inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;set&quot;,&quot;prompt&quot;:&quot;&quot;,&quot;src&quot;:&quot;almanashapetext&quot;,&quot;tag&quot;:&quot;#copy_xsac_from&quot;,&quot;type&quot;:&quot;Data&quot;}"
-         id="almshapetext-5-7-0-0"
-         y="-222.63782"
-         x="-185"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-         xml:space="preserve"><tspan
-           y="-222.63782"
-           x="-185"
-           id="tspan7330-0-1-1-7-1"
-           sodipodi:role="line"
-           style="font-size:20px;line-height:1.25;font-family:sans-serif">1</tspan></text>
     </g>
     <g
        transform="translate(1437.0053,229.24871)"
@@ -7845,7 +7533,7 @@
     <g
        id="gbullet7665-0"
        inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%n=KOR1KV230&quot;]}"
-       transform="translate(157.59218,174.73214)">
+       transform="translate(-101.77694,419.12517)">
       <rect
          style="opacity:1;fill:none;fill-opacity:0.43529412;stroke:#ffff00;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect7253-0"
