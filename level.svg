@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.19704315"
-     inkscape:cx="1285.4167"
-     inkscape:cy="1325"
+     inkscape:zoom="0.97791787"
+     inkscape:cx="355.25213"
+     inkscape:cy="1223.4966"
      inkscape:document-units="px"
      inkscape:current-layer="gbullet7665-0"
      showgrid="true"
@@ -605,7 +605,7 @@
     <g
        id="gbullet7665-0"
        inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%n=LevelBazena&quot;]}"
-       transform="matrix(0,-0.81605651,1,0,2000.595,403.15138)">
+       transform="matrix(0,-0.81605651,1,0,2015.2054,320.71736)">
       <path
          style="fill:#b3b3b3;fill-rule:evenodd;stroke:#999999;stroke-width:2.2664988px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="m 696.46016,-1658.3876 v 16.4028"
@@ -666,7 +666,7 @@
            y="-626.55322"
            style="font-size:40.14351273px;line-height:9.25;stroke-width:2.2664988px"> 0 M</tspan></text>
       <text
-         inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;set&quot;,&quot;prompt&quot;:&quot;&quot;,&quot;src&quot;:&quot;tap_model&quot;,&quot;tag&quot;:&quot;#copy_xsac_from&quot;,&quot;type&quot;:&quot;Data&quot;}"
+         inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;set&quot;,&quot;prompt&quot;:&quot;&quot;,&quot;src&quot;:&quot;LevelBazena&quot;,&quot;tag&quot;:&quot;#copy_xsac_from&quot;,&quot;type&quot;:&quot;Data&quot;}"
          id="text7659-7"
          y="-1026.7307"
          x="-1406.4301"
