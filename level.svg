@@ -29,7 +29,7 @@
      inkscape:cx="355.25213"
      inkscape:cy="1223.4966"
      inkscape:document-units="px"
-     inkscape:current-layer="gbullet7665-0"
+     inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:window-width="1366"
      inkscape:window-height="705"
@@ -665,19 +665,6 @@
            x="-1353.8959"
            y="-626.55322"
            style="font-size:40.14351273px;line-height:9.25;stroke-width:2.2664988px"> 0 M</tspan></text>
-      <text
-         inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;set&quot;,&quot;prompt&quot;:&quot;&quot;,&quot;src&quot;:&quot;LevelBazena&quot;,&quot;tag&quot;:&quot;#copy_xsac_from&quot;,&quot;type&quot;:&quot;Data&quot;}"
-         id="text7659-7"
-         y="-1026.7307"
-         x="-1406.4301"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:27.1979866px;line-height:0%;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS, Bold';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.2664988px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"
-         transform="matrix(0,1.2186823,-0.82055843,0,0,0)"><tspan
-           y="-1026.7307"
-           x="-1406.4301"
-           id="tspan7661-4"
-           sodipodi:role="line"
-           style="font-size:46.83409882px;line-height:1.25;stroke-width:2.2664988px">%.1f</tspan></text>
       <path
          style="opacity:0.39500002;fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:2.2664988px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="m 696.46547,-1705.2054 v 52.802"
@@ -728,5 +715,18 @@
            y="-624.66449"
            style="stroke-width:1.1069802" /></text>
     </g>
+    <text
+       inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%n=S_LEVEL&quot;]}"
+       id="text7659-7"
+       y="-788.50293"
+       x="-1389.6483"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:27.1979866px;line-height:0%;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS, Bold';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.2664988px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       transform="matrix(1.2186823,0,0,0.66962204,2015.2054,320.71736)"><tspan
+         y="-788.50293"
+         x="-1389.6483"
+         id="tspan7661-4"
+         sodipodi:role="line"
+         style="font-size:46.83409882px;line-height:1.25;stroke-width:2.2664988px">%.1f</tspan></text>
   </g>
 </svg>
