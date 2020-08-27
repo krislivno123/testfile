@@ -742,15 +742,17 @@
          id="flowPara9505">%6.2F</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot9507"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#00ff00;fill-opacity:1;stroke:none;"
        transform="translate(0,-447.63782)"
-       inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%n=test1&quot;]}"><flowRegion
-         id="flowRegion9509"><rect
+       inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%n=test1&quot;]},{&quot;attr&quot;:&quot;open&quot;,&quot;height&quot;:400,&quot;istag&quot;:1,&quot;src&quot;:&quot;test1&quot;,&quot;type&quot;:&quot;_blank&quot;,&quot;width&quot;:500,&quot;x&quot;:100,&quot;y&quot;:100}"><flowRegion
+         id="flowRegion9509"
+         style="fill:#00ff00;"><rect
            id="rect9511"
            width="220"
            height="60"
            x="220"
-           y="150" /></flowRegion><flowPara
+           y="150"
+           style="fill:#00ff00;" /></flowRegion><flowPara
          id="flowPara9513">%6.2f</flowPara><flowPara
          id="flowPara9515" /></flowRoot>  </g>
 </svg>
