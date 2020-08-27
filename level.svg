@@ -723,10 +723,34 @@
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:27.1979866px;line-height:0%;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS, Bold';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.2664988px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"
        transform="matrix(1.2186823,0,0,0.66962204,2015.2054,320.71736)"><tspan
-         y="-788.50293"
+         y="-780.82269"
          x="-1389.6483"
          id="tspan7661-4"
          sodipodi:role="line"
-         style="font-size:46.83409882px;line-height:1.25;stroke-width:2.2664988px">%.1f</tspan></text>
-  </g>
+         style="font-size:46.83409882px;line-height:1.25;stroke-width:2.2664988px" /></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot9499"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="translate(0,-447.63782)"><flowRegion
+         id="flowRegion9501"><rect
+           id="rect9503"
+           width="120"
+           height="70"
+           x="210"
+           y="110" /></flowRegion><flowPara
+         id="flowPara9505">%6.2F</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot9507"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="translate(0,-447.63782)"
+       inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%n=test1&quot;]}"><flowRegion
+         id="flowRegion9509"><rect
+           id="rect9511"
+           width="220"
+           height="60"
+           x="220"
+           y="150" /></flowRegion><flowPara
+         id="flowPara9513">%6.2f</flowPara><flowPara
+         id="flowPara9515" /></flowRoot>  </g>
 </svg>
