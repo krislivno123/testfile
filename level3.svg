@@ -28,7 +28,7 @@
      inkscape:cx="685.79518"
      inkscape:cy="1266.7289"
      inkscape:document-units="px"
-     inkscape:current-layer="g15396"
+     inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:window-width="1366"
      inkscape:window-height="705"
@@ -668,57 +668,19 @@
            x="230"
            y="150"
            style="font-size:32px;fill:#00ff00" /></flowRegion><flowPara
-         id="flowPara15201" /></flowRoot>    <g
-       id="g15342">
-      <g
-         id="g15396"
-         transform="translate(10,19.999997)">
-        <rect
-           transform="scale(-1)"
-           inkscape:label="{&quot;attr&quot;:&quot;bar&quot;,&quot;max&quot;:500,&quot;min&quot;:0,&quot;tag&quot;:&quot;L_Bazen1&quot;},{&quot;attr&quot;:&quot;rotate&quot;,&quot;max&quot;:100,&quot;min&quot;:0,&quot;tag&quot;:&quot;rotiraj&quot;}"
-           y="57.637817"
-           x="-470"
-           height="310"
-           width="170"
-           id="rect15374"
-           style="opacity:1;fill:#00ffc5;fill-opacity:1" />
-        <flowRoot
-           xml:space="preserve"
-           id="flowRoot15425"
-           style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:32px;line-height:1.25;letter-spacing:0px;word-spacing:0px;"><flowRegion
-             id="flowRegion15427"
-             style="font-size:32px;"><rect
-               id="rect15429"
-               width="120"
-               height="50"
-               x="340"
-               y="150"
-               style="font-size:32px;" /></flowRegion><flowPara
-             id="flowPara15431"></flowPara></flowRoot>        <flowRoot
-           xml:space="preserve"
-           id="flowRoot15433"
-           style="font-style:normal;font-weight:normal;font-size:37.33333206px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000080;fill-opacity:1;stroke:none;"
-           transform="translate(-7,-288.63782)"
-           inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;Level&quot;,&quot;type&quot;:&quot;Good&quot;}"><flowRegion
-             id="flowRegion15435"
-             style="font-size:37.33333206px;fill:#000080;"><rect
-               id="rect15437"
-               width="140"
-               height="80"
-               x="330"
-               y="100"
-               style="font-size:37.33333206px;fill:#000080;" /></flowRegion><flowPara
-             id="flowPara15439">%5.2f</flowPara></flowRoot>        <text
-           xml:space="preserve"
-           style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-           x="500"
-           y="-117.63782"
-           id="text15443"><tspan
-             sodipodi:role="line"
-             id="tspan15441"
-             x="500"
-             y="-81.144608" /></text>
-      </g>
-    </g>
-  </g>
+         id="flowPara15201" /></flowRoot>    <flowRoot
+       inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;Level&quot;,&quot;type&quot;:&quot;Good&quot;}"
+       transform="translate(3,-268.63782)"
+       style="font-style:normal;font-weight:normal;font-size:37.33333206px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000080;fill-opacity:1;stroke:none"
+       id="flowRoot15433"
+       xml:space="preserve"><flowRegion
+         style="font-size:37.33333206px;fill:#000080"
+         id="flowRegion15435"><rect
+           style="font-size:37.33333206px;fill:#000080"
+           y="100"
+           x="330"
+           height="80"
+           width="140"
+           id="rect15437" /></flowRegion><flowPara
+         id="flowPara15439">%05.2f</flowPara></flowRoot>  </g>
 </svg>
