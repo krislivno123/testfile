@@ -28,7 +28,7 @@
      inkscape:cx="685.79518"
      inkscape:cy="1266.7289"
      inkscape:document-units="px"
-     inkscape:current-layer="g15342"
+     inkscape:current-layer="g12925"
      showgrid="true"
      inkscape:window-width="1366"
      inkscape:window-height="705"
@@ -670,14 +670,36 @@
            style="font-size:32px;fill:#00ff00" /></flowRegion><flowPara
          id="flowPara15201" /></flowRoot>    <g
        id="g15342">
-      <rect
-         style="opacity:1;fill:#00ffc5;fill-opacity:1"
-         id="rect15374"
-         width="170"
-         height="310"
-         x="300"
-         y="-417.63782"
-         inkscape:label="{&quot;attr&quot;:&quot;bar&quot;,&quot;max&quot;:0,&quot;min&quot;:500,&quot;tag&quot;:&quot;L_Bazen1&quot;},{&quot;attr&quot;:&quot;rotate&quot;,&quot;max&quot;:100,&quot;min&quot;:0,&quot;tag&quot;:&quot;rotiraj&quot;}" />
+      <g
+         id="g15396"
+         transform="translate(10,19.999997)">
+        <rect
+           transform="scale(-1)"
+           inkscape:label="{&quot;attr&quot;:&quot;bar&quot;,&quot;max&quot;:500,&quot;min&quot;:0,&quot;tag&quot;:&quot;L_Bazen1&quot;},{&quot;attr&quot;:&quot;rotate&quot;,&quot;max&quot;:100,&quot;min&quot;:0,&quot;tag&quot;:&quot;rotiraj&quot;}"
+           y="137.63782"
+           x="-470"
+           height="310"
+           width="170"
+           id="rect15374"
+           style="opacity:1;fill:#00ffc5;fill-opacity:1" />
+        <g
+           transform="translate(198.99995,76.000002)"
+           id="g12925"
+           inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%n=KOR1KV23&quot;]}">
+          <text
+             inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;set&quot;,&quot;prompt&quot;:&quot;&quot;,&quot;src&quot;:&quot;rect15374&quot;,&quot;tag&quot;:&quot;#copy_xsac_from&quot;,&quot;type&quot;:&quot;Data&quot;}"
+             id="text12927"
+             y="-357.63782"
+             x="210"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Microsoft Sans Serif';-inkscape-font-specification:'Microsoft Sans Serif';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#6a43e5;fill-opacity:1;stroke:none"
+             xml:space="preserve"><tspan
+               y="-357.63782"
+               x="210"
+               id="tspan12929"
+               sodipodi:role="line"
+               style="font-size:22px;line-height:1.25">%4.1f</tspan></text>
+        </g>
+      </g>
     </g>
   </g>
 </svg>
