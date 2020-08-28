@@ -840,12 +840,12 @@
        y="-267.63782" />
     <rect
        style="display:inline;opacity:1;fill:#0052ff;fill-opacity:1;filter:url(#filter15794)"
-       id="rect15692"
+       id="Level_model"
        width="180"
        height="360"
        x="700"
        y="-247.63782"
-       inkscape:label="{&quot;attr&quot;:&quot;bar&quot;,&quot;max&quot;:500,&quot;min&quot;:0,&quot;tag&quot;:&quot;LevelBazena&quot;}" />
+       inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%n=LevelBazena&quot;]},{&quot;attr&quot;:&quot;bar&quot;,&quot;max&quot;:500,&quot;min&quot;:0,&quot;tag&quot;:&quot;LevelBazena&quot;}" />
     <g
        style="display:inline;fill:#ff0000"
        id="g15646"
@@ -854,158 +854,135 @@
       <g
          id="Group_Spokes"
          style="fill:#ff0000">
-	<polygon
-   id="polygon15567"
-   points="107.545,56.194 56.194,56.194 100.788,30.518 "
-   style="fill:#ff0000" />
-
-	<polygon
-   id="polygon15569"
-   points="56.194,56.194 11.599,30.518 30.518,11.599 "
-   style="fill:#ff0000" />
-
-	<polygon
-   id="polygon15571"
-   points="56.194,56.194 56.194,107.545 30.518,100.788 "
-   style="fill:#ff0000" />
-
-</g>
+        <polygon
+           id="polygon15567"
+           points="107.545,56.194 56.194,56.194 100.788,30.518 "
+           style="fill:#ff0000" />
+        <polygon
+           id="polygon15569"
+           points="56.194,56.194 11.599,30.518 30.518,11.599 "
+           style="fill:#ff0000" />
+        <polygon
+           id="polygon15571"
+           points="56.194,56.194 56.194,107.545 30.518,100.788 "
+           style="fill:#ff0000" />
+      </g>
       <g
          id="Group_Wheel"
          style="fill:#ff0000">
-	<g
-   id="g15595"
-   style="fill:#ff0000">
-		<defs
-   id="defs15575">
-			<path
-   d="m 10.248,56.151 c 0,-25.375 20.571,-45.945 45.945,-45.945 25.376,0 45.945,20.57 45.945,45.945 0,25.376 -20.568,45.947 -45.945,45.947 -25.374,0 -45.945,-20.571 -45.945,-45.947 M 52.829,0 C 24.171,1.691 1.281,24.837 0,53.603 v 5.096 c 1.331,29.885 25.98,53.702 56.193,53.702 31.067,0 56.25,-25.184 56.25,-56.25 C 112.443,26.216 89.055,1.741 59.556,0 Z"
-   id="path15623"
-   inkscape:connector-curvature="0" />
-
-		</defs>
-
-		<clipPath
-   id="SVGID_2_">
-			<use
-   id="use15577"
-   overflow="visible"
-   xlink:href="#SVGID_1_"
-   style="overflow:visible"
-   x="0"
-   y="0"
-   width="100%"
-   height="100%" />
-
-		</clipPath>
-
-		
-			<linearGradient
-   gradientTransform="matrix(112.5,0,0,-112.5,-0.0625,12712.375)"
-   y2="112.5"
-   x2="1.0005"
-   y1="112.5"
-   x1="0.0009765625"
-   gradientUnits="userSpaceOnUse"
-   id="SVGID_3_">
-			<stop
-   id="stop15580"
-   style="stop-color:#5C5D60"
-   offset="0" />
-
-			<stop
-   id="stop15582"
-   style="stop-color:#ECECED"
-   offset="0.45" />
-
-			<stop
-   id="stop15584"
-   style="stop-color:#DCDDDE"
-   offset="0.55" />
-
-			<stop
-   id="stop15586"
-   style="stop-color:#B3B5B8"
-   offset="0.76" />
-
-			<stop
-   id="stop15588"
-   style="stop-color:#B1B3B6"
-   offset="0.77" />
-
-			<stop
-   id="stop15590"
-   style="stop-color:#5C5D60"
-   offset="1" />
-
-		</linearGradient>
-
-		<rect
-   id="rect15593"
-   height="112.401"
-   width="112.443"
-   clip-path="url(#SVGID_2_)"
-   x="0"
-   y="0"
-   style="fill:#ff0000" />
-
-	</g>
-
-</g>
+        <g
+           id="g15595"
+           style="fill:#ff0000">
+          <defs
+             id="defs15575">
+            <path
+               d="m 10.248,56.151 c 0,-25.375 20.571,-45.945 45.945,-45.945 25.376,0 45.945,20.57 45.945,45.945 0,25.376 -20.568,45.947 -45.945,45.947 -25.374,0 -45.945,-20.571 -45.945,-45.947 M 52.829,0 C 24.171,1.691 1.281,24.837 0,53.603 v 5.096 c 1.331,29.885 25.98,53.702 56.193,53.702 31.067,0 56.25,-25.184 56.25,-56.25 C 112.443,26.216 89.055,1.741 59.556,0 Z"
+               id="path15623"
+               inkscape:connector-curvature="0" />
+          </defs>
+          <clipPath
+             id="SVGID_2_">
+            <use
+               id="use15577"
+               overflow="visible"
+               xlink:href="#SVGID_1_"
+               style="overflow:visible"
+               x="0"
+               y="0"
+               width="100%"
+               height="100%" />
+          </clipPath>
+          <linearGradient
+             gradientTransform="matrix(112.5,0,0,-112.5,-0.0625,12712.375)"
+             y2="112.5"
+             x2="1.0005"
+             y1="112.5"
+             x1="0.0009765625"
+             gradientUnits="userSpaceOnUse"
+             id="SVGID_3_">
+            <stop
+               id="stop15580"
+               style="stop-color:#5C5D60"
+               offset="0" />
+            <stop
+               id="stop15582"
+               style="stop-color:#ECECED"
+               offset="0.45" />
+            <stop
+               id="stop15584"
+               style="stop-color:#DCDDDE"
+               offset="0.55" />
+            <stop
+               id="stop15586"
+               style="stop-color:#B3B5B8"
+               offset="0.76" />
+            <stop
+               id="stop15588"
+               style="stop-color:#B1B3B6"
+               offset="0.77" />
+            <stop
+               id="stop15590"
+               style="stop-color:#5C5D60"
+               offset="1" />
+          </linearGradient>
+          <rect
+             id="rect15593"
+             height="112.401"
+             width="112.443"
+             clip-path="url(#SVGID_2_)"
+             x="0"
+             y="0"
+             style="fill:#ff0000" />
+        </g>
+      </g>
       <g
          id="Group_Center"
          style="fill:#ff0000">
-	<g
-   id="g15606"
-   style="fill:#ff0000">
-		<defs
-   id="defs15599">
-			<rect
-   height="112.5"
-   width="112.5"
-   id="rect15638"
-   x="0"
-   y="0" />
-
-		</defs>
-
-		<clipPath
-   id="SVGID_5_">
-			<use
-   id="use15601"
-   overflow="visible"
-   xlink:href="#SVGID_4_"
-   style="overflow:visible"
-   x="0"
-   y="0"
-   width="100%"
-   height="100%" />
-
-		</clipPath>
-
-		<path
-   id="path15604"
-   d="m 66.555,56.151 c 0,5.777 -4.639,10.461 -10.361,10.461 -5.721,0 -10.36,-4.684 -10.36,-10.461 0,-5.777 4.639,-10.46 10.36,-10.46 5.722,0 10.361,4.684 10.361,10.46"
-   clip-path="url(#SVGID_5_)"
-   inkscape:connector-curvature="0"
-   style="fill:#ff0000" />
-
-	</g>
-
-</g>
+        <g
+           id="g15606"
+           style="fill:#ff0000">
+          <defs
+             id="defs15599">
+            <rect
+               height="112.5"
+               width="112.5"
+               id="rect15638"
+               x="0"
+               y="0" />
+          </defs>
+          <clipPath
+             id="SVGID_5_">
+            <use
+               id="use15601"
+               overflow="visible"
+               xlink:href="#SVGID_4_"
+               style="overflow:visible"
+               x="0"
+               y="0"
+               width="100%"
+               height="100%" />
+          </clipPath>
+          <path
+             id="path15604"
+             d="m 66.555,56.151 c 0,5.777 -4.639,10.461 -10.361,10.461 -5.721,0 -10.36,-4.684 -10.36,-10.461 0,-5.777 4.639,-10.46 10.36,-10.46 5.722,0 10.361,4.684 10.361,10.46"
+             clip-path="url(#SVGID_5_)"
+             inkscape:connector-curvature="0"
+             style="fill:#ff0000" />
+        </g>
+      </g>
     </g>
     <text
        xml:space="preserve"
-       style="display:inline;font-style:normal;font-weight:normal;font-size:51.6362114px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.29090524"
-       x="532.78931"
-       y="72.320671"
+       style="font-style:normal;font-weight:normal;font-size:51.6362114px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.29090524"
+       x="344.35974"
+       y="-203.34731"
        id="text15650"
-       inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;L_Bazena&quot;,&quot;type&quot;:&quot;Good&quot;}"
+       inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;set&quot;,&quot;prompt&quot;:&quot;&quot;,&quot;src&quot;:&quot;Level_model&quot;,&quot;tag&quot;:&quot;copy_xsac_from&quot;,&quot;type&quot;:&quot;Data&quot;}"
        transform="scale(1.2909053,0.77465017)"><tspan
          sodipodi:role="line"
          id="tspan15648"
-         x="532.78931"
-         y="72.320671"
+         x="344.35974"
+         y="-203.34731"
          style="stroke-width:1.29090524">%5.2f</tspan></text>
   </g>
 </svg>
