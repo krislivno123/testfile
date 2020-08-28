@@ -677,7 +677,7 @@
          height="310"
          x="300"
          y="-417.63782"
-         inkscape:label="{&quot;attr&quot;:&quot;bar&quot;,&quot;max&quot;:500,&quot;min&quot;:0,&quot;tag&quot;:&quot;L_Bazen1&quot;}" />
+         inkscape:label="{&quot;attr&quot;:&quot;bar&quot;,&quot;max&quot;:0,&quot;min&quot;:500,&quot;tag&quot;:&quot;L_Bazen1&quot;},{&quot;attr&quot;:&quot;rotate&quot;,&quot;max&quot;:100,&quot;min&quot;:0,&quot;tag&quot;:&quot;rotiraj&quot;}" />
     </g>
   </g>
 </svg>
