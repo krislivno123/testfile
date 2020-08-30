@@ -7069,7 +7069,7 @@
        height="120"
        x="80"
        y="652.36218"
-       inkscape:label="{&quot;attr&quot;:&quot;script&quot;,&quot;list&quot;:[{&quot;evt&quot;:&quot;mousedown&quot;,&quot;param&quot;:&quot;window.open('https://javascript.info');&quot;}]}" />
+       inkscape:label="{&quot;attr&quot;:&quot;script&quot;,&quot;list&quot;:[{&quot;evt&quot;:&quot;mousedown&quot;,&quot;param&quot;:&quot;$W.open('https://javascript.info');\n&quot;}]}" />
     <rect
        style="opacity:1;fill:#ff0000;fill-opacity:1;stroke:#ff0000"
        id="rect12245-8"
