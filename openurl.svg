@@ -28,7 +28,7 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.26870058"
+     inkscape:zoom="0.35455254"
      inkscape:cx="894.69144"
      inkscape:cy="777.12193"
      inkscape:document-units="px"
@@ -40,7 +40,7 @@
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:snap-global="true"
-     showguides="true"
+     showguides="false"
      inkscape:snap-grids="true"
      inkscape:snap-to-guides="false"
      inkscape:guide-bbox="true"
@@ -56,6 +56,26 @@
        opacity="0.03529412"
        empcolor="#0000ff"
        empopacity="0.0627451" />
+    <sodipodi:guide
+       position="0,0"
+       orientation="0,2400"
+       id="guide13572"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="2400,0"
+       orientation="-1500,0"
+       id="guide13574"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="2400,1500"
+       orientation="0,-2400"
+       id="guide13576"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="0,1500"
+       orientation="1500,0"
+       id="guide13578"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <defs
      id="defs4">
@@ -7071,21 +7091,26 @@
          id="g13395"
          transform="translate(0,40)">
         <rect
-           style="opacity:1;fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:0.75664443"
+           style="opacity:1;fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:0.99783307"
            id="noviprozor"
-           width="920"
+           width="1600"
            height="920"
-           x="640"
-           y="-347.63782"
+           x="560"
+           y="-307.63782"
            inkscape:label="" />
-        <circle
-           inkscape:label="{&quot;attr&quot;:&quot;script&quot;,&quot;list&quot;:[{&quot;evt&quot;:&quot;mousedown&quot;,&quot;param&quot;:&quot;$W.ShowHideTranslate( 'g13395', 0, 0 );&quot;}]}"
-           style="opacity:1;fill:#ffff00;fill-opacity:1;stroke:#ff0000"
-           id="path13371"
-           cx="1487.3684"
-           cy="-288.16412"
-           r="40" />
-      </g>
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot13437"
+           style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:53.33333333px;line-height:1.25;letter-spacing:0px;word-spacing:0px;"><flowRegion
+             id="flowRegion13439"
+             style="font-size:53.33333333px;"><rect
+               id="rect13441"
+               width="1360"
+               height="640"
+               x="560"
+               y="420"
+               style="font-size:53.33333333px;" /></flowRegion><flowPara
+             id="flowPara13443"></flowPara></flowRoot>      </g>
     </g>
     <flowRoot
        xml:space="preserve"
@@ -7101,12 +7126,12 @@
            y="20"
            style="font-size:48px" /></flowRegion><flowPara
          id="flowPara13387">Zatvori</flowPara></flowRoot>    <rect
-       style="opacity:1;fill:#ffff00;fill-opacity:1;stroke:#ff0000"
+       style="opacity:1;fill:#ffff00;fill-opacity:1;stroke:#ff0000;stroke-width:0.3651484"
        id="rect12245-8"
-       width="400"
-       height="120"
-       x="40"
-       y="532.36218"
+       width="80"
+       height="80"
+       x="320"
+       y="-27.637819"
        inkscape:label="{&quot;attr&quot;:&quot;script&quot;,&quot;list&quot;:[{&quot;evt&quot;:&quot;mousedown&quot;,&quot;param&quot;:&quot;$W.ShowHideTranslate( 'g13391', 680, 440 );&quot;}]}" />
     <flowRoot
        xml:space="preserve"
@@ -7120,5 +7145,18 @@
            x="80"
            y="980"
            style="font-size:42.66666667px;" /></flowRegion><flowPara
-         id="flowPara13419"></flowPara></flowRoot>  </g>
+         id="flowPara13419"></flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot13429"
+       style="font-style:normal;font-weight:normal;font-size:42.66666794px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="translate(87.434152,-955.31999)"><flowRegion
+         id="flowRegion13431"
+         style="font-size:42.66666794px"><rect
+           id="rect13433"
+           width="320"
+           height="160"
+           x="0"
+           y="940"
+           style="font-size:42.66666794px" /></flowRegion><flowPara
+         id="flowPara13435">Tribistovo</flowPara></flowRoot>  </g>
 </svg>
