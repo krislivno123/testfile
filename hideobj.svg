@@ -27,7 +27,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.35"
      inkscape:cx="171.15931"
-     inkscape:cy="540"
+     inkscape:cy="428.06262"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -60,5 +60,13 @@
        x="120"
        y="257.14285"
        inkscape:label="{&quot;attr&quot;:&quot;script&quot;,&quot;list&quot;:[{&quot;evt&quot;:&quot;mouseup&quot;,&quot;param&quot;:&quot;window.ShowHideTranslate(\&quot;rect2745\&quot;,0,0);\n&quot;}]}" />
+    <rect
+       style="opacity:1;fill:#ff0000;fill-opacity:1;stroke:#ff0000"
+       id="rect2747"
+       width="294.28571"
+       height="294.28571"
+       x="131.42857"
+       y="660"
+       inkscape:label="{&quot;attr&quot;:&quot;script&quot;,&quot;list&quot;:[{&quot;evt&quot;:&quot;mouseup&quot;,&quot;param&quot;:&quot;window.ShowHideTranslate(\&quot;rect2745\&quot;,200,200);&quot;}]}" />
   </g>
 </svg>
