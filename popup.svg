@@ -31,11 +31,11 @@
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1366"
-     inkscape:window-height="705"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1" />
+     inkscape:window-width="681"
+     inkscape:window-height="696"
+     inkscape:window-x="-7"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0" />
   <metadata
      id="metadata21">
     <rdf:RDF>
@@ -59,7 +59,7 @@
        height="185.68668"
        x="74.299515"
        y="65.728088"
-       inkscape:label="{&quot;attr&quot;:&quot;popup&quot;,&quot;height&quot;:400,&quot;src&quot;:&quot;https://www.google.de&quot;,&quot;width&quot;:500,&quot;x&quot;:100,&quot;y&quot;:100}" />
+       inkscape:label="{&quot;attr&quot;:&quot;open&quot;,&quot;height&quot;:400,&quot;istag&quot;:0,&quot;src&quot;:&quot;https://www.google.de/&quot;,&quot;type&quot;:&quot;_blank&quot;,&quot;width&quot;:500,&quot;x&quot;:100,&quot;y&quot;:100},{&quot;attr&quot;:&quot;popup&quot;,&quot;height&quot;:400,&quot;src&quot;:&quot;https://www.google.de/&quot;,&quot;width&quot;:500,&quot;x&quot;:100,&quot;y&quot;:100}" />
     <rect
        style="opacity:1;fill:#00ffff;fill-opacity:1;stroke:#ff0000"
        id="rect33"
