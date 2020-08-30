@@ -7100,31 +7100,25 @@
            x="1880"
            y="20"
            style="font-size:48px" /></flowRegion><flowPara
-         id="flowPara13387">Zatvori</flowPara></flowRoot>    <g
-       id="g13406"
-       transform="translate(-40,39.999997)"
-       inkscape:label="{&quot;attr&quot;:&quot;script&quot;,&quot;list&quot;:[{&quot;evt&quot;:&quot;mousedown&quot;,&quot;param&quot;:&quot;$W.ShowHideTranslate( 'g13391', 600, 360 );&quot;}]}">
-      <rect
-         inkscape:label="{&quot;attr&quot;:&quot;script&quot;,&quot;list&quot;:[{&quot;evt&quot;:&quot;mousedown&quot;,&quot;param&quot;:&quot;$W.ShowHideTranslate( 'g13391', 680, 440 );&quot;}]}"
-         y="492.36218"
-         x="80"
-         height="120"
-         width="400"
-         id="rect12245-8"
-         style="opacity:1;fill:#ffff00;fill-opacity:1;stroke:#ff0000" />
-    </g>
+         id="flowPara13387">Zatvori</flowPara></flowRoot>    <rect
+       style="opacity:1;fill:#ffff00;fill-opacity:1;stroke:#ff0000"
+       id="rect12245-8"
+       width="400"
+       height="120"
+       x="40"
+       y="532.36218"
+       inkscape:label="{&quot;attr&quot;:&quot;script&quot;,&quot;list&quot;:[{&quot;evt&quot;:&quot;mousedown&quot;,&quot;param&quot;:&quot;$W.ShowHideTranslate( 'g13391', 680, 440 );&quot;}]}" />
     <flowRoot
-       transform="matrix(1.3409563,0,0,1.6601871,-128.92514,-1071.5393)"
-       style="font-style:normal;font-weight:normal;font-size:37.33333206px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       id="flowRoot13362"
-       xml:space="preserve"><flowRegion
-         style="font-size:37.33333206px"
-         id="flowRegion13364"><rect
-           style="font-size:37.33333206px"
+       xml:space="preserve"
+       id="flowRoot13413"
+       style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:42.66666667px;line-height:1.25;letter-spacing:0px;word-spacing:0px;"><flowRegion
+         id="flowRegion13415"
+         style="font-size:42.66666667px;"><rect
+           id="rect13417"
+           width="320"
+           height="120"
+           x="80"
            y="980"
-           x="160"
-           height="80"
-           width="280"
-           id="rect13366" /></flowRegion><flowPara
-         id="flowPara13368">Vodosprema Posusje</flowPara></flowRoot>  </g>
+           style="font-size:42.66666667px;" /></flowRegion><flowPara
+         id="flowPara13419"></flowPara></flowRoot>  </g>
 </svg>
