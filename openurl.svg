@@ -28,9 +28,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.38"
-     inkscape:cx="1028.819"
-     inkscape:cy="699.16366"
+     inkscape:zoom="0.26870058"
+     inkscape:cx="894.69144"
+     inkscape:cy="777.12193"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -1764,7 +1764,16 @@
          d="M 112.5,29.924 H 0 v -29.7 h 112.5 z"
          inkscape:connector-curvature="0" />
     </g>
+    <rect
+       style="opacity:1;fill:#ffff00;fill-opacity:1;stroke:#ff0000"
+       id="rect12245-8"
+       width="400"
+       height="120"
+       x="80"
+       y="492.36218"
+       inkscape:label="{&quot;attr&quot;:&quot;script&quot;,&quot;list&quot;:[{&quot;evt&quot;:&quot;mousedown&quot;,&quot;param&quot;:&quot;$W.ShowHideTranslate( 'g13391', 680, 440 );&quot;}]}" />
     <g
+       style=""
        id="g12243">
       <g
          transform="translate(68.805009,-343.81166)"
@@ -7062,21 +7071,54 @@
              style="font-size:32px;line-height:2;opacity:1;fill:#000080">Klor u vodi</tspan></text>
       </g>
     </g>
-    <rect
-       style="opacity:1;fill:#ff0000;fill-opacity:1;stroke:#ff0000"
-       id="rect12245"
-       width="400"
-       height="120"
-       x="80"
-       y="652.36218"
-       inkscape:label="{&quot;attr&quot;:&quot;script&quot;,&quot;list&quot;:[{&quot;evt&quot;:&quot;mousedown&quot;,&quot;param&quot;:&quot;$W.open('https://javascript.info');\n&quot;}]}" />
-    <rect
-       style="opacity:1;fill:#ff0000;fill-opacity:1;stroke:#ff0000"
-       id="rect12245-8"
-       width="400"
-       height="120"
-       x="80"
-       y="492.36218"
-       inkscape:label="{&quot;attr&quot;:&quot;script&quot;,&quot;list&quot;:[{&quot;evt&quot;:&quot;mousedown&quot;,&quot;param&quot;:&quot;$W.ShowHideTranslate( 'g12243', 0, 0 );&quot;}]}" />
-  </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot13362"
+       style="font-style:normal;font-weight:normal;font-size:37.33333206px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(1.3409563,0,0,1.6601871,-88.925135,-1111.5393)"><flowRegion
+         id="flowRegion13364"
+         style="font-size:37.33333206px"><rect
+           id="rect13366"
+           width="280"
+           height="80"
+           x="160"
+           y="980"
+           style="font-size:37.33333206px" /></flowRegion><flowPara
+         id="flowPara13368">Vodosprema Posusje</flowPara></flowRoot>    <g
+       id="g13391"
+       transform="translate(40.378322,-0.37832483)">
+      <g
+         id="g13395"
+         transform="translate(0,40)">
+        <rect
+           style="opacity:1;fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:0.75664443"
+           id="noviprozor"
+           width="920"
+           height="920"
+           x="640"
+           y="-347.63782"
+           inkscape:label="" />
+        <circle
+           inkscape:label="{&quot;attr&quot;:&quot;script&quot;,&quot;list&quot;:[{&quot;evt&quot;:&quot;mousedown&quot;,&quot;param&quot;:&quot;$W.ShowHideTranslate( 'g13395', 0, 0 );&quot;}]}"
+           style="opacity:1;fill:#ffff00;fill-opacity:1;stroke:#ff0000"
+           id="path13371"
+           cx="1487.3684"
+           cy="-288.16412"
+           r="40" />
+      </g>
+    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot13381"
+       style="font-style:normal;font-weight:normal;font-size:48px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="translate(7.8947368,-421.32203)"><flowRegion
+         id="flowRegion13383"
+         style="font-size:48px"><rect
+           id="rect13385"
+           width="200"
+           height="120"
+           x="1880"
+           y="20"
+           style="font-size:48px" /></flowRegion><flowPara
+         id="flowPara13387">Zatvori</flowPara></flowRoot>  </g>
 </svg>
