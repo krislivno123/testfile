@@ -543,6 +543,14 @@
    style="fill:#e5e5e5;stroke:#4d4d4d;stroke-width:0.25" />
 
 </g>
+      <ellipse
+         style="opacity:1;fill:#00ff00;fill-opacity:1;stroke:#ff0000;stroke-width:0.28125"
+         id="path13204"
+         cx="162.9057"
+         cy="32.35857"
+         rx="22.098213"
+         ry="21.69643"
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;10&quot;,&quot;param&quot;:&quot;#FF0000&quot;,&quot;tag&quot;:&quot;otvoren&quot;}]}" />
     </g>
   </g>
 </svg>
