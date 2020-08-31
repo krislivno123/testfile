@@ -17,7 +17,7 @@
    inkscape:version="0.92.4 (e05b578f1, 2019-02-26, custom)"
    sodipodi:docname="drawing.svg">
   <defs
-     id="defs12954" />
+     id="defs10" />
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -29,7 +29,7 @@
      inkscape:cx="960"
      inkscape:cy="540"
      inkscape:document-units="px"
-     inkscape:current-layer="g13200"
+     inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1366"
      inkscape:window-height="705"
@@ -37,7 +37,7 @@
      inkscape:window-y="-8"
      inkscape:window-maximized="1" />
   <metadata
-     id="metadata12957">
+     id="metadata13">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -52,505 +52,705 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
+    <rect
+       style="opacity:1;fill:#ff0000;fill-opacity:1;stroke:#ff0000"
+       id="rect23"
+       width="242.85715"
+       height="91.428574"
+       x="57.142857"
+       y="391.42856"
+       inkscape:label="{&quot;attr&quot;:&quot;script&quot;,&quot;list&quot;:[{&quot;evt&quot;:&quot;mouseup&quot;,&quot;param&quot;:&quot;$W.ShowHideTranslate( 'pumpa', 640, 530 );&quot;}]}" />
     <g
-       id="g13200"
-       transform="matrix(3.5555556,0,0,3.5555556,130.77968,96.375864)">
+       id="pumpa"
+       transform="matrix(3.5522388,0,0,3.5522388,500,13.23383)"
+       inkscape:label="">
       <g
-         id="Group_Impeller_Mini">
-	
-		<radialGradient
+         id="Group_ConnectingPipe"
+         transform="translate(39.411765,38.607443)">
+	<path
+   id="path312"
+   d="m 11.6,64.978 h 2.59 v 1.351 H 11.6 Z"
+   inkscape:connector-curvature="0"
+   style="fill:#999999" />
+
+	<path
+   id="path314"
+   d="M 18.243,38.063 H 7.207 v 7.657 h 11.036 z"
+   inkscape:connector-curvature="0"
+   style="fill:#999999" />
+
+	<path
+   id="path316"
+   d="m 30.855,30.856 h 7.883 v 3.941 h -7.883 z"
+   inkscape:connector-curvature="0"
+   style="fill:#999999" />
+
+	<path
+   id="path318"
+   d="m 24.099,38.063 h 2.027 v 10.022 h -2.027 z"
+   inkscape:connector-curvature="0"
+   style="fill:#999999" />
+
+	<path
+   id="path320"
+   d="M 23.536,45.383 V 44.82 h 4.617 V 32.771 h 13.625 v 0.676 h -12.95 v 11.937 h -5.292 z"
+   inkscape:connector-curvature="0"
+   style="fill:#4c4c4c" />
+
+	<path
+   id="path322"
+   d="m 18.243,39.415 h 8.559 v 1.352 h -8.559 z"
+   inkscape:connector-curvature="0"
+   style="fill:#4c4c4c" />
+
+	<path
+   id="path324"
+   d="m 43.13,26.802 h 5.293 V 38.063 H 43.13 Z"
+   inkscape:connector-curvature="0"
+   style="fill:#cccccc" />
+
+	<path
+   id="path326"
+   d="m 32.094,56.419 h 5.743 v 3.941 h -5.743 z"
+   inkscape:connector-curvature="0"
+   style="fill:#b2b2b2" />
+
+	<path
+   id="path328"
+   d="m 7.207,54.392 v 2.027 h 1.352 8.333 1.352 v -2.027 z"
+   inkscape:connector-curvature="0"
+   style="fill:#b2b2b2" />
+
+	<path
+   id="path330"
+   d="m 8.559,56.419 c 0,0 0,-1.294 4.275,-1.294 4.058,0 4.058,1.294 4.058,1.294 v 8.559 H 8.559 Z"
+   inkscape:connector-curvature="0"
+   style="fill:#bababa" />
+
+	<path
+   id="path332"
+   d="M 18.243,45.721 H 7.207 v 8.671 h 11.036 z"
+   inkscape:connector-curvature="0"
+   style="fill:#666666" />
+
+	<circle
+   id="circle334"
+   r="1.351"
+   cy="34.122002"
+   cx="45.720001"
+   style="fill:#666666" />
+
+	<rect
+   id="rect336"
+   height="2.7019999"
+   width="0.28099999"
+   y="32.771"
+   x="45.578999"
+   style="fill:#4c4c4c" />
+
+</g>
+      <g
+         id="Group_ActuatorStem"
+         transform="translate(39.411765,38.607443)">
+	<linearGradient
+   y2="45.7178"
+   x2="36.8242"
+   y1="45.7178"
+   x1="32.769501"
    gradientUnits="userSpaceOnUse"
-   gradientTransform="matrix(1,0,0,-1,0,94.7598)"
-   r="32.2085"
-   cy="42.102501"
-   cx="80.699203"
    id="SVGID_1_">
 		<stop
-   id="stop12970"
-   style="stop-color:#333333"
-   offset="0.01" />
+   id="stop339"
+   style="stop-color:#383838"
+   offset="0" />
 
 		<stop
-   id="stop12972"
-   style="stop-color:#333333"
-   offset="0.83" />
+   id="stop341"
+   style="stop-color:#ECECEC"
+   offset="0.49" />
 
 		<stop
-   id="stop12974"
-   style="stop-color:#F5F5F5"
+   id="stop343"
+   style="stop-color:#D9D9D9"
+   offset="0.56" />
+
+		<stop
+   id="stop345"
+   style="stop-color:#A8A8A8"
+   offset="0.71" />
+
+		<stop
+   id="stop347"
+   style="stop-color:#5A5A5A"
    offset="0.92" />
 
 		<stop
-   id="stop12976"
-   style="stop-color:#4D4D4D"
+   id="stop349"
+   style="stop-color:#383838"
    offset="1" />
 
-	</radialGradient>
+	</linearGradient>
 
-	<ellipse
-   id="ellipse12979"
-   ry="32.251999"
-   rx="32.165001"
-   cy="52.657001"
-   cx="80.698997"
+	<path
+   id="path352"
+   d="m 32.77,34.798 h 4.055 V 56.637 H 32.77 Z"
+   inkscape:connector-curvature="0"
    style="fill:url(#SVGID_1_)" />
 
 </g>
       <g
-         id="Group_Central_Disc">
-	<ellipse
-   id="ellipse12982"
-   ry="26.768999"
-   rx="26.697001"
-   cy="52.657001"
-   cx="80.734001"
-   style="fill:#1a1a1a" />
+         id="Group_Yoke2"
+         transform="translate(39.411765,38.607443)">
+	<path
+   id="path355"
+   d="m 13.514,38.063 c 0,0 -4.633,-7.018 -6.193,-9.347 C 6.295,27.184 4.202,24.112 3.492,22.41 3.135,21.553 2.591,18.806 2.591,18.806 c 0,0 -1.055,-11.559 1.35,-14.188 1.561,-1.706 6.982,-1.352 6.982,-1.352 h 21.17 V 0.564 H 10.248 c 0,0 -4.622,-0.358 -6.869,1.126 C 0.448,3.627 0,7.434 0,7.434 c 0,0 0,6.771 0,12.725 0,1.006 0.787,2.931 1.239,3.829 0.869,1.725 3.24,5.104 4.302,6.718 1.263,1.919 5.044,7.358 5.044,7.358 h 2.929 z"
+   inkscape:connector-curvature="0"
+   style="fill:#ffedcc" />
+
+	<path
+   id="path357"
+   d="M 37.387,5.294 V 0.001 h -5.293 v 3.941 h 1.352 v 1.352 z"
+   inkscape:connector-curvature="0"
+   style="fill:#cc9933" />
+
+	<path
+   id="path359"
+   d="m 30.855,0.001 h -3.378 v 3.941 h 3.378 z"
+   inkscape:connector-curvature="0"
+   style="fill:#cc9933" />
+
+	
+		<rect
+   id="rect361"
+   height="0.292"
+   width="1.791"
+   transform="matrix(0.7036,-0.7106,0.7106,0.7036,7.727,25.1483)"
+   y="3.1659999"
+   x="33.111"
+   style="fill:#4c4c4c" />
 
 </g>
       <g
-         id="Group_Blade_Mini">
-	
-		<linearGradient
-   gradientTransform="matrix(-0.1233,-1.0041,0.9925,-0.1219,23.7628,110.6168)"
-   y2="52.143902"
-   x2="42.045101"
-   y1="70.369102"
-   x1="37.161598"
+         id="Group_BodyAndPort"
+         transform="translate(39.411765,38.607443)">
+	<path
+   id="path364"
+   d="m 30.855,60.36 h 7.883 v 1.351 h -7.883 z"
+   inkscape:connector-curvature="0"
+   style="fill:#4c4c4c" />
+
+	<linearGradient
+   y2="109.1777"
+   x2="45.7197"
+   y1="109.1777"
+   x1="24.0986"
    gradientUnits="userSpaceOnUse"
    id="SVGID_2_">
 		<stop
-   id="stop12985"
-   style="stop-color:#595959"
-   offset="0.01" />
+   id="stop366"
+   style="stop-color:#1F1F1F"
+   offset="0" />
 
 		<stop
-   id="stop12987"
-   style="stop-color:#E0E0E0"
-   offset="0.5" />
+   id="stop368"
+   style="stop-color:#999999"
+   offset="0.45" />
 
 		<stop
-   id="stop12989"
-   style="stop-color:#595959"
+   id="stop370"
+   style="stop-color:#868686"
+   offset="0.62" />
+
+		<stop
+   id="stop372"
+   style="stop-color:#737373"
+   offset="0.77" />
+
+		<stop
+   id="stop374"
+   style="stop-color:#1F1F1F"
    offset="1" />
 
 	</linearGradient>
 
 	<path
-   id="path12992"
-   d="m 68.547,75.012 c 5.693,2.136 12.116,3.065 18.724,2.442 l -4.44,-27.806"
+   id="path377"
+   d="M 24.099,105.855 H 45.72 v 6.644 H 24.099 Z"
    inkscape:connector-curvature="0"
    style="fill:url(#SVGID_2_)" />
 
-	
-		<linearGradient
-   gradientTransform="matrix(0.092,1.0075,-0.9959,0.0909,54.7394,-1.0939)"
-   y2="-32.542801"
-   x2="47.337002"
-   y1="-14.3652"
-   x1="42.466301"
+	<linearGradient
+   y2="71.416"
+   x2="45.7197"
+   y1="71.416"
+   x1="24.0986"
    gradientUnits="userSpaceOnUse"
    id="SVGID_3_">
 		<stop
-   id="stop12994"
-   style="stop-color:#595959"
-   offset="0.01" />
+   id="stop379"
+   style="stop-color:#1F1F1F"
+   offset="0" />
 
 		<stop
-   id="stop12996"
-   style="stop-color:#E0E0E0"
-   offset="0.5" />
+   id="stop381"
+   style="stop-color:#999999"
+   offset="0.45" />
 
 		<stop
-   id="stop12998"
-   style="stop-color:#595959"
+   id="stop383"
+   style="stop-color:#868686"
+   offset="0.62" />
+
+		<stop
+   id="stop385"
+   style="stop-color:#737373"
+   offset="0.77" />
+
+		<stop
+   id="stop387"
+   style="stop-color:#1F1F1F"
    offset="1" />
 
 	</linearGradient>
 
 	<path
-   id="path13001"
-   d="M 93.707,30.636 C 88.104,28.367 81.723,27.282 75.094,27.747 l 3.312,27.896"
+   id="path390"
+   d="M 24.099,68.243 H 45.72 v 6.345 H 24.099 Z"
    inkscape:connector-curvature="0"
    style="fill:url(#SVGID_3_)" />
 
-	
-		<linearGradient
-   gradientTransform="matrix(-1.0078,0.0882,-0.0872,-0.9962,147.2021,77.5306)"
-   y2="37.4118"
-   x2="50.269402"
-   y1="19.220699"
-   x1="55.087399"
+	<linearGradient
+   y2="63.681599"
+   x2="41.778301"
+   y1="63.681599"
+   x1="28.153299"
    gradientUnits="userSpaceOnUse"
    id="SVGID_4_">
 		<stop
-   id="stop13003"
-   style="stop-color:#595959"
-   offset="0.01" />
+   id="stop392"
+   style="stop-color:#1F1F1F"
+   offset="0" />
 
 		<stop
-   id="stop13005"
-   style="stop-color:#E0E0E0"
-   offset="0.5" />
+   id="stop394"
+   style="stop-color:#999999"
+   offset="0.45" />
 
 		<stop
-   id="stop13007"
-   style="stop-color:#595959"
+   id="stop396"
+   style="stop-color:#868686"
+   offset="0.62" />
+
+		<stop
+   id="stop398"
+   style="stop-color:#737373"
+   offset="0.77" />
+
+		<stop
+   id="stop400"
+   style="stop-color:#1F1F1F"
    offset="1" />
 
 	</linearGradient>
 
 	<path
-   id="path13010"
-   d="m 102.995,65.454 c 2.286,-5.597 3.39,-11.972 2.943,-18.603 l -27.907,3.174"
+   id="path403"
+   d="m 28.153,61.711 h 13.625 v 3.941 H 28.153 Z"
    inkscape:connector-curvature="0"
    style="fill:url(#SVGID_4_)" />
 
-	
-		<linearGradient
-   gradientTransform="matrix(1.0101,-0.0568,0.0561,0.9984,36.9262,42.2639)"
-   y2="1.4024"
-   x2="35.1217"
-   y1="19.521999"
-   x1="30.2666"
+	<linearGradient
+   y2="76.294899"
+   x2="45.7197"
+   y1="76.294899"
+   x1="24.0986"
    gradientUnits="userSpaceOnUse"
    id="SVGID_5_">
 		<stop
-   id="stop13012"
-   style="stop-color:#595959"
-   offset="0.01" />
+   id="stop405"
+   style="stop-color:#383838"
+   offset="0" />
 
 		<stop
-   id="stop13014"
-   style="stop-color:#E0E0E0"
-   offset="0.5" />
+   id="stop407"
+   style="stop-color:#ECECEC"
+   offset="0.45" />
 
 		<stop
-   id="stop13016"
-   style="stop-color:#595959"
+   id="stop409"
+   style="stop-color:#D9D9D9"
+   offset="0.55" />
+
+		<stop
+   id="stop411"
+   style="stop-color:#A8A8A8"
+   offset="0.76" />
+
+		<stop
+   id="stop413"
+   style="stop-color:#A6A6A6"
+   offset="0.77" />
+
+		<stop
+   id="stop415"
+   style="stop-color:#383838"
    offset="1" />
 
 	</linearGradient>
 
 	<path
-   id="path13019"
-   d="m 59.447,38.989 c -2.418,5.495 -3.675,11.825 -3.387,18.47 l 27.968,-2.042"
+   id="path418"
+   d="M 24.099,73.648 H 45.72 v 5.293 H 24.099 v -5.293"
    inkscape:connector-curvature="0"
    style="fill:url(#SVGID_5_)" />
 
-</g>
-      <g
-         id="Group_Rotor_Mini">
-	
-		<radialGradient
+	<linearGradient
+   y2="107.0938"
+   x2="34.965801"
+   y1="77.589798"
+   x1="34.965801"
    gradientUnits="userSpaceOnUse"
-   gradientTransform="matrix(0.9848,0.1736,0.1736,-0.9848,-6.5594,79.7527)"
-   r="8.533"
-   cy="41.9692"
-   cx="81.347702"
    id="SVGID_6_">
 		<stop
-   id="stop13022"
-   style="stop-color:#E2E2E2"
+   id="stop420"
+   style="stop-color:#C8C8C8"
    offset="0" />
 
 		<stop
-   id="stop13024"
-   style="stop-color:#C4C4C4"
-   offset="0.67" />
+   id="stop422"
+   style="stop-color:#B1B1B1"
+   offset="0.29" />
 
 		<stop
-   id="stop13026"
-   style="stop-color:#4D4D4D"
+   id="stop424"
+   style="stop-color:#757575"
+   offset="0.91" />
+
+		<stop
+   id="stop426"
+   style="stop-color:#6C6C6C"
    offset="1" />
 
-	</radialGradient>
+	</linearGradient>
 
-	<circle
-   id="circle13029"
-   r="8.533"
-   cy="52.543999"
-   cx="80.837997"
+	<path
+   id="path429"
+   d="m 24.099,77.59 v 2.703 l -1.238,1.238 h -5.293 l -1.352,-1.238 v 24.211 l 1.352,-1.352 h 5.293 l 1.238,1.352 v 2.59 H 45.72 v -2.59 l 1.352,-1.352 h 5.293 l 1.352,1.352 V 80.293 l -1.352,1.238 H 47.072 L 45.72,80.293 V 77.59 Z"
+   inkscape:connector-curvature="0"
    style="fill:url(#SVGID_6_)" />
 
-</g>
-      <g
-         id="Group_Rotor_Mini_Blade">
-	<path
-   id="path13032"
-   d="m 79.884,58.864 c 3.497,0.616 6.833,-1.72 7.449,-5.218 l -6.581,-1.161 c -0.046,0.258 -0.055,0.31 -0.115,0.648"
-   inkscape:connector-curvature="0"
-   style="fill:#333333" />
-
-	<path
-   id="path13034"
-   d="m 81.762,46.064 c -3.498,-0.617 -6.832,1.72 -7.45,5.217 l 6.582,1.16 c 0.046,-0.257 0.056,-0.308 0.115,-0.648 z"
-   inkscape:connector-curvature="0"
-   style="fill:#e5e5e5;stroke:#4d4d4d;stroke-width:0.25" />
-
-</g>
-      <g
-         id="Group_Pump_Support">
-	<path
-   id="path13037"
-   d="m 21.108,71.181 -6.063,9.432 H 0.001 V 94.76 H 112.499 V 80.612 H 70.284 L 63.323,71.18 H 21.108 Z"
-   inkscape:connector-curvature="0"
-   style="fill:#666666" />
-
-</g>
-      <g
-         id="Group_Impeller_Large">
-	
-		<radialGradient
+	<linearGradient
+   y2="78.941399"
+   x2="56.361301"
+   y1="105.8555"
+   x1="56.361301"
    gradientUnits="userSpaceOnUse"
-   gradientTransform="matrix(1,0,0,-1,0,94.7598)"
-   r="39.836899"
-   cy="52.7705"
-   cx="42.215801"
    id="SVGID_7_">
 		<stop
-   id="stop13040"
-   style="stop-color:#333333"
-   offset="0.01" />
+   id="stop431"
+   style="stop-color:#383838"
+   offset="0" />
 
 		<stop
-   id="stop13042"
-   style="stop-color:#333333"
-   offset="0.83" />
+   id="stop433"
+   style="stop-color:#ECECEC"
+   offset="0.45" />
 
 		<stop
-   id="stop13044"
-   style="stop-color:#F5F5F5"
-   offset="0.92" />
+   id="stop435"
+   style="stop-color:#D9D9D9"
+   offset="0.55" />
 
 		<stop
-   id="stop13046"
-   style="stop-color:#4D4D4D"
+   id="stop437"
+   style="stop-color:#A8A8A8"
+   offset="0.76" />
+
+		<stop
+   id="stop439"
+   style="stop-color:#A6A6A6"
+   offset="0.77" />
+
+		<stop
+   id="stop441"
+   style="stop-color:#383838"
    offset="1" />
 
-	</radialGradient>
+	</linearGradient>
 
-	<ellipse
-   id="ellipse13049"
-   ry="39.889999"
-   rx="39.784"
-   cy="41.990002"
-   cx="42.216"
+	<polygon
+   id="polygon444"
+   points="59.008,96.508 59.008,85.923 59.008,78.941 53.716,78.941 53.716,85.923 53.716,96.508 53.716,105.855 59.008,105.855 "
    style="fill:url(#SVGID_7_)" />
 
-</g>
-      <g
-         id="Group_Central_Disc1">
-	<ellipse
-   id="ellipse13052"
-   ry="33.507999"
-   rx="33.417999"
-   cy="42.323002"
-   cx="42.216"
-   style="fill:#1a1a1a" />
-
-</g>
-      <g
-         id="Group_Pump_Support_Platform">
-	<rect
-   id="rect13055"
-   height="11.288"
-   width="108.146"
-   y="82.042"
-   x="2.2609999"
-   style="fill:#9e9e9e;stroke:#4c4c4c;stroke-width:0.26199999" />
-
-</g>
-      <g
-         id="Group_Blade_Large"
-         inkscape:label="{&quot;attr&quot;:&quot;rotate&quot;,&quot;max&quot;:100,&quot;min&quot;:0,&quot;tag&quot;:&quot;rotiraj&quot;}">
-	
-		<linearGradient
-   gradientTransform="matrix(-0.5058,-0.8761,0.866,-0.5,33.0966,99.207)"
-   y2="23.660801"
-   x2="35.480301"
-   y1="43.721699"
-   x1="30.105"
+	<linearGradient
+   y2="78.941399"
+   x2="13.5698"
+   y1="105.8555"
+   x1="13.5698"
    gradientUnits="userSpaceOnUse"
    id="SVGID_8_">
 		<stop
-   id="stop13058"
-   style="stop-color:#595959"
-   offset="0.01" />
-
-		<stop
-   id="stop13060"
-   style="stop-color:#E0E0E0"
-   offset="0.5" />
-
-		<stop
-   id="stop13062"
-   style="stop-color:#595959"
-   offset="1" />
-
-	</linearGradient>
-
-	<path
-   id="path13065"
-   d="m 40.372,73.748 c 6.926,0.362 13.917,-1.166 20.23,-4.811 L 40.663,34.401"
-   inkscape:connector-curvature="0"
-   style="fill:url(#SVGID_8_)" />
-
-	
-		<linearGradient
-   gradientTransform="matrix(0.4783,0.8915,-0.8812,0.4728,17.1888,-15.5352)"
-   y2="-7.5653"
-   x2="52.794899"
-   y1="12.4961"
-   x1="47.419399"
-   gradientUnits="userSpaceOnUse"
-   id="SVGID_9_">
-		<stop
-   id="stop13067"
-   style="stop-color:#595959"
-   offset="0.01" />
-
-		<stop
-   id="stop13069"
-   style="stop-color:#E0E0E0"
-   offset="0.5" />
-
-		<stop
-   id="stop13071"
-   style="stop-color:#595959"
-   offset="1" />
-
-	</linearGradient>
-
-	<path
-   id="path13074"
-   d="M 44.921,10.359 C 38.009,9.782 30.973,11.092 24.55,14.539 L 43.405,49.68"
-   inkscape:connector-curvature="0"
-   style="fill:url(#SVGID_9_)" />
-
-	
-		<linearGradient
-   gradientTransform="matrix(-0.8761,0.5058,-0.5,-0.866,111.788,29.9991)"
-   y2="11.5046"
-   x2="56.4464"
-   y1="31.568399"
-   x1="51.070301"
-   gradientUnits="userSpaceOnUse"
-   id="SVGID_10_">
-		<stop
-   id="stop13076"
-   style="stop-color:#595959"
-   offset="0.01" />
-
-		<stop
-   id="stop13078"
-   style="stop-color:#E0E0E0"
-   offset="0.5" />
-
-		<stop
-   id="stop13080"
-   style="stop-color:#595959"
-   offset="1" />
-
-	</linearGradient>
-
-	<path
-   id="path13083"
-   d="m 74.038,43.855 c 0.36,-6.926 -1.166,-13.917 -4.81,-20.233 L 34.69,43.562"
-   inkscape:connector-curvature="0"
-   style="fill:url(#SVGID_10_)" />
-
-	
-		<linearGradient
-   gradientTransform="matrix(0.8915,-0.4783,0.4728,0.8812,-2.9551,45.9064)"
-   y2="5.2472"
-   x2="32.216702"
-   y1="25.306601"
-   x1="26.841801"
-   gradientUnits="userSpaceOnUse"
-   id="SVGID_11_">
-		<stop
-   id="stop13085"
-   style="stop-color:#595959"
-   offset="0.01" />
-
-		<stop
-   id="stop13087"
-   style="stop-color:#E0E0E0"
-   offset="0.5" />
-
-		<stop
-   id="stop13089"
-   style="stop-color:#595959"
-   offset="1" />
-
-	</linearGradient>
-
-	<path
-   id="path13092"
-   d="m 10.651,39.306 c -0.578,6.909 0.732,13.947 4.179,20.37 L 49.972,40.821"
-   inkscape:connector-curvature="0"
-   style="fill:url(#SVGID_11_)" />
-
-</g>
-      <g
-         id="Group_Pump_Rotor"
-         transform="translate(0,0.80357142)">
-	
-		<radialGradient
-   gradientUnits="userSpaceOnUse"
-   gradientTransform="matrix(1,0,0,-1,0,94.7598)"
-   r="8.7571001"
-   cy="52.769501"
-   cx="42.215801"
-   id="SVGID_12_">
-		<stop
-   id="stop13095"
-   style="stop-color:#E2E2E2"
+   id="stop446"
+   style="stop-color:#383838"
    offset="0" />
 
 		<stop
-   id="stop13097"
-   style="stop-color:#C4C4C4"
-   offset="0.67" />
+   id="stop448"
+   style="stop-color:#ECECEC"
+   offset="0.45" />
 
 		<stop
-   id="stop13099"
+   id="stop450"
+   style="stop-color:#D9D9D9"
+   offset="0.55" />
+
+		<stop
+   id="stop452"
+   style="stop-color:#A8A8A8"
+   offset="0.76" />
+
+		<stop
+   id="stop454"
+   style="stop-color:#A6A6A6"
+   offset="0.77" />
+
+		<stop
+   id="stop456"
+   style="stop-color:#383838"
+   offset="1" />
+
+	</linearGradient>
+
+	<polygon
+   id="polygon459"
+   points="16.216,96.508 16.216,85.923 16.216,78.941 10.924,78.941 10.924,85.923 10.924,96.508 10.924,105.855 16.216,105.855 "
+   style="fill:url(#SVGID_8_)" />
+
+	
+		<radialGradient
+   gradientUnits="userSpaceOnUse"
+   gradientTransform="matrix(-4.371139e-8,-1,3,-1.311342e-7,-242.1152,127.252)"
+   r="9.4589996"
+   cy="92.341797"
+   cx="34.910198"
+   id="SVGID_9_">
+		<stop
+   id="stop461"
+   style="stop-color:#ECECEC"
+   offset="0" />
+
+		<stop
+   id="stop463"
+   style="stop-color:#DDDDDD"
+   offset="0.14" />
+
+		<stop
+   id="stop465"
+   style="stop-color:#B8B8B8"
+   offset="0.4" />
+
+		<stop
+   id="stop467"
+   style="stop-color:#7C7C7C"
+   offset="0.75" />
+
+		<stop
+   id="stop469"
    style="stop-color:#4D4D4D"
    offset="1" />
 
 	</radialGradient>
 
-	<circle
-   id="circle13102"
-   r="8.757"
-   cy="41.990002"
-   cx="42.216"
-   style="fill:url(#SVGID_12_)" />
+	<path
+   id="path472"
+   d="m 44.369,101.801 c 0,0 -0.901,-5.089 -0.901,-9.459 0,-4.046 0.901,-9.459 0.901,-9.459 0,0 -5.158,1.352 -9.459,1.352 -4.074,0 -9.46,-1.352 -9.46,-1.352 0,0 1.014,4.079 1.014,9.239 0,5.007 -1.014,9.679 -1.014,9.679 0,0 5.386,-1.014 9.46,-1.014 4.009,0 9.459,1.014 9.459,1.014 z"
+   inkscape:connector-curvature="0"
+   style="fill:url(#SVGID_9_)" />
 
 </g>
       <g
-         id="Group_Pump_Rotor_Blade">
-	<path
-   id="path13105"
-   d="m 42.496,48.517 c 3.552,0 6.431,-2.879 6.431,-6.431 h -6.684 c 0,0.262 0,0.313 0,0.658"
-   inkscape:connector-curvature="0"
-   style="fill:#333333" />
+         id="Group_Yoke1"
+         transform="translate(39.411765,38.607443)">
+	<linearGradient
+   y2="47.027802"
+   x2="51.012699"
+   y1="47.027802"
+   x1="18.806601"
+   gradientUnits="userSpaceOnUse"
+   id="SVGID_10_">
+		<stop
+   id="stop475"
+   style="stop-color:#0000FF"
+   offset="0" />
+
+		<stop
+   id="stop477"
+   style="stop-color:#B9BAFF"
+   offset="0.06" />
+
+		<stop
+   id="stop479"
+   style="stop-color:#A4A5FF"
+   offset="0.07" />
+
+		<stop
+   id="stop481"
+   style="stop-color:#7071FF"
+   offset="0.09" />
+
+		<stop
+   id="stop483"
+   style="stop-color:#4A4BFF"
+   offset="0.12" />
+
+		<stop
+   id="stop485"
+   style="stop-color:#3334FF"
+   offset="0.14" />
+
+		<stop
+   id="stop487"
+   style="stop-color:#2A2BFF"
+   offset="0.15" />
+
+		<stop
+   id="stop489"
+   style="stop-color:#B9BAFF"
+   offset="0.52" />
+
+		<stop
+   id="stop491"
+   style="stop-color:#0000FF"
+   offset="0.82" />
+
+		<stop
+   id="stop493"
+   style="stop-color:#B9BAFF"
+   offset="0.94" />
+
+		<stop
+   id="stop495"
+   style="stop-color:#0000FF"
+   offset="1" />
+
+	</linearGradient>
 
 	<path
-   id="path13107"
-   d="m 42.123,35.585 c -3.552,0 -6.431,2.88 -6.431,6.432 h 6.684 c 0,-0.262 0,-0.313 0,-0.658 z"
+   id="path498"
+   d="m 18.807,30.856 1.351,-2.815 2.928,-2.14 10.36,-0.089 v 3.692 h -8.671 l -2.59,2.027 V 62.95 l 3.266,2.027 h 20.27 l 2.027,-3.378 V 31.532 l -2.703,-2.027 h -8.896 v -3.567 l 11.091,0.02 2.575,2.481 1.198,2.418 v 33.445 l -1.576,3.04 -2.703,0.901 H 44.37 24.099 l -3.604,-0.901 -1.688,-3.04 z"
    inkscape:connector-curvature="0"
-   style="fill:#e5e5e5;stroke:#4d4d4d;stroke-width:0.25" />
+   style="fill:url(#SVGID_10_)" />
 
 </g>
-      <ellipse
-         style="opacity:1;fill:#00ff00;fill-opacity:1;stroke:#ff0000;stroke-width:0.28125"
-         id="path13204"
-         cx="162.9057"
-         cy="32.35857"
-         rx="22.098213"
-         ry="21.69643"
-         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;10&quot;,&quot;param&quot;:&quot;#FF890C&quot;,&quot;tag&quot;:&quot;otvoren&quot;},{&quot;data&quot;:&quot;20&quot;,&quot;param&quot;:&quot;#FF0000&quot;,&quot;tag&quot;:&quot;otvoren&quot;}]}" />
+      <g
+         id="Group_ActuatorCase"
+         transform="translate(39.411765,38.607443)">
+	<path
+   id="path501"
+   d="M 29.504,26.802 H 40.09 v 4.054 H 29.504 Z"
+   inkscape:connector-curvature="0"
+   style="fill:#0000cc" />
+
+	<linearGradient
+   y2="16.047899"
+   x2="61.710899"
+   y1="16.047899"
+   x1="8.2207003"
+   gradientUnits="userSpaceOnUse"
+   id="SVGID_11_">
+		<stop
+   id="stop503"
+   style="stop-color:#000099"
+   offset="0" />
+
+		<stop
+   id="stop505"
+   style="stop-color:#0000FF"
+   offset="0.45" />
+
+		<stop
+   id="stop507"
+   style="stop-color:#0000EC"
+   offset="0.56" />
+
+		<stop
+   id="stop509"
+   style="stop-color:#0000BC"
+   offset="0.76" />
+
+		<stop
+   id="stop511"
+   style="stop-color:#0000BA"
+   offset="0.77" />
+
+		<stop
+   id="stop513"
+   style="stop-color:#000099"
+   offset="1" />
+
+	</linearGradient>
+
+	<polygon
+   id="polygon516"
+   points="59.571,26.802 61.711,24.1 61.711,7.884 59.008,5.294 10.36,5.294 8.221,7.884 8.221,24.663 10.924,26.802 "
+   style="fill:url(#SVGID_11_)" />
+
+	<path
+   id="path518"
+   d="m 3.941,20.156 h 2.59 v -8.331 h -2.59 z"
+   inkscape:connector-curvature="0"
+   style="fill:#4c4cff" />
+
+	<path
+   id="path520"
+   d="m 62.949,20.156 h 2.703 v -8.331 h -2.703 z"
+   inkscape:connector-curvature="0"
+   style="fill:#4c4cff" />
+
+	<path
+   id="path522"
+   d="m 33.445,20.156 h 2.703 v -8.331 h -2.703 z"
+   inkscape:connector-curvature="0"
+   style="fill:#4c4cff" />
+
+	<path
+   id="path524"
+   d="m 13.514,20.156 h 2.702 v -8.331 h -2.702 z"
+   inkscape:connector-curvature="0"
+   style="fill:#4c4cff" />
+
+	<path
+   id="path526"
+   d="m 22.86,20.156 h 2.59 v -8.331 h -2.59 z"
+   inkscape:connector-curvature="0"
+   style="fill:#4c4cff" />
+
+	<path
+   id="path528"
+   d="m 44.369,20.156 h 2.702 v -8.331 h -2.702 z"
+   inkscape:connector-curvature="0"
+   style="fill:#4c4cff" />
+
+	<path
+   id="path530"
+   d="m 53.716,20.156 h 2.702 v -8.331 h -2.702 z"
+   inkscape:connector-curvature="0"
+   style="fill:#4c4cff" />
+
+	<path
+   id="path532"
+   d="M 2.59,13.177 H 67.004 V 15.88 H 2.59 Z"
+   inkscape:connector-curvature="0"
+   style="fill:#0000e5" />
+
+	<path
+   id="path534"
+   d="m 2.59,15.879 h 64.414 v 2.928 H 2.59 Z"
+   inkscape:connector-curvature="0"
+   style="fill:#0000cc" />
+
+</g>
     </g>
   </g>
 </svg>
