@@ -1,0 +1,6 @@
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,Discovery HD
+#EXTVLCOPT:program=130
+http://192.168.178.79:8001/1:0:19:82:6:85:C00000:0:0:0:
+http://192.168.178.79:8001/1:0:19:81:6:85:C00000:0:0:0:
