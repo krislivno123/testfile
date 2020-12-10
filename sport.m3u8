@@ -1,0 +1,14 @@
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,Sky Sport Bundesliga UHD
+#EXTVLCOPT:program=552
+http://192.168.178.79:8001/1:0:1F:228:10:85:C00000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,Sky Sport UHD
+#EXTVLCOPT:program=553
+http://192.168.178.79:8001/1:0:1F:229:10:85:C00000:0:0:0:#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,DAZN 1 Bar HD
+#EXTVLCOPT:program=132
+http://192.168.178.79:8001/1:0:19:84:9:85:C00000:0:0:0:
