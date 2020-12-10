@@ -1,14 +1,186 @@
 #EXTM3U 
 #EXTVLCOPT--http-reconnect=true 
-#EXTINF:-1,Sky Sport Bundesliga UHD
-#EXTVLCOPT:program=552
-http://192.168.178.79:8001/1:0:1F:228:10:85:C00000:0:0:0:
-#EXTM3U 
-#EXTVLCOPT--http-reconnect=true 
-#EXTINF:-1,Sky Sport UHD
-#EXTVLCOPT:program=553
-http://192.168.178.79:8001/1:0:1F:229:10:85:C00000:0:0:0:#EXTM3U 
-#EXTVLCOPT--http-reconnect=true 
 #EXTINF:-1,DAZN 1 Bar HD
 #EXTVLCOPT:program=132
 http://192.168.178.79:8001/1:0:19:84:9:85:C00000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,DAZN 2 Bar HD
+#EXTVLCOPT:program=122
+http://192.168.178.79:8001/1:0:19:7A:10:85:C00000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,Eurosport 1 HD
+#EXTVLCOPT:program=12502
+http://192.168.178.79:8001/1:0:19:30D6:413:1:C00000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,Eurosport 2 HD
+#EXTVLCOPT:program=109
+http://192.168.178.79:8001/1:0:19:6D:B:85:C00000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,Sky Sport Austria 1 HD
+#EXTVLCOPT:program=143
+http://192.168.178.79:8001/1:0:19:8F:9:85:C00000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,Sky Sport Austria 2 HD
+#EXTVLCOPT:program=329
+http://192.168.178.79:8001/1:0:19:149:6:85:C00000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,Sky Sport Austria 3 HD
+#EXTVLCOPT:program=339
+http://192.168.178.79:8001/1:0:19:153:10:85:C00000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,Sky Sport Austria 4 HD
+#EXTVLCOPT:program=259
+http://192.168.178.79:8001/1:0:19:103:B:85:C00000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,Sky Sport News HD
+#EXTVLCOPT:program=108
+http://192.168.178.79:8001/1:0:19:6C:C:85:C00000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,Sky Sport 1 HD
+#EXTVLCOPT:program=129
+http://192.168.178.79:8001/1:0:19:81:6:85:C00000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,Sky Sport 2 HD
+#EXTVLCOPT:program=114
+http://192.168.178.79:8001/1:0:19:72:D:85:C00000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,Sky Sport 3 HD
+#EXTVLCOPT:program=268
+http://192.168.178.79:8001/1:0:19:10C:6:85:C00000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,Sky Sport 4 HD
+#EXTVLCOPT:program=278
+http://192.168.178.79:8001/1:0:19:116:D:85:C00000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,Sky Sport 5 HD
+#EXTVLCOPT:program=288
+http://192.168.178.79:8001/1:0:19:120:C:85:C00000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,Sky Sport 6 HD
+#EXTVLCOPT:program=298
+http://192.168.178.79:8001/1:0:19:12A:9:85:C00000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,Sky Sport 7 HD
+#EXTVLCOPT:program=308
+http://192.168.178.79:8001/1:0:19:134:4:85:C00000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,Sky Sport 8 HD
+#EXTVLCOPT:program=318
+http://192.168.178.79:8001/1:0:19:13E:2:85:C00000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,Sky Sport 9 HD
+#EXTVLCOPT:program=328
+http://192.168.178.79:8001/1:0:19:148:6:85:C00000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,Sky Sport 10 HD
+#EXTVLCOPT:program=338
+http://192.168.178.79:8001/1:0:19:152:10:85:C00000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,Sky Sport 11 HD
+#EXTVLCOPT:program=258
+http://192.168.178.79:8001/1:0:19:102:B:85:C00000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,Sky Sport 12 HD
+#EXTVLCOPT:program=381
+http://192.168.178.79:8001/1:0:19:17D:3:85:C00000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,Sky Sport 13 HD
+#EXTVLCOPT:program=386
+http://192.168.178.79:8001/1:0:19:182:3:85:C00000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,Sky Sport 14 HD
+#EXTVLCOPT:program=391
+http://192.168.178.79:8001/1:0:19:187:B:85:C00000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,Sky Sport Bundesliga 1 HD
+#EXTVLCOPT:program=105
+http://192.168.178.79:8001/1:0:19:69:C:85:C00000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,Sky Sport Bundesliga 2 HD
+#EXTVLCOPT:program=267
+http://192.168.178.79:8001/1:0:19:10B:6:85:C00000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,Sky Sport Bundesliga 3 HD
+#EXTVLCOPT:program=277
+http://192.168.178.79:8001/1:0:19:115:D:85:C00000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,Sky Sport Bundesliga 4 HD
+#EXTVLCOPT:program=287
+http://192.168.178.79:8001/1:0:19:11F:C:85:C00000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,Sky Sport Bundesliga 5 HD
+#EXTVLCOPT:program=297
+http://192.168.178.79:8001/1:0:19:129:9:85:C00000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,Sky Sport 1
+#EXTVLCOPT:program=221
+http://192.168.178.79:8001/1:0:16:DD:4:85:C00000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,Sky Sport 2
+#EXTVLCOPT:program=222
+http://192.168.178.79:8001/1:0:16:DE:2:85:C00000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,Sky Sport 3
+#EXTVLCOPT:program=263
+http://192.168.178.79:8001/1:0:D3:107:3:85:C00000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,Sky Sport 4
+#EXTVLCOPT:program=273
+http://192.168.178.79:8001/1:0:D3:111:2:85:C00000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,Sky Sport Bundesliga 1
+#EXTVLCOPT:program=223
+http://192.168.178.79:8001/1:0:16:DF:4:85:C00000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,Sky Sport Bundesliga 2
+#EXTVLCOPT:program=262
+http://192.168.178.79:8001/1:0:D3:106:3:85:C00000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,Sky Sport Bundesliga 3
+#EXTVLCOPT:program=272
+http://192.168.178.79:8001/1:0:D3:110:2:85:C00000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,Sky Sport Bundesliga 4
+#EXTVLCOPT:program=282
+http://192.168.178.79:8001/1:0:D3:11A:2:85:C00000:0:0:0:
+
+
+
+
+
+
