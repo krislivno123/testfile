@@ -178,6 +178,271 @@ http://192.168.178.79:8001/1:0:D3:110:2:85:C00000:0:0:0:
 #EXTINF:-1,Sky Sport Bundesliga 4
 #EXTVLCOPT:program=282
 http://192.168.178.79:8001/1:0:D3:11A:2:85:C00000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,Arena 1 HD.
+#EXTVLCOPT:program=412
+http://192.168.178.79:8001/1:0:19:19C:3:40:A00000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,Arena 2 HD.
+#EXTVLCOPT:program=80
+http://192.168.178.79:8001/1:0:19:50:2:40:A00000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,Arena 3 HD.
+#EXTVLCOPT:program=108
+http://192.168.178.79:8001/1:0:19:6C:1:40:A00000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,Arena 4 HD.
+#EXTVLCOPT:program=217
+http://192.168.178.79:8001/1:0:19:D9:1:40:A00000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,Arena 5 HD.
+#EXTVLCOPT:program=190
+http://192.168.178.79:8001/1:0:19:BE:3:40:A00000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,Arena 6 HD.
+#EXTVLCOPT:program=127
+http://192.168.178.79:8001/1:0:16:7F:2:40:A00000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,SportKlub 1 HD.
+#EXTVLCOPT:program=86
+http://192.168.178.79:8001/1:0:16:56:2:40:A00000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,SportKlub 2 HD.
+#EXTVLCOPT:program=95
+http://192.168.178.79:8001/1:0:16:5F:1:40:A00000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,SportKlub 3 HD.
+#EXTVLCOPT:program=96
+http://192.168.178.79:8001/1:0:16:60:1:40:A00000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,SportKlub Start.
+#EXTVLCOPT:program=153
+http://192.168.178.79:8001/1:0:16:99:1:40:A00000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,HNTV.
+#EXTVLCOPT:program=70
+http://192.168.178.79:8001/1:0:16:46:1:40:A00000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,HRT-TV1 HD
+#EXTVLCOPT:program=3401
+http://192.168.178.79:8001/1:0:19:D49:C738:16E:A00000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,HRT-TV2 HD
+#EXTVLCOPT:program=3402
+http://192.168.178.79:8001/1:0:19:D4A:C738:16E:A00000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,HRT-TV3 HD
+#EXTVLCOPT:program=3403
+http://192.168.178.79:8001/1:0:19:D4B:C738:16E:A00000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,HRT-TV4 HD
+#EXTVLCOPT:program=3404
+http://192.168.178.79:8001/1:0:19:D4C:C738:16E:A00000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,Nova TV.
+#EXTVLCOPT:program=292
+http://192.168.178.79:8001/1:0:16:124:3:40:A00000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,RTL HD.
+#EXTVLCOPT:program=291
+http://192.168.178.79:8001/1:0:16:123:3:40:A00000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,RTL2.
+#EXTVLCOPT:program=293
+http://192.168.178.79:8001/1:0:16:125:3:40:A00000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,RTL UHD
+#EXTVLCOPT:program=12410
+http://192.168.178.79:8001/1:0:1F:307A:3F5:1:C00000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,SPORT1 HD
+#EXTVLCOPT:program=5505
+http://192.168.178.79:8001/1:0:19:1581:41F:1:C00000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,Eurosport 1 HD
+#EXTVLCOPT:program=12502
+http://192.168.178.79:8001/1:0:19:30D6:413:1:C00000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,Eurosport 2 HD Xtra
+#EXTVLCOPT:program=12503
+http://192.168.178.79:8001/1:0:19:30D7:413:1:C00000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,RTL HD
+#EXTVLCOPT:program=61200
+http://192.168.178.79:8001/1:0:19:EF10:421:1:C00000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,RTLII HD
+#EXTVLCOPT:program=61205
+http://192.168.178.79:8001/1:0:19:EF15:421:1:C00000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,SAT.1 HD
+#EXTVLCOPT:program=61300
+http://192.168.178.79:8001/1:0:19:EF74:3F9:1:C00000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,VOX HD
+#EXTVLCOPT:program=61201
+http://192.168.178.79:8001/1:0:19:EF11:421:1:C00000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,ProSieben HD
+#EXTVLCOPT:program=61301
+http://192.168.178.79:8001/1:0:19:EF75:3F9:1:C00000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,Pro7 MAXX HD
+#EXTVLCOPT:program=61304
+http://192.168.178.79:8001/1:0:19:EF78:3F9:1:C00000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,kabel eins HD
+#EXTVLCOPT:program=61302
+http://192.168.178.79:8001/1:0:19:EF76:3F9:1:C00000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,SIXX HD
+#EXTVLCOPT:program=61303
+http://192.168.178.79:8001/1:0:19:EF77:3F9:1:C00000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,TELE 5 HD
+#EXTVLCOPT:program=5401
+http://192.168.178.79:8001/1:0:19:1519:455:1:C00000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,DMAX HD
+#EXTVLCOPT:program=5402
+http://192.168.178.79:8001/1:0:19:151A:455:1:C00000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,TLC HD
+#EXTVLCOPT:program=10100
+http://192.168.178.79:8001/1:0:19:2774:409:1:C00000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,NatGeo HD
+#EXTVLCOPT:program=112
+http://192.168.178.79:8001/1:0:19:70:D:85:C00000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,Nat Geo Wild HD
+#EXTVLCOPT:program=118
+http://192.168.178.79:8001/1:0:19:76:6:85:C00000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,Discovery HD
+#EXTVLCOPT:program=130
+http://192.168.178.79:8001/1:0:19:82:6:85:C00000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,History HD
+#EXTVLCOPT:program=113
+http://192.168.178.79:8001/1:0:19:71:B:85:C00000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,Sky Cinema Premieren HD
+#EXTVLCOPT:program=131
+http://192.168.178.79:8001/1:0:19:83:6:85:C00000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,Sky Cinema  1 HD
+#EXTVLCOPT:program=134
+http://192.168.178.79:8001/1:0:19:86:B:85:C00000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,Sky Cinema Premieren  24 HD
+#EXTVLCOPT:program=135
+http://192.168.178.79:8001/1:0:19:87:B:85:C00000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,Sky Cinema Action HD
+#EXTVLCOPT:program=116
+http://192.168.178.79:8001/1:0:19:74:9:85:C00000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,Sky Cinema Best Of HD
+#EXTVLCOPT:program=107
+http://192.168.178.79:8001/1:0:19:6B:C:85:C00000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,Sky Atlantic HD
+#EXTVLCOPT:program=110
+http://192.168.178.79:8001/1:0:19:6E:D:85:C00000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,Sky Cinema Fun
+#EXTVLCOPT:program=8
+http://192.168.178.79:8001/1:0:16:8:3:85:C00000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,Sky Krimi HD
+#EXTVLCOPT:program=23
+http://192.168.178.79:8001/1:0:19:17:4:85:C00000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,Sky One HD
+#EXTVLCOPT:program=147
+http://192.168.178.79:8001/1:0:19:93:2:85:C00000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,TNT Film HD
+#EXTVLCOPT:program=140
+http://192.168.178.79:8001/1:0:19:8C:4:85:C00000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,TNT Comedy HD
+#EXTVLCOPT:program=136
+http://192.168.178.79:8001/1:0:19:88:B:85:C00000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,Sky Cinema Special HD
+#EXTVLCOPT:program=111
+http://192.168.178.79:8001/1:0:19:6F:D:85:C00000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,Sky Cinema Family HD
+#EXTVLCOPT:program=139
+http://192.168.178.79:8001/1:0:19:8B:2:85:C00000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,Sky Cinema Premieren
+#EXTVLCOPT:program=10
+http://192.168.178.79:8001/1:0:16:A:4:85:C00000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,Sky Cinema Premieren  24
+#EXTVLCOPT:program=43
+http://192.168.178.79:8001/1:0:16:2B:6:85:C00000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,Sky Cinema Action
+#EXTVLCOPT:program=9
+http://192.168.178.79:8001/1:0:16:9:3:85:C00000:0:0:0:
 
 
 
