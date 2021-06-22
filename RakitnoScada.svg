@@ -1367,11 +1367,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="1625.0442"
-     inkscape:cy="398.30996"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="1256.7093"
+     inkscape:cy="524.42172"
      inkscape:document-units="px"
-     inkscape:current-layer="Group_Green_Button_Face-94-0-4"
+     inkscape:current-layer="layer2"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
@@ -6697,36 +6697,6 @@ pGhw8yk5cfKDjJwCUUUAf//Z
        x="483.25494"
        y="548.30188"
        transform="matrix(0.99744655,-0.07141692,0.07205909,0.99740036,0,0)" />
-    <g
-       id="g599"
-       transform="matrix(-0.00318695,-0.05038855,0.04121654,-0.00431221,534.51898,673.31897)"
-       style="fill:#0000ff">
-      <path
-         id="path576"
-         d="M 860,276 V 206 H 659 V 69 H 860 V 0 l 139,140 z"
-         style="fill:#0000ff;stroke:#4c4c4c;stroke-width:2"
-         inkscape:connector-curvature="0" />
-      <path
-         id="path578"
-         d="M 392,206 V 69 h 207 v 137 z"
-         style="fill:#0000ff;stroke:#4c4c4c;stroke-width:2"
-         inkscape:connector-curvature="0" />
-      <path
-         id="path580"
-         d="M 190,206 V 69 h 141 v 137 z"
-         style="fill:#0000ff;stroke:#4c4c4c;stroke-width:2"
-         inkscape:connector-curvature="0" />
-      <path
-         id="path582"
-         d="M 58,206 V 69 h 72 v 137 z"
-         style="fill:#0000ff;stroke:#4c4c4c;stroke-width:2"
-         inkscape:connector-curvature="0" />
-      <path
-         id="path584"
-         d="M 0,206 V 69 h 8 v 137 z"
-         style="fill:#0000ff;stroke:#4c4c4c;stroke-width:2"
-         inkscape:connector-curvature="0" />
-    </g>
     <flowRoot
        xml:space="preserve"
        id="flowRoot1201"
@@ -8644,20 +8614,7 @@ pGhw8yk5cfKDjJwCUUUAf//Z
          style="fill:none;stroke:#ffffff;stroke-width:2"
          inkscape:connector-curvature="0" />
     </g>
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot1201-9"
-       style="font-style:normal;font-weight:normal;font-size:19.67193413px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#b3b3b3;fill-opacity:1;stroke:none"
-       transform="matrix(1.3981167,0,0,1.5732158,826.43742,-573.12016)"><flowRegion
-         id="flowRegion1203-2"
-         style="font-size:19.67193413px;fill:#b3b3b3"><rect
-           id="rect1205-0"
-           width="232.3927"
-           height="23.616268"
-           x="422.24377"
-           y="378.95413"
-           style="font-size:19.67193413px;fill:#b3b3b3" /></flowRegion><flowPara
-         id="flowPara1207-8">Vodosprema</flowPara></flowRoot>    <rect
+    <rect
        style="opacity:0.56300001;fill:#808080;stroke:url(#radialGradient13654);stroke-width:1.50419724"
        id="rect1213-8-8"
        width="258.1369"
@@ -10083,10 +10040,10 @@ pGhw8yk5cfKDjJwCUUUAf//Z
     </g>
     <g
        id="g11342-9"
-       transform="matrix(0.06386578,-0.01092994,0.01049159,0.0665342,1021.7155,531.62774)"
+       transform="matrix(0.12561918,-0.02402463,0.02313825,0.13171578,1006.4573,479.2274)"
        style="fill:#0000ff"
-       inkscape:transform-center-x="-5.803116"
-       inkscape:transform-center-y="0.7129032">
+       inkscape:transform-center-x="80.471274"
+       inkscape:transform-center-y="31.064811">
       <path
          id="path11319-1"
          d="M 860,276 V 206 H 659 V 69 H 860 V 0 l 139,140 z"
@@ -10725,38 +10682,6 @@ pGhw8yk5cfKDjJwCUUUAf//Z
            style="font-size:8.59241104px;fill:#00ff00;stroke-width:0.46030775"
            id="tspan9710-6-5">cm</tspan></text>
     </g>
-    <g
-       id="g11342-9-5"
-       transform="matrix(0.06386578,-0.01092994,0.01049159,0.0665342,795.99447,576.88338)"
-       style="fill:#0000ff"
-       inkscape:transform-center-x="-5.803116"
-       inkscape:transform-center-y="0.7129032">
-      <path
-         id="path11319-1-0"
-         d="M 860,276 V 206 H 659 V 69 H 860 V 0 l 139,140 z"
-         style="fill:#0000ff;stroke:#4c4c4c;stroke-width:2"
-         inkscape:connector-curvature="0" />
-      <path
-         id="path11321-0-4"
-         d="M 392,206 V 69 h 207 v 137 z"
-         style="fill:#0000ff;stroke:#4c4c4c;stroke-width:2"
-         inkscape:connector-curvature="0" />
-      <path
-         id="path11323-3-1"
-         d="M 190,206 V 69 h 141 v 137 z"
-         style="fill:#0000ff;stroke:#4c4c4c;stroke-width:2"
-         inkscape:connector-curvature="0" />
-      <path
-         id="path11325-1-7"
-         d="M 58,206 V 69 h 72 v 137 z"
-         style="fill:#0000ff;stroke:#4c4c4c;stroke-width:2"
-         inkscape:connector-curvature="0" />
-      <path
-         id="path11327-6-8"
-         d="M 0,206 V 69 h 8 v 137 z"
-         style="fill:#0000ff;stroke:#4c4c4c;stroke-width:2"
-         inkscape:connector-curvature="0" />
-    </g>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:30.92212296px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:1.44947457"
@@ -10905,5 +10830,71 @@ pGhw8yk5cfKDjJwCUUUAf//Z
            inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;0&quot;,&quot;param&quot;:&quot;#FF0000&quot;,&quot;tag&quot;:&quot;min1&quot;},{&quot;data&quot;:&quot;1&quot;,&quot;param&quot;:&quot;#18C318&quot;,&quot;tag&quot;:&quot;min1&quot;}]}" />
       </g>
     </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot1201-9"
+       style="font-style:normal;font-weight:normal;font-size:19.67193413px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#b3b3b3;fill-opacity:1;stroke:none"
+       transform="matrix(1.3981167,0,0,1.5732158,826.43742,-573.12016)"
+       inkscape:label=""><flowRegion
+         id="flowRegion1203-2"
+         style="font-size:19.67193413px;fill:#b3b3b3"><rect
+           id="rect1205-0"
+           width="232.3927"
+           height="23.616268"
+           x="422.24377"
+           y="378.95413"
+           style="font-size:19.67193413px;fill:#b3b3b3" /></flowRegion><flowPara
+         id="flowPara1207-8">Vodosprema</flowPara></flowRoot>    <rect
+       style="opacity:0.528;fill:#0000ff;fill-opacity:1;stroke-width:1.50957406"
+       id="rect10315"
+       width="700.4682"
+       height="10.430809"
+       x="571.25995"
+       y="718.67688"
+       transform="matrix(0.98235608,-0.18702016,0.18662351,0.98243151,0,0)"
+       inkscape:transform-center-x="0.37127944"
+       inkscape:transform-center-y="-2.7879541"
+       inkscape:label="{&quot;attr&quot;:&quot;bar&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;running&quot;}" />
+    <g
+       id="g11342-9-3"
+       transform="matrix(-0.0069511,-0.12770687,0.13362939,-0.00525466,486.49116,690.05822)"
+       style="fill:#0000ff"
+       inkscape:transform-center-x="-20.497688"
+       inkscape:transform-center-y="83.714413">
+      <path
+         id="path11319-1-6"
+         d="M 860,276 V 206 H 659 V 69 H 860 V 0 l 139,140 z"
+         style="fill:#0000ff;stroke:#4c4c4c;stroke-width:2"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path11321-0-2"
+         d="M 392,206 V 69 h 207 v 137 z"
+         style="fill:#0000ff;stroke:#4c4c4c;stroke-width:2"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path11323-3-6"
+         d="M 190,206 V 69 h 141 v 137 z"
+         style="fill:#0000ff;stroke:#4c4c4c;stroke-width:2"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path11325-1-5"
+         d="M 58,206 V 69 h 72 v 137 z"
+         style="fill:#0000ff;stroke:#4c4c4c;stroke-width:2"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path11327-6-8"
+         d="M 0,206 V 69 h 8 v 137 z"
+         style="fill:#0000ff;stroke:#4c4c4c;stroke-width:2"
+         inkscape:connector-curvature="0" />
+    </g>
+    <rect
+       style="opacity:0.528;fill:#0000ff;fill-opacity:1;stroke-width:5.22947788"
+       id="rect10257"
+       width="10.774679"
+       height="356.13766"
+       x="487.09937"
+       y="570.75488"
+       transform="matrix(0.99521174,-0.09774251,0.07060607,0.99750428,0,0)"
+       inkscape:label="{&quot;attr&quot;:&quot;bar&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;L_busotina&quot;}" />
   </g>
 </svg>
