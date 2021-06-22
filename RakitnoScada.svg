@@ -1328,6 +1328,37 @@
          style="stop-color:#7A7A7A"
          offset="0.93" />
     </radialGradient>
+    <radialGradient
+       gradientUnits="userSpaceOnUse"
+       r="43.3326"
+       cy="56.5322"
+       cx="57.023399"
+       id="SVGID_1_-78-7-1-7">
+      <stop
+         id="stop2455-91-9-1"
+         style="stop-color:#000000"
+         offset="0.72" />
+      <stop
+         id="stop2457-6-6-1"
+         style="stop-color:#7A7A7A"
+         offset="0.73" />
+      <stop
+         id="stop2459-64-7-1"
+         style="stop-color:#404040"
+         offset="0.82" />
+      <stop
+         id="stop2461-86-5-93"
+         style="stop-color:#000000"
+         offset="0.82" />
+      <stop
+         id="stop2463-67-5-8"
+         style="stop-color:#ADADAD"
+         offset="0.86" />
+      <stop
+         id="stop2465-3-0-8"
+         style="stop-color:#7A7A7A"
+         offset="0.93" />
+    </radialGradient>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -1337,10 +1368,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4142136"
-     inkscape:cx="1444.3784"
-     inkscape:cy="568.01559"
+     inkscape:cx="1625.0442"
+     inkscape:cy="398.30996"
      inkscape:document-units="px"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="Group_Green_Button_Face-94-0-4"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
@@ -10516,16 +10547,16 @@ pGhw8yk5cfKDjJwCUUUAf//Z
          sodipodi:nodetypes="cccc"
          inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:1,&quot;tag&quot;:&quot;%n&quot;},{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;set&quot;,&quot;prompt&quot;:&quot;&quot;,&quot;src&quot;:&quot;thisobj.style.transition='all 1s ease';&quot;,&quot;tag&quot;:&quot;#exec_once&quot;,&quot;type&quot;:&quot;Data&quot;},{&quot;attr&quot;:&quot;slider&quot;,&quot;max&quot;:500,&quot;min&quot;:0,&quot;readonly&quot;:0,&quot;tag&quot;:&quot;%n&quot;}" />
       <text
-         transform="scale(1.0500283,0.95235529)"
+         transform="scale(0.8440127,1.1848163)"
          inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;%n&quot;,&quot;type&quot;:&quot;Good&quot;}"
          id="text4777-1-8"
-         y="195.54962"
-         x="98.06427"
-         style="font-style:normal;font-weight:normal;font-size:6.21815681px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0.1943174"
+         y="158.67599"
+         x="118.90586"
+         style="font-style:normal;font-weight:normal;font-size:10.66810799px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0.33337837"
          xml:space="preserve"><tspan
-           style="fill:#00ff00;stroke-width:0.1943174"
-           y="195.54962"
-           x="98.06427"
+           style="fill:#00ff00;stroke-width:0.33337837"
+           y="158.67599"
+           x="118.90586"
            id="tspan4775-5-9"
            sodipodi:role="line">%1.0f</tspan></text>
       <text
@@ -10656,16 +10687,16 @@ pGhw8yk5cfKDjJwCUUUAf//Z
          sodipodi:nodetypes="cccc"
          inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:1,&quot;tag&quot;:&quot;%n&quot;},{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;set&quot;,&quot;prompt&quot;:&quot;&quot;,&quot;src&quot;:&quot;thisobj.style.transition='all 1s ease';&quot;,&quot;tag&quot;:&quot;#exec_once&quot;,&quot;type&quot;:&quot;Data&quot;},{&quot;attr&quot;:&quot;slider&quot;,&quot;max&quot;:500,&quot;min&quot;:0,&quot;readonly&quot;:0,&quot;tag&quot;:&quot;%n&quot;}" />
       <text
-         transform="scale(1.0500283,0.95235529)"
+         transform="scale(0.87796998,1.1389911)"
          inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;%n&quot;,&quot;type&quot;:&quot;Good&quot;}"
          id="text4777-1-8-0"
-         y="196.6609"
-         x="97.560318"
-         style="font-style:normal;font-weight:normal;font-size:6.21815681px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0.1943174"
+         y="165.34811"
+         x="113.93268"
+         style="font-style:normal;font-weight:normal;font-size:10.04409218px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0.31387788"
          xml:space="preserve"><tspan
-           style="fill:#00ff00;stroke-width:0.1943174"
-           y="196.6609"
-           x="97.560318"
+           style="fill:#00ff00;stroke-width:0.31387788"
+           y="165.34811"
+           x="113.93268"
            id="tspan4775-5-8"
            sodipodi:role="line">%1.0f</tspan></text>
       <text
@@ -10741,13 +10772,13 @@ pGhw8yk5cfKDjJwCUUUAf//Z
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:30.92212296px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:1.44947457"
-       x="1823.8756"
-       y="222.69012"
+       x="1808.842"
+       y="222.02495"
        id="text2803-6-9-1-45-5-5"
        transform="scale(0.94070049,1.0630376)"><tspan
          sodipodi:role="line"
-         x="1823.8756"
-         y="222.69012"
+         x="1808.842"
+         y="222.02495"
          style="font-size:27.05685806px;fill:#00ff00;stroke-width:1.44947457"
          id="tspan9710-6">cm</tspan></text>
     <text
@@ -10788,35 +10819,35 @@ pGhw8yk5cfKDjJwCUUUAf//Z
          style="font-size:27.05685806px;fill:#00ff00;stroke-width:1.44947457"
          id="tspan9710-4">L/s</tspan></text>
     <g
-       id="g2500-0-3-8"
-       transform="matrix(0.37744879,0,0,0.38843426,1667.3614,655.69688)"
-       inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%n=min1&quot;]}">
+       id="g2500-0-3-87"
+       transform="matrix(0.37744879,0,0,0.38843426,1667.3614,655.69689)"
+       inkscape:label="">
       <g
-         id="Group_Green_Push_Button_Back_Ground-9-8-9">
+         id="Group_Green_Push_Button_Back_Ground-9-8-3">
         <circle
-           id="circle2444-1-4-3"
+           id="circle2444-1-4-8"
            r="55.966999"
            cy="56.533001"
            cx="56.192001" />
       </g>
       <g
-         id="Group_Green_Button_Octagen-4-5-0">
+         id="Group_Green_Button_Octagen-4-5-4">
         <path
-           id="path2447-04-1-0"
+           id="path2447-04-1-5"
            d="M 35.458,6.321 8.207,33.573 7.306,36.276 v 37.837 l 0.901,2.702 27.251,27.365 2.703,0.9 h 37.837 l 2.702,-0.9 27.365,-27.365 0.676,-2.702 V 36.275 L 106.065,33.572 78.7,6.321 75.998,5.42 H 38.161 Z"
            inkscape:connector-curvature="0"
            style="fill:#e5e5e5" />
       </g>
       <g
-         id="Group_Green_Button_Pin-8-5-04">
+         id="Group_Green_Button_Pin-8-5-7">
         <circle
-           id="circle2450-39-9-81"
+           id="circle2450-39-9-1"
            r="46.733002"
            cy="56.532001"
            cx="57.023998"
            style="fill:#7f7f7f;stroke:#000000;stroke-width:0.25" />
         <rect
-           id="rect2452-37-9-1"
+           id="rect2452-37-9-0"
            height="6.151"
            width="13.852"
            y="4.6230001"
@@ -10824,54 +10855,54 @@ pGhw8yk5cfKDjJwCUUUAf//Z
            style="fill:#7f7f7f" />
       </g>
       <g
-         id="Group_Button_Ring-6-3-1-6">
+         id="Group_Button_Ring-6-3-1-9">
         <radialGradient
            gradientUnits="userSpaceOnUse"
            r="43.3326"
            cy="56.5322"
            cx="57.023399"
-           id="radialGradient18791-1-3">
+           id="radialGradient18791-1-0">
           <stop
-             id="stop18779-0-9"
+             id="stop18779-0-4"
              style="stop-color:#000000"
              offset="0.72" />
           <stop
-             id="stop18781-1-9"
+             id="stop18781-1-7"
              style="stop-color:#7A7A7A"
              offset="0.73" />
           <stop
-             id="stop18783-7-3"
+             id="stop18783-7-4"
              style="stop-color:#404040"
              offset="0.82" />
           <stop
-             id="stop18785-5-3"
+             id="stop18785-5-1"
              style="stop-color:#000000"
              offset="0.82" />
           <stop
-             id="stop18787-5-50"
+             id="stop18787-5-0"
              style="stop-color:#ADADAD"
              offset="0.86" />
           <stop
-             id="stop18789-2-5"
+             id="stop18789-2-4"
              style="stop-color:#7A7A7A"
              offset="0.93" />
         </radialGradient>
         <ellipse
-           style="fill:url(#SVGID_1_-78-7-1-81);stroke:#000000;stroke-width:0.25"
-           id="ellipse2468-7-7-6"
+           style="fill:url(#SVGID_1_-78-7-1-7);stroke:#000000;stroke-width:0.25"
+           id="ellipse2468-7-7-5"
            ry="43.243"
            rx="43.423"
            cy="56.533001"
            cx="57.023998" />
       </g>
       <g
-         id="Group_Green_Button_Face-94-0-9">
+         id="Group_Green_Button_Face-94-0-4">
         <path
-           id="path2471-9-0-4"
+           id="path2471-9-0-7"
            d="m 85.714,56.508 c 0,15.569 -12.769,28.191 -28.514,28.191 -15.749,0 -28.518,-12.622 -28.518,-28.191 0,-15.571 12.769,-28.192 28.518,-28.192 15.745,0 28.514,12.621 28.514,28.192 z"
            inkscape:connector-curvature="0"
            style="fill:#33cc33"
-           inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;0&quot;,&quot;param&quot;:&quot;#FF0000&quot;,&quot;tag&quot;:&quot;%n&quot;},{&quot;data&quot;:&quot;1&quot;,&quot;param&quot;:&quot;#18C318&quot;,&quot;tag&quot;:&quot;%n&quot;}]}" />
+           inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;0&quot;,&quot;param&quot;:&quot;#FF0000&quot;,&quot;tag&quot;:&quot;min1&quot;},{&quot;data&quot;:&quot;1&quot;,&quot;param&quot;:&quot;#18C318&quot;,&quot;tag&quot;:&quot;min1&quot;}]}" />
       </g>
     </g>
   </g>
