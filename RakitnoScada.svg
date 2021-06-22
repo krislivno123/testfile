@@ -10043,7 +10043,8 @@ pGhw8yk5cfKDjJwCUUUAf//Z
        transform="matrix(0.12561918,-0.02402463,0.02313825,0.13171578,1006.4573,479.2274)"
        style="fill:#0000ff"
        inkscape:transform-center-x="80.471274"
-       inkscape:transform-center-y="31.064811">
+       inkscape:transform-center-y="31.064811"
+       inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;running&quot;}">
       <path
          id="path11319-1"
          d="M 860,276 V 206 H 659 V 69 H 860 V 0 l 139,140 z"
@@ -10860,7 +10861,8 @@ pGhw8yk5cfKDjJwCUUUAf//Z
        transform="matrix(-0.0069511,-0.12770687,0.13362939,-0.00525466,486.49116,690.05822)"
        style="fill:#0000ff"
        inkscape:transform-center-x="-20.497688"
-       inkscape:transform-center-y="83.714413">
+       inkscape:transform-center-y="83.714413"
+       inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;running&quot;}">
       <path
          id="path11319-1-6"
          d="M 860,276 V 206 H 659 V 69 H 860 V 0 l 139,140 z"
