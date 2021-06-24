@@ -2025,9 +2025,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="1018.8069"
-     inkscape:cy="578.69306"
+     inkscape:zoom="1"
+     inkscape:cx="817.63199"
+     inkscape:cy="441.76945"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -4833,15 +4833,6 @@
          style="fill:#0000ff;stroke:#4c4c4c;stroke-width:2"
          inkscape:connector-curvature="0" />
     </g>
-    <rect
-       style="opacity:0.528;fill:#0000ff;fill-opacity:1;stroke-width:5.22947788"
-       id="rect10257"
-       width="10.774679"
-       height="356.13766"
-       x="-497.87405"
-       y="-926.89252"
-       transform="matrix(-0.99521174,0.09774251,-0.07060607,-0.99750428,0,0)"
-       inkscape:label="{&quot;attr&quot;:&quot;bar&quot;,&quot;max&quot;:100,&quot;min&quot;:0,&quot;tag&quot;:&quot;L_busotina&quot;}" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:30.92212296px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:1.44947457"
@@ -5965,5 +5956,14 @@
          y="859.80756"
          style="font-size:27.05685806px;fill:#00ffff;stroke-width:1.44947457"
          id="tspan12846-4-4-2">Energetika CS</tspan></text>
+    <rect
+       style="opacity:0.528;fill:#0000ff;fill-opacity:1;stroke-width:5.22947788"
+       id="rect10257-4"
+       width="10.774679"
+       height="356.13766"
+       x="-497.59039"
+       y="-925.33588"
+       transform="matrix(-0.99521174,0.09774252,-0.07060608,-0.99750428,0,0)"
+       inkscape:label="{&quot;attr&quot;:&quot;bar&quot;,&quot;max&quot;:100,&quot;min&quot;:0,&quot;tag&quot;:&quot;L_busotina&quot;},{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;0-16&quot;,&quot;param&quot;:&quot;#FF0000&quot;,&quot;tag&quot;:&quot;L_busotina&quot;},{&quot;data&quot;:&quot;17-35&quot;,&quot;param&quot;:&quot;#FFA500&quot;,&quot;tag&quot;:&quot;L_busotina&quot;},{&quot;data&quot;:&quot;36-100&quot;,&quot;param&quot;:&quot;#0000FF&quot;,&quot;tag&quot;:&quot;L_busotina&quot;}]}" />
   </g>
 </svg>
