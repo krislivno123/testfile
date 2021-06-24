@@ -2025,11 +2025,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="918.48927"
-     inkscape:cy="586.46769"
+     inkscape:zoom="1"
+     inkscape:cx="1704.4319"
+     inkscape:cy="424.23188"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
@@ -2955,8 +2955,9 @@
          style="font-size:24px;fill:#00ffff;stroke-width:1.0311563">Protocni mjerac</tspan></text>
     <g
        id="g11342"
-       transform="matrix(0.0647218,0,0,0.06742602,1644.5485,529.26715)"
-       style="fill:#0000ff">
+       transform="matrix(0.12763607,0,0,0.13151527,1624.0681,612.5494)"
+       style="fill:#0000ff"
+       inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;idle&quot;}">
       <path
          id="path11319"
          d="M 860,276 V 206 H 659 V 69 H 860 V 0 l 139,140 z"
@@ -5987,5 +5988,32 @@
        y="-925.33588"
        transform="matrix(-0.99521174,0.09774252,-0.07060608,-0.99750428,0,0)"
        inkscape:label="{&quot;attr&quot;:&quot;bar&quot;,&quot;max&quot;:100,&quot;min&quot;:0,&quot;tag&quot;:&quot;L_busotina&quot;},{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;0-16&quot;,&quot;param&quot;:&quot;#FF0000&quot;,&quot;tag&quot;:&quot;L_busotina&quot;},{&quot;data&quot;:&quot;17-35&quot;,&quot;param&quot;:&quot;#FFA500&quot;,&quot;tag&quot;:&quot;L_busotina&quot;},{&quot;data&quot;:&quot;36-100&quot;,&quot;param&quot;:&quot;#0000FF&quot;,&quot;tag&quot;:&quot;L_busotina&quot;}]}" />
+    <rect
+       style="opacity:0.528;fill:#0000ff;fill-opacity:1;stroke-width:4.77950239"
+       id="rect10257-0-0-5"
+       width="10.773582"
+       height="297.51639"
+       x="1584.1593"
+       y="289.42795"
+       transform="matrix(0.99965608,-0.0262245,0.00292966,0.99999571,0,0)"
+       inkscape:label="{&quot;attr&quot;:&quot;bar&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;idle&quot;}" />
+    <rect
+       style="opacity:0.528;fill:#0000ff;fill-opacity:1;stroke-width:2.4018271"
+       id="rect10257-0-0-5-8"
+       width="10.770113"
+       height="75.156914"
+       x="253.61093"
+       y="-1617.7662"
+       transform="matrix(0.0066264,0.99997805,-0.99993275,0.01159737,0,0)"
+       inkscape:label="{&quot;attr&quot;:&quot;bar&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;idle&quot;}" />
+    <rect
+       style="opacity:0.528;fill:#0000ff;fill-opacity:1;stroke-width:4.67394876"
+       id="rect10257-0-0-5-7"
+       width="10.773266"
+       height="284.52878"
+       x="539.13123"
+       y="-1866.8876"
+       transform="matrix(0.02508044,0.99968544,-0.99999531,0.00306339,0,0)"
+       inkscape:label="{&quot;attr&quot;:&quot;bar&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;idle&quot;}" />
   </g>
 </svg>
