@@ -1564,60 +1564,6 @@
          style="stop-color:#7A7A7A"
          offset="0.93" />
     </radialGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#SVGID_1_-48-8"
-       id="linearGradient5686"
-       gradientUnits="userSpaceOnUse"
-       x1="6.9839001"
-       y1="42.173801"
-       x2="21.060499"
-       y2="42.173801" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#SVGID_2_-7-3"
-       id="linearGradient5688"
-       gradientUnits="userSpaceOnUse"
-       x1="12.2759"
-       y1="98.423798"
-       x2="15.7676"
-       y2="98.423798" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#SVGID_3_-7-6"
-       id="linearGradient5690"
-       gradientUnits="userSpaceOnUse"
-       x1="6.9839001"
-       y1="76.408203"
-       x2="21.060499"
-       y2="76.408203" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#SVGID_1_-48-8"
-       id="linearGradient5864"
-       gradientUnits="userSpaceOnUse"
-       x1="6.9839001"
-       y1="42.173801"
-       x2="21.060499"
-       y2="42.173801" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#SVGID_2_-7-3"
-       id="linearGradient5866"
-       gradientUnits="userSpaceOnUse"
-       x1="12.2759"
-       y1="98.423798"
-       x2="15.7676"
-       y2="98.423798" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#SVGID_3_-7-6"
-       id="linearGradient5868"
-       gradientUnits="userSpaceOnUse"
-       x1="6.9839001"
-       y1="76.408203"
-       x2="21.060499"
-       y2="76.408203" />
     <radialGradient
        gradientUnits="userSpaceOnUse"
        r="43.3326"
@@ -2017,6 +1963,370 @@
          style="stop-color:#7A7A7A"
          offset="0.93" />
     </radialGradient>
+    <radialGradient
+       gradientUnits="userSpaceOnUse"
+       r="43.3326"
+       cy="56.5322"
+       cx="57.023399"
+       id="SVGID_1_-78-7-1-7-9-2">
+      <stop
+         id="stop2455-91-9-1-9-67"
+         style="stop-color:#000000"
+         offset="0.72" />
+      <stop
+         id="stop2457-6-6-1-3-4"
+         style="stop-color:#7A7A7A"
+         offset="0.73" />
+      <stop
+         id="stop2459-64-7-1-4-16"
+         style="stop-color:#404040"
+         offset="0.82" />
+      <stop
+         id="stop2461-86-5-93-2-02"
+         style="stop-color:#000000"
+         offset="0.82" />
+      <stop
+         id="stop2463-67-5-8-9-55"
+         style="stop-color:#ADADAD"
+         offset="0.86" />
+      <stop
+         id="stop2465-3-0-8-7-09"
+         style="stop-color:#7A7A7A"
+         offset="0.93" />
+    </radialGradient>
+    <radialGradient
+       gradientUnits="userSpaceOnUse"
+       r="43.3326"
+       cy="56.5322"
+       cx="57.023399"
+       id="SVGID_1_-78-7-1-7-9-5">
+      <stop
+         id="stop2455-91-9-1-9-27"
+         style="stop-color:#000000"
+         offset="0.72" />
+      <stop
+         id="stop2457-6-6-1-3-41"
+         style="stop-color:#7A7A7A"
+         offset="0.73" />
+      <stop
+         id="stop2459-64-7-1-4-02"
+         style="stop-color:#404040"
+         offset="0.82" />
+      <stop
+         id="stop2461-86-5-93-2-3"
+         style="stop-color:#000000"
+         offset="0.82" />
+      <stop
+         id="stop2463-67-5-8-9-40"
+         style="stop-color:#ADADAD"
+         offset="0.86" />
+      <stop
+         id="stop2465-3-0-8-7-00"
+         style="stop-color:#7A7A7A"
+         offset="0.93" />
+    </radialGradient>
+    <radialGradient
+       gradientUnits="userSpaceOnUse"
+       r="43.3326"
+       cy="56.5322"
+       cx="57.023399"
+       id="SVGID_1_-78-7-1-7-9-14">
+      <stop
+         id="stop2455-91-9-1-9-68"
+         style="stop-color:#000000"
+         offset="0.72" />
+      <stop
+         id="stop2457-6-6-1-3-61"
+         style="stop-color:#7A7A7A"
+         offset="0.73" />
+      <stop
+         id="stop2459-64-7-1-4-7"
+         style="stop-color:#404040"
+         offset="0.82" />
+      <stop
+         id="stop2461-86-5-93-2-56"
+         style="stop-color:#000000"
+         offset="0.82" />
+      <stop
+         id="stop2463-67-5-8-9-7"
+         style="stop-color:#ADADAD"
+         offset="0.86" />
+      <stop
+         id="stop2465-3-0-8-7-6"
+         style="stop-color:#7A7A7A"
+         offset="0.93" />
+    </radialGradient>
+    <radialGradient
+       gradientUnits="userSpaceOnUse"
+       r="43.3326"
+       cy="56.5322"
+       cx="57.023399"
+       id="SVGID_1_-78-7-1-7-9-05">
+      <stop
+         id="stop2455-91-9-1-9-52"
+         style="stop-color:#000000"
+         offset="0.72" />
+      <stop
+         id="stop2457-6-6-1-3-52"
+         style="stop-color:#7A7A7A"
+         offset="0.73" />
+      <stop
+         id="stop2459-64-7-1-4-3"
+         style="stop-color:#404040"
+         offset="0.82" />
+      <stop
+         id="stop2461-86-5-93-2-1"
+         style="stop-color:#000000"
+         offset="0.82" />
+      <stop
+         id="stop2463-67-5-8-9-1"
+         style="stop-color:#ADADAD"
+         offset="0.86" />
+      <stop
+         id="stop2465-3-0-8-7-69"
+         style="stop-color:#7A7A7A"
+         offset="0.93" />
+    </radialGradient>
+    <radialGradient
+       gradientUnits="userSpaceOnUse"
+       r="43.3326"
+       cy="56.5322"
+       cx="57.023399"
+       id="SVGID_1_-78-7-1-7-9-86">
+      <stop
+         id="stop2455-91-9-1-9-676"
+         style="stop-color:#000000"
+         offset="0.72" />
+      <stop
+         id="stop2457-6-6-1-3-57"
+         style="stop-color:#7A7A7A"
+         offset="0.73" />
+      <stop
+         id="stop2459-64-7-1-4-12"
+         style="stop-color:#404040"
+         offset="0.82" />
+      <stop
+         id="stop2461-86-5-93-2-17"
+         style="stop-color:#000000"
+         offset="0.82" />
+      <stop
+         id="stop2463-67-5-8-9-11"
+         style="stop-color:#ADADAD"
+         offset="0.86" />
+      <stop
+         id="stop2465-3-0-8-7-7"
+         style="stop-color:#7A7A7A"
+         offset="0.93" />
+    </radialGradient>
+    <radialGradient
+       gradientUnits="userSpaceOnUse"
+       r="43.3326"
+       cy="56.5322"
+       cx="57.023399"
+       id="SVGID_1_-78-7-1-7-9-26">
+      <stop
+         id="stop2455-91-9-1-9-7"
+         style="stop-color:#000000"
+         offset="0.72" />
+      <stop
+         id="stop2457-6-6-1-3-7"
+         style="stop-color:#7A7A7A"
+         offset="0.73" />
+      <stop
+         id="stop2459-64-7-1-4-33"
+         style="stop-color:#404040"
+         offset="0.82" />
+      <stop
+         id="stop2461-86-5-93-2-62"
+         style="stop-color:#000000"
+         offset="0.82" />
+      <stop
+         id="stop2463-67-5-8-9-552"
+         style="stop-color:#ADADAD"
+         offset="0.86" />
+      <stop
+         id="stop2465-3-0-8-7-41"
+         style="stop-color:#7A7A7A"
+         offset="0.93" />
+    </radialGradient>
+    <radialGradient
+       gradientUnits="userSpaceOnUse"
+       r="43.3326"
+       cy="56.5322"
+       cx="57.023399"
+       id="SVGID_1_-78-7-1-7-9-40">
+      <stop
+         id="stop2455-91-9-1-9-36"
+         style="stop-color:#000000"
+         offset="0.72" />
+      <stop
+         id="stop2457-6-6-1-3-54"
+         style="stop-color:#7A7A7A"
+         offset="0.73" />
+      <stop
+         id="stop2459-64-7-1-4-50"
+         style="stop-color:#404040"
+         offset="0.82" />
+      <stop
+         id="stop2461-86-5-93-2-13"
+         style="stop-color:#000000"
+         offset="0.82" />
+      <stop
+         id="stop2463-67-5-8-9-3"
+         style="stop-color:#ADADAD"
+         offset="0.86" />
+      <stop
+         id="stop2465-3-0-8-7-23"
+         style="stop-color:#7A7A7A"
+         offset="0.93" />
+    </radialGradient>
+    <radialGradient
+       gradientUnits="userSpaceOnUse"
+       r="43.3326"
+       cy="56.5322"
+       cx="57.023399"
+       id="SVGID_1_-78-7-1-7-9-42">
+      <stop
+         id="stop2455-91-9-1-9-9"
+         style="stop-color:#000000"
+         offset="0.72" />
+      <stop
+         id="stop2457-6-6-1-3-9"
+         style="stop-color:#7A7A7A"
+         offset="0.73" />
+      <stop
+         id="stop2459-64-7-1-4-161"
+         style="stop-color:#404040"
+         offset="0.82" />
+      <stop
+         id="stop2461-86-5-93-2-08"
+         style="stop-color:#000000"
+         offset="0.82" />
+      <stop
+         id="stop2463-67-5-8-9-12"
+         style="stop-color:#ADADAD"
+         offset="0.86" />
+      <stop
+         id="stop2465-3-0-8-7-68"
+         style="stop-color:#7A7A7A"
+         offset="0.93" />
+    </radialGradient>
+    <radialGradient
+       gradientUnits="userSpaceOnUse"
+       r="43.3326"
+       cy="56.5322"
+       cx="57.023399"
+       id="SVGID_1_-78-7-1-7-9-06">
+      <stop
+         id="stop2455-91-9-1-9-51"
+         style="stop-color:#000000"
+         offset="0.72" />
+      <stop
+         id="stop2457-6-6-1-3-72"
+         style="stop-color:#7A7A7A"
+         offset="0.73" />
+      <stop
+         id="stop2459-64-7-1-4-15"
+         style="stop-color:#404040"
+         offset="0.82" />
+      <stop
+         id="stop2461-86-5-93-2-04"
+         style="stop-color:#000000"
+         offset="0.82" />
+      <stop
+         id="stop2463-67-5-8-9-84"
+         style="stop-color:#ADADAD"
+         offset="0.86" />
+      <stop
+         id="stop2465-3-0-8-7-71"
+         style="stop-color:#7A7A7A"
+         offset="0.93" />
+    </radialGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#SVGID_1_-48-8"
+       id="linearGradient3629"
+       gradientUnits="userSpaceOnUse"
+       x1="6.9839001"
+       y1="42.173801"
+       x2="21.060499"
+       y2="42.173801" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#SVGID_2_-7-3"
+       id="linearGradient3631"
+       gradientUnits="userSpaceOnUse"
+       x1="12.2759"
+       y1="98.423798"
+       x2="15.7676"
+       y2="98.423798" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#SVGID_3_-7-6"
+       id="linearGradient3633"
+       gradientUnits="userSpaceOnUse"
+       x1="6.9839001"
+       y1="76.408203"
+       x2="21.060499"
+       y2="76.408203" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#SVGID_1_-48-8"
+       id="linearGradient5686"
+       gradientUnits="userSpaceOnUse"
+       x1="6.9839001"
+       y1="42.173801"
+       x2="21.060499"
+       y2="42.173801" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#SVGID_2_-7-3"
+       id="linearGradient5688"
+       gradientUnits="userSpaceOnUse"
+       x1="12.2759"
+       y1="98.423798"
+       x2="15.7676"
+       y2="98.423798" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#SVGID_3_-7-6"
+       id="linearGradient5690"
+       gradientUnits="userSpaceOnUse"
+       x1="6.9839001"
+       y1="76.408203"
+       x2="21.060499"
+       y2="76.408203" />
+    <radialGradient
+       gradientUnits="userSpaceOnUse"
+       r="43.3326"
+       cy="56.5322"
+       cx="57.023399"
+       id="SVGID_1_-78-7-1-7-9-89">
+      <stop
+         id="stop2455-91-9-1-9-54"
+         style="stop-color:#000000"
+         offset="0.72" />
+      <stop
+         id="stop2457-6-6-1-3-09"
+         style="stop-color:#7A7A7A"
+         offset="0.73" />
+      <stop
+         id="stop2459-64-7-1-4-2"
+         style="stop-color:#404040"
+         offset="0.82" />
+      <stop
+         id="stop2461-86-5-93-2-7"
+         style="stop-color:#000000"
+         offset="0.82" />
+      <stop
+         id="stop2463-67-5-8-9-75"
+         style="stop-color:#ADADAD"
+         offset="0.86" />
+      <stop
+         id="stop2465-3-0-8-7-94"
+         style="stop-color:#7A7A7A"
+         offset="0.93" />
+    </radialGradient>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -2025,15 +2335,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="1704.4319"
-     inkscape:cy="424.23188"
+     inkscape:zoom="0.5"
+     inkscape:cx="1158.6772"
+     inkscape:cy="540.05409"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
-     inkscape:window-x="1912"
+     inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:snap-global="false"
@@ -2154,62 +2464,18 @@
          y="237.5995"
          style="font-size:27.05685806px;fill:#00ff00;stroke-width:1.44947457"
          id="tspan9710-6-1-7-7">cm</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;"
+       x="811.75861"
+       y="41.967243"
+       id="text7328"><tspan
+         sodipodi:role="line"
+         id="tspan7326"
+         x="811.75861"
+         y="41.967243">Projekt Rakitno</tspan></text>
     <g
-       transform="matrix(0.42914256,0,0,0.42299577,1805.1674,142.15127)"
-       id="g5138">
-      <g
-         id="Group_Button_Ring-6-3-1-9-7-0">
-        <radialGradient
-           gradientUnits="userSpaceOnUse"
-           r="43.3326"
-           cy="56.5322"
-           cx="57.023399"
-           id="radialGradient18791-1-0-2-0">
-          <stop
-             id="stop18779-0-4-0-0"
-             style="stop-color:#000000"
-             offset="0.72" />
-          <stop
-             id="stop18781-1-7-9-9"
-             style="stop-color:#7A7A7A"
-             offset="0.73" />
-          <stop
-             id="stop18783-7-4-3-0"
-             style="stop-color:#404040"
-             offset="0.82" />
-          <stop
-             id="stop18785-5-1-2-0"
-             style="stop-color:#000000"
-             offset="0.82" />
-          <stop
-             id="stop18787-5-0-6-8"
-             style="stop-color:#ADADAD"
-             offset="0.86" />
-          <stop
-             id="stop18789-2-4-6-5"
-             style="stop-color:#7A7A7A"
-             offset="0.93" />
-        </radialGradient>
-        <ellipse
-           style="fill:url(#SVGID_1_-78-7-1-7-9-4);stroke:#000000;stroke-width:0.25"
-           id="ellipse2468-7-7-5-2-1"
-           ry="43.243"
-           rx="43.423"
-           cy="56.533001"
-           cx="57.023998" />
-      </g>
-      <g
-         id="Group_Green_Button_Face-94-0-4-9-1">
-        <path
-           id="path2471-9-0-7-7-0"
-           d="m 85.714,56.508 c 0,15.569 -12.769,28.191 -28.514,28.191 -15.749,0 -28.518,-12.622 -28.518,-28.191 0,-15.571 12.769,-28.192 28.518,-28.192 15.745,0 28.514,12.621 28.514,28.192 z"
-           inkscape:connector-curvature="0"
-           style="fill:#33cc33"
-           inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;0&quot;,&quot;param&quot;:&quot;#FF0000&quot;,&quot;tag&quot;:&quot;max2&quot;},{&quot;data&quot;:&quot;1&quot;,&quot;param&quot;:&quot;#18C318&quot;,&quot;tag&quot;:&quot;max2&quot;}]}" />
-      </g>
-    </g>
-    <g
-       transform="matrix(0,-1.0159941,0.62053401,0,551.90356,759.70038)"
+       transform="matrix(0,-1.0159941,0.62053402,0,552.66612,759.07817)"
        id="g5543">
       <g
          id="Group_Pipe-5">
@@ -2237,7 +2503,7 @@
            inkscape:connector-curvature="0"
            d="M 6.984,0 H 21.061 V 84.348 H 6.984 Z"
            id="path13845-0"
-           style="fill:url(#linearGradient5686)" />
+           style="fill:url(#linearGradient3629)" />
         <linearGradient
            id="linearGradient5660"
            gradientUnits="userSpaceOnUse"
@@ -2262,7 +2528,7 @@
            inkscape:connector-curvature="0"
            d="m 12.276,84.348 h 3.492 V 112.5 h -3.492 z"
            id="path13854-80"
-           style="fill:url(#linearGradient5688)" />
+           style="fill:url(#linearGradient3631)" />
         <path
            style="fill:none;stroke:#4c4c4c;stroke-width:0.25"
            inkscape:connector-curvature="0"
@@ -2334,11 +2600,11 @@
              id="stop8741-9" />
         </linearGradient>
         <path
-           inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;0&quot;,&quot;param&quot;:&quot;#FF0000&quot;,&quot;tag&quot;:&quot;v_alarm&quot;},{&quot;data&quot;:&quot;1&quot;,&quot;param&quot;:&quot;#18C318&quot;,&quot;tag&quot;:&quot;v_alarm&quot;}]}"
+           inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;0&quot;,&quot;param&quot;:&quot;#FF0000&quot;,&quot;tag&quot;:&quot;alarm_sonda&quot;},{&quot;data&quot;:&quot;1&quot;,&quot;param&quot;:&quot;#18C318&quot;,&quot;tag&quot;:&quot;alarm_sonda&quot;}]}"
            inkscape:connector-curvature="0"
            d="M 6.984,70.271 H 21.061 V 82.544 H 6.984 Z"
            id="path13882-6"
-           style="fill:url(#linearGradient5690);stroke:#4c4c4c;stroke-width:0.25" />
+           style="fill:url(#linearGradient3633);stroke:#4c4c4c;stroke-width:0.25" />
         <path
            style="fill:none;stroke:#ffffff;stroke-width:0.25"
            inkscape:connector-curvature="0"
@@ -2362,147 +2628,158 @@
       </g>
     </g>
     <g
-       transform="matrix(0,-1.0159941,0.80280607,0,541.76492,837.24678)"
-       id="g5739">
+       transform="matrix(0,-1.0159941,0.62053402,0,557.61587,834.73859)"
+       id="g5543-5">
       <g
-         id="Group_Pipe"
-         transform="matrix(0.99999998,0,0,0.7729563,3.1139431e-6,18.741099)">
+         id="Group_Pipe-5-4">
         <linearGradient
-           y2="42.173801"
-           x2="21.060499"
-           y1="42.173801"
+           id="linearGradient3747"
+           gradientUnits="userSpaceOnUse"
            x1="6.9839001"
-           gradientUnits="userSpaceOnUse"
-           id="linearGradient8714">
+           y1="42.173801"
+           x2="21.060499"
+           y2="42.173801">
           <stop
-             id="stop8708"
+             offset="0.01"
              style="stop-color:#4D4D4D"
-             offset="0.01" />
+             id="stop8708-3-6" />
           <stop
-             id="stop8710"
+             offset="0.51"
              style="stop-color:#F5F5F5"
-             offset="0.51" />
+             id="stop8710-0-6" />
           <stop
-             id="stop8712"
+             offset="1"
              style="stop-color:#4D4D4D"
-             offset="1" />
+             id="stop8712-1-9" />
         </linearGradient>
         <path
-           style="fill:url(#linearGradient5864)"
-           id="path13845"
+           inkscape:connector-curvature="0"
            d="M 6.984,0 H 21.061 V 84.348 H 6.984 Z"
-           inkscape:connector-curvature="0" />
+           id="path13845-0-9"
+           style="fill:url(#linearGradient5686)" />
         <linearGradient
-           y2="98.423798"
-           x2="15.7676"
-           y1="98.423798"
-           x1="12.2759"
+           id="linearGradient3753"
            gradientUnits="userSpaceOnUse"
-           id="linearGradient8723">
+           x1="12.2759"
+           y1="98.423798"
+           x2="15.7676"
+           y2="98.423798">
           <stop
-             id="stop8717"
+             offset="0.01"
              style="stop-color:#4D4D4D"
-             offset="0.01" />
+             id="stop8717-3-0" />
           <stop
-             id="stop8719"
+             offset="0.51"
              style="stop-color:#F5F5F5"
-             offset="0.51" />
+             id="stop8719-6-1" />
           <stop
-             id="stop8721"
+             offset="1"
              style="stop-color:#4D4D4D"
-             offset="1" />
+             id="stop8721-3-9" />
         </linearGradient>
         <path
-           style="fill:url(#linearGradient5866)"
-           id="path13854"
+           inkscape:connector-curvature="0"
            d="m 12.276,84.348 h 3.492 V 112.5 h -3.492 z"
-           inkscape:connector-curvature="0" />
+           id="path13854-80-7"
+           style="fill:url(#linearGradient5688)" />
         <path
-           id="path13856"
+           style="fill:none;stroke:#4c4c4c;stroke-width:0.25"
+           inkscape:connector-curvature="0"
            d="m 17.568,112.5 -7.093,-3.604 7.093,-3.491 -8.896,-3.491 10.585,-3.49 L 8.673,94.82 19.258,91.329 6.984,87.838 21.061,84.348"
-           inkscape:connector-curvature="0"
-           style="fill:none;stroke:#4c4c4c;stroke-width:0.25" />
+           id="path13856-8-0" />
       </g>
       <g
-         id="Group_Sensor"
-         transform="matrix(0.99999998,0,0,0.7729563,3.1139431e-6,18.741099)">
+         id="Group_Sensor-3-0">
         <path
-           id="path13859"
+           style="fill:#7f7f7f"
+           inkscape:connector-curvature="0"
            d="m 0.002,22.748 h 28.041 v 5.293 H 0.002 Z"
-           inkscape:connector-curvature="0"
-           style="fill:#7f7f7f" />
+           id="path13859-74-2" />
         <path
-           id="path13861"
+           style="fill:#7f7f7f"
+           inkscape:connector-curvature="0"
            d="m 0.002,8.671 h 28.041 v 5.293 H 0.002 Z"
-           inkscape:connector-curvature="0"
-           style="fill:#7f7f7f" />
+           id="path13861-1-2" />
         <path
-           id="path13863"
+           style="fill:#ffffff;stroke:#4c4c4c;stroke-width:0.25"
+           inkscape:connector-curvature="0"
            d="M 5.182,8.671 H 22.75 v 5.293 H 5.182 Z"
-           inkscape:connector-curvature="0"
-           style="fill:#ffffff;stroke:#4c4c4c;stroke-width:0.25" />
+           id="path13863-1-1" />
         <path
-           id="path13865"
-           d="M 5.182,22.748 H 22.75 v 5.293 H 5.182 Z"
+           style="fill:#ffffff;stroke:#4c4c4c;stroke-width:0.25"
            inkscape:connector-curvature="0"
-           style="fill:#ffffff;stroke:#4c4c4c;stroke-width:0.25" />
+           d="M 5.182,22.748 H 22.75 v 5.293 H 5.182 Z"
+           id="path13865-2-3" />
       </g>
       <g
-         id="Group_"
-         transform="matrix(0.99999998,0,0,0.7729563,3.1139431e-6,18.741099)">
+         id="Group_-7-8">
         <path
-           id="path13868"
+           style="fill:none;stroke:#4c4c4c;stroke-width:0.25"
+           inkscape:connector-curvature="0"
            d="m 6.984,59.686 h 14.077 v 8.783 H 6.984 v -8.783"
-           inkscape:connector-curvature="0"
-           style="fill:none;stroke:#4c4c4c;stroke-width:0.25" />
+           id="path13868-6-7" />
         <path
-           id="path13870"
+           style="fill:none;stroke:#4c4c4c;stroke-width:0.25"
+           inkscape:connector-curvature="0"
            d="m 6.984,61.486 h 14.077 v 5.18 H 6.984 v -5.18"
-           inkscape:connector-curvature="0"
-           style="fill:none;stroke:#4c4c4c;stroke-width:0.25" />
+           id="path13870-3-8" />
         <path
-           id="path13872"
-           d="m 6.984,63.176 h 14.077 v 1.803 H 6.984 v -1.803"
+           style="fill:none;stroke:#4c4c4c;stroke-width:0.25"
            inkscape:connector-curvature="0"
-           style="fill:none;stroke:#4c4c4c;stroke-width:0.25" />
+           d="m 6.984,63.176 h 14.077 v 1.803 H 6.984 v -1.803"
+           id="path13872-5-2" />
       </g>
-      <path
-         style="fill:url(#linearGradient5868);stroke:#4c4c4c;stroke-width:0.25"
-         id="path13882"
-         d="M 6.984,70.271 H 21.061 V 82.544 H 6.984 Z"
-         inkscape:connector-curvature="0"
-         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;0&quot;,&quot;param&quot;:&quot;#FF0000&quot;,&quot;tag&quot;:&quot;v_blokada&quot;},{&quot;data&quot;:&quot;1&quot;,&quot;param&quot;:&quot;#18C318&quot;,&quot;tag&quot;:&quot;v_blokada&quot;}]}" />
-      <path
-         id="path13884"
-         d="M 8.673,79.055 H 19.258"
-         inkscape:connector-curvature="0"
-         style="fill:none;stroke:#ffffff;stroke-width:0.25" />
-      <path
-         id="path13886"
-         d="M 8.673,77.252 H 19.258"
-         inkscape:connector-curvature="0"
-         style="fill:none;stroke:#ffffff;stroke-width:0.25" />
-      <path
-         id="path13884-8-0"
-         d="M 8.6989287,74.253021 H 19.283929"
-         inkscape:connector-curvature="0"
-         style="fill:none;stroke:#ffffff;stroke-width:0.25" />
-      <path
-         id="path13886-1-6"
-         d="M 8.6989287,72.450021 H 19.283929"
-         inkscape:connector-curvature="0"
-         style="fill:none;stroke:#ffffff;stroke-width:0.25" />
+      <g
+         transform="matrix(1,0,0,1.2937342,0,-24.245997)"
+         id="Group_Green_Part-2-9">
+        <linearGradient
+           id="linearGradient3770"
+           gradientUnits="userSpaceOnUse"
+           x1="6.9839001"
+           y1="76.408203"
+           x2="21.060499"
+           y2="76.408203">
+          <stop
+             offset="0.01"
+             style="stop-color:#00FF00"
+             id="stop8737-1-4" />
+          <stop
+             offset="0.51"
+             style="stop-color:#ABFFCC"
+             id="stop8739-8-2" />
+          <stop
+             offset="1"
+             style="stop-color:#00FF00"
+             id="stop8741-9-5" />
+        </linearGradient>
+        <path
+           inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;0&quot;,&quot;param&quot;:&quot;#FF0000&quot;,&quot;tag&quot;:&quot;blokada_sonda&quot;},{&quot;data&quot;:&quot;1&quot;,&quot;param&quot;:&quot;#18C318&quot;,&quot;tag&quot;:&quot;blokada_sonda&quot;}]}"
+           inkscape:connector-curvature="0"
+           d="M 6.984,70.271 H 21.061 V 82.544 H 6.984 Z"
+           id="path13882-6-7"
+           style="fill:url(#linearGradient5690);stroke:#4c4c4c;stroke-width:0.25" />
+        <path
+           style="fill:none;stroke:#ffffff;stroke-width:0.25"
+           inkscape:connector-curvature="0"
+           d="M 8.673,79.055 H 19.258"
+           id="path13884-80-7" />
+        <path
+           style="fill:none;stroke:#ffffff;stroke-width:0.25"
+           inkscape:connector-curvature="0"
+           d="M 8.673,77.252 H 19.258"
+           id="path13886-8-0" />
+        <path
+           style="fill:none;stroke:#ffffff;stroke-width:0.25"
+           inkscape:connector-curvature="0"
+           d="M 8.6989287,74.253021 H 19.283929"
+           id="path13884-8-6" />
+        <path
+           style="fill:none;stroke:#ffffff;stroke-width:0.25"
+           inkscape:connector-curvature="0"
+           d="M 8.6989287,72.450021 H 19.283929"
+           id="path13886-1-4" />
+      </g>
     </g>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;"
-       x="811.75861"
-       y="41.967243"
-       id="text7328"><tspan
-         sodipodi:role="line"
-         id="tspan7326"
-         x="811.75861"
-         y="41.967243">Projekt Rakitno</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -3862,19 +4139,19 @@
          id="tspan19114"
          x="868.85181"
          y="553.30536"
-         style="font-size:24.57695389px;fill:#cccccc;stroke-width:1.67570138">Sonda alarm</tspan></text>
+         style="font-size:24.57695389px;fill:#cccccc;stroke-width:1.67570138">Alarm sonda</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:23.55345345px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:1.60591769"
-       x="872.36456"
-       y="607.81134"
+       x="870.31311"
+       y="606.71454"
        id="text19116-3"
        transform="scale(0.7311864,1.3676403)"><tspan
          sodipodi:role="line"
          id="tspan19114-4"
-         x="872.36456"
-         y="607.81134"
-         style="font-size:23.55345345px;fill:#cccccc;stroke-width:1.60591769">Sonda blokada</tspan></text>
+         x="870.31311"
+         y="606.71454"
+         style="font-size:23.55345345px;fill:#cccccc;stroke-width:1.60591769">Blokada sonda</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:13.83976555px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.94362062"
@@ -4694,118 +4971,12 @@
        y="732.69281"
        transform="matrix(0.90465522,-0.42614426,0.42053747,0.90727517,0,0)"
        inkscape:label="{&quot;attr&quot;:&quot;bar&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;running&quot;}" />
-    <g
-       id="g5056"
-       transform="matrix(0.42914256,0,0,0.42299577,1807.9958,285.69394)">
-      <g
-         id="Group_Button_Ring-6-3-1-9-7-1">
-        <radialGradient
-           id="radialGradient18791-1-0-2-9"
-           cx="57.023399"
-           cy="56.5322"
-           r="43.3326"
-           gradientUnits="userSpaceOnUse">
-          <stop
-             offset="0.72"
-             style="stop-color:#000000"
-             id="stop18779-0-4-0-5" />
-          <stop
-             offset="0.73"
-             style="stop-color:#7A7A7A"
-             id="stop18781-1-7-9-5" />
-          <stop
-             offset="0.82"
-             style="stop-color:#404040"
-             id="stop18783-7-4-3-8" />
-          <stop
-             offset="0.82"
-             style="stop-color:#000000"
-             id="stop18785-5-1-2-9" />
-          <stop
-             offset="0.86"
-             style="stop-color:#ADADAD"
-             id="stop18787-5-0-6-50" />
-          <stop
-             offset="0.93"
-             style="stop-color:#7A7A7A"
-             id="stop18789-2-4-6-1" />
-        </radialGradient>
-        <ellipse
-           cx="57.023998"
-           cy="56.533001"
-           rx="43.423"
-           ry="43.243"
-           id="ellipse2468-7-7-5-2-8"
-           style="fill:url(#SVGID_1_-78-7-1-7-9-8);stroke:#000000;stroke-width:0.25" />
-      </g>
-      <g
-         id="Group_Green_Button_Face-94-0-4-9-7">
-        <path
-           inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;0&quot;,&quot;param&quot;:&quot;#FF0000&quot;,&quot;tag&quot;:&quot;min2&quot;},{&quot;data&quot;:&quot;1&quot;,&quot;param&quot;:&quot;#18C318&quot;,&quot;tag&quot;:&quot;min2&quot;}]}"
-           style="fill:#33cc33"
-           inkscape:connector-curvature="0"
-           d="m 85.714,56.508 c 0,15.569 -12.769,28.191 -28.514,28.191 -15.749,0 -28.518,-12.622 -28.518,-28.191 0,-15.571 12.769,-28.192 28.518,-28.192 15.745,0 28.514,12.621 28.514,28.192 z"
-           id="path2471-9-0-7-7-4" />
-      </g>
-    </g>
-    <g
-       transform="matrix(0.42914256,0,0,0.42299577,1329.9916,146.74746)"
-       id="g5228">
-      <g
-         id="Group_Button_Ring-6-3-1-9-7-8"
-         transform="translate(1.1574088e-5,-5.8366575e-6)">
-        <radialGradient
-           id="radialGradient18791-1-0-2-6"
-           cx="57.023399"
-           cy="56.5322"
-           r="43.3326"
-           gradientUnits="userSpaceOnUse">
-          <stop
-             offset="0.72"
-             style="stop-color:#000000"
-             id="stop18779-0-4-0-55" />
-          <stop
-             offset="0.73"
-             style="stop-color:#7A7A7A"
-             id="stop18781-1-7-9-8" />
-          <stop
-             offset="0.82"
-             style="stop-color:#404040"
-             id="stop18783-7-4-3-7" />
-          <stop
-             offset="0.82"
-             style="stop-color:#000000"
-             id="stop18785-5-1-2-90" />
-          <stop
-             offset="0.86"
-             style="stop-color:#ADADAD"
-             id="stop18787-5-0-6-3" />
-          <stop
-             offset="0.93"
-             style="stop-color:#7A7A7A"
-             id="stop18789-2-4-6-6" />
-        </radialGradient>
-        <ellipse
-           cx="57.023998"
-           cy="56.533001"
-           rx="43.423"
-           ry="43.243"
-           id="ellipse2468-7-7-5-2-85"
-           style="fill:url(#SVGID_1_-78-7-1-7-9-91);stroke:#000000;stroke-width:0.25" />
-      </g>
-      <path
-         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;0&quot;,&quot;param&quot;:&quot;#FF0000&quot;,&quot;tag&quot;:&quot;max1&quot;},{&quot;data&quot;:&quot;1&quot;,&quot;param&quot;:&quot;#18C318&quot;,&quot;tag&quot;:&quot;max1&quot;}]}"
-         style="fill:#33cc33"
-         inkscape:connector-curvature="0"
-         d="m 85.714,56.508 c 0,15.569 -12.769,28.191 -28.514,28.191 -15.749,0 -28.518,-12.622 -28.518,-28.191 0,-15.571 12.769,-28.192 28.518,-28.192 15.745,0 28.514,12.621 28.514,28.192 z"
-         id="path2471-9-0-7-7-1" />
-    </g>
     <flowRoot
        xml:space="preserve"
        id="flowRoot9507-2-0-7-2-9-55"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#00ff00;fill-opacity:1;stroke:none"
        transform="matrix(0.65878311,0,0,1.0325001,1721.2221,808.37901)"
-       inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;v_akumulator_vs&quot;,&quot;type&quot;:&quot;Good&quot;}"><flowRegion
+       inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;vs_akumu&quot;,&quot;type&quot;:&quot;Good&quot;}"><flowRegion
          id="flowRegion9509-9-3-2-5-5-4"
          style="fill:#00ff00"><rect
            id="rect9511-2-4-7-6-6-5"
@@ -4816,58 +4987,6 @@
            style="fill:#00ff00" /></flowRegion><flowPara
          id="flowPara9513-0-5-1-8-5-0">%6.2f</flowPara><flowPara
          id="flowPara9515-6-6-28-1-8-1" /></flowRoot>    <g
-       transform="matrix(0.42914256,0,0,0.42299577,1874.7561,916.54263)"
-       id="g5934">
-      <g
-         transform="translate(1.1574088e-5,-5.8366575e-6)"
-         id="Group_Button_Ring-6-3-1-9-7-10">
-        <radialGradient
-           gradientUnits="userSpaceOnUse"
-           r="43.3326"
-           cy="56.5322"
-           cx="57.023399"
-           id="radialGradient18791-1-0-2-8">
-          <stop
-             id="stop18779-0-4-0-05"
-             style="stop-color:#000000"
-             offset="0.72" />
-          <stop
-             id="stop18781-1-7-9-2"
-             style="stop-color:#7A7A7A"
-             offset="0.73" />
-          <stop
-             id="stop18783-7-4-3-6"
-             style="stop-color:#404040"
-             offset="0.82" />
-          <stop
-             id="stop18785-5-1-2-2"
-             style="stop-color:#000000"
-             offset="0.82" />
-          <stop
-             id="stop18787-5-0-6-87"
-             style="stop-color:#ADADAD"
-             offset="0.86" />
-          <stop
-             id="stop18789-2-4-6-2"
-             style="stop-color:#7A7A7A"
-             offset="0.93" />
-        </radialGradient>
-        <ellipse
-           style="fill:url(#SVGID_1_-78-7-1-7-9-0);stroke:#000000;stroke-width:0.25"
-           id="ellipse2468-7-7-5-2-0"
-           ry="43.243"
-           rx="43.423"
-           cy="56.533001"
-           cx="57.023998" />
-      </g>
-      <path
-         id="path2471-9-0-7-7-8"
-         d="m 85.714,56.508 c 0,15.569 -12.769,28.191 -28.514,28.191 -15.749,0 -28.518,-12.622 -28.518,-28.191 0,-15.571 12.769,-28.192 28.518,-28.192 15.745,0 28.514,12.621 28.514,28.192 z"
-         inkscape:connector-curvature="0"
-         style="fill:#33cc33"
-         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;0&quot;,&quot;param&quot;:&quot;#FF0000&quot;,&quot;tag&quot;:&quot;acdc&quot;},{&quot;data&quot;:&quot;1&quot;,&quot;param&quot;:&quot;#18C318&quot;,&quot;tag&quot;:&quot;acdc&quot;}]}" />
-    </g>
-    <g
        id="g7076"
        transform="translate(16.970563,14.142136)">
       <text
@@ -4944,159 +5063,117 @@
            sodipodi:role="line">Siemens Soft Starter</tspan></text>
       <g
          id="g5934-7"
-         transform="matrix(0.42914256,0,0,0.42299577,228.67279,261.29876)">
+         transform="matrix(0.42914256,0,0,0.42299577,226.67279,261.29876)">
         <g
-           id="Group_Button_Ring-6-3-1-9-7-10-2"
-           transform="translate(1.1574088e-5,-5.8366575e-6)">
-          <radialGradient
-             id="radialGradient18791-1-0-2-8-9"
-             cx="57.023399"
-             cy="56.5322"
-             r="43.3326"
-             gradientUnits="userSpaceOnUse">
-            <stop
-               offset="0.72"
-               style="stop-color:#000000"
-               id="stop18779-0-4-0-05-5" />
-            <stop
-               offset="0.73"
-               style="stop-color:#7A7A7A"
-               id="stop18781-1-7-9-2-8" />
-            <stop
-               offset="0.82"
-               style="stop-color:#404040"
-               id="stop18783-7-4-3-6-2" />
-            <stop
-               offset="0.82"
-               style="stop-color:#000000"
-               id="stop18785-5-1-2-2-8" />
-            <stop
-               offset="0.86"
-               style="stop-color:#ADADAD"
-               id="stop18787-5-0-6-87-2" />
-            <stop
-               offset="0.93"
-               style="stop-color:#7A7A7A"
-               id="stop18789-2-4-6-2-3" />
-          </radialGradient>
-          <ellipse
-             cx="57.023998"
-             cy="56.533001"
-             rx="43.423"
-             ry="43.243"
-             id="ellipse2468-7-7-5-2-0-9"
-             style="fill:url(#SVGID_1_-78-7-1-7-9-0-5);stroke:#000000;stroke-width:0.25" />
+           id="g2500-0-3-87-8-9"
+           transform="translate(-1.6476896,4.1791522)"
+           inkscape:label="">
+          <g
+             id="Group_Button_Ring-6-3-1-9-7-53">
+            <radialGradient
+               gradientUnits="userSpaceOnUse"
+               r="43.3326"
+               cy="56.5322"
+               cx="57.023399"
+               id="radialGradient18791-1-0-2-004">
+              <stop
+                 id="stop18779-0-4-0-85"
+                 style="stop-color:#000000"
+                 offset="0.72" />
+              <stop
+                 id="stop18781-1-7-9-0"
+                 style="stop-color:#7A7A7A"
+                 offset="0.73" />
+              <stop
+                 id="stop18783-7-4-3-3"
+                 style="stop-color:#404040"
+                 offset="0.82" />
+              <stop
+                 id="stop18785-5-1-2-9"
+                 style="stop-color:#000000"
+                 offset="0.82" />
+              <stop
+                 id="stop18787-5-0-6-8"
+                 style="stop-color:#ADADAD"
+                 offset="0.86" />
+              <stop
+                 id="stop18789-2-4-6-8"
+                 style="stop-color:#7A7A7A"
+                 offset="0.93" />
+            </radialGradient>
+            <ellipse
+               style="fill:url(#SVGID_1_-78-7-1-7-9-86);stroke:#000000;stroke-width:0.25"
+               id="ellipse2468-7-7-5-2-38"
+               ry="43.243"
+               rx="43.423"
+               cy="56.533001"
+               cx="57.023998" />
+          </g>
+          <g
+             id="Group_Green_Button_Face-94-0-4-9-7">
+            <path
+               id="path2471-9-0-7-7-8"
+               d="m 85.714,56.508 c 0,15.569 -12.769,28.191 -28.514,28.191 -15.749,0 -28.518,-12.622 -28.518,-28.191 0,-15.571 12.769,-28.192 28.518,-28.192 15.745,0 28.514,12.621 28.514,28.192 z"
+               inkscape:connector-curvature="0"
+               style="fill:#33cc33"
+               inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;0&quot;,&quot;param&quot;:&quot;#FF0000&quot;,&quot;tag&quot;:&quot;on_run&quot;},{&quot;data&quot;:&quot;1&quot;,&quot;param&quot;:&quot;#18C318&quot;,&quot;tag&quot;:&quot;on_run&quot;}]}" />
+          </g>
         </g>
-        <path
-           inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;0&quot;,&quot;param&quot;:&quot;#FF0000&quot;,&quot;tag&quot;:&quot;acdc&quot;},{&quot;data&quot;:&quot;1&quot;,&quot;param&quot;:&quot;#18C318&quot;,&quot;tag&quot;:&quot;acdc&quot;}]}"
-           style="fill:#33cc33"
-           inkscape:connector-curvature="0"
-           d="m 85.714,56.508 c 0,15.569 -12.769,28.191 -28.514,28.191 -15.749,0 -28.518,-12.622 -28.518,-28.191 0,-15.571 12.769,-28.192 28.518,-28.192 15.745,0 28.514,12.621 28.514,28.192 z"
-           id="path2471-9-0-7-7-8-3" />
       </g>
       <g
-         id="g5934-2"
-         transform="matrix(0.42914256,0,0,0.42299577,228.67279,317.8673)">
+         id="g2500-0-3-87-8-08"
+         transform="matrix(0.42914256,0,0,0.42299577,226.84438,391.75996)"
+         inkscape:label="">
         <g
-           id="Group_Button_Ring-6-3-1-9-7-10-0"
-           transform="translate(1.1574088e-5,-5.8366575e-6)">
+           id="Group_Button_Ring-6-3-1-9-7-9">
           <radialGradient
-             id="radialGradient18791-1-0-2-8-5"
-             cx="57.023399"
-             cy="56.5322"
+             gradientUnits="userSpaceOnUse"
              r="43.3326"
-             gradientUnits="userSpaceOnUse">
+             cy="56.5322"
+             cx="57.023399"
+             id="radialGradient18791-1-0-2-6">
             <stop
-               offset="0.72"
+               id="stop18779-0-4-0-09"
                style="stop-color:#000000"
-               id="stop18779-0-4-0-05-7" />
+               offset="0.72" />
             <stop
-               offset="0.73"
+               id="stop18781-1-7-9-8"
                style="stop-color:#7A7A7A"
-               id="stop18781-1-7-9-2-7" />
+               offset="0.73" />
             <stop
-               offset="0.82"
+               id="stop18783-7-4-3-4"
                style="stop-color:#404040"
-               id="stop18783-7-4-3-6-9" />
+               offset="0.82" />
             <stop
-               offset="0.82"
+               id="stop18785-5-1-2-2"
                style="stop-color:#000000"
-               id="stop18785-5-1-2-2-87" />
+               offset="0.82" />
             <stop
-               offset="0.86"
+               id="stop18787-5-0-6-3"
                style="stop-color:#ADADAD"
-               id="stop18787-5-0-6-87-8" />
+               offset="0.86" />
             <stop
-               offset="0.93"
+               id="stop18789-2-4-6-51"
                style="stop-color:#7A7A7A"
-               id="stop18789-2-4-6-2-6" />
+               offset="0.93" />
           </radialGradient>
           <ellipse
-             cx="57.023998"
-             cy="56.533001"
-             rx="43.423"
+             style="fill:url(#SVGID_1_-78-7-1-7-9-40);stroke:#000000;stroke-width:0.25"
+             id="ellipse2468-7-7-5-2-31"
              ry="43.243"
-             id="ellipse2468-7-7-5-2-0-0"
-             style="fill:url(#SVGID_1_-78-7-1-7-9-0-1);stroke:#000000;stroke-width:0.25" />
+             rx="43.423"
+             cy="56.533001"
+             cx="57.023998" />
         </g>
-        <path
-           inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;0&quot;,&quot;param&quot;:&quot;#FF0000&quot;,&quot;tag&quot;:&quot;acdc&quot;},{&quot;data&quot;:&quot;1&quot;,&quot;param&quot;:&quot;#18C318&quot;,&quot;tag&quot;:&quot;acdc&quot;}]}"
-           style="fill:#33cc33"
-           inkscape:connector-curvature="0"
-           d="m 85.714,56.508 c 0,15.569 -12.769,28.191 -28.514,28.191 -15.749,0 -28.518,-12.622 -28.518,-28.191 0,-15.571 12.769,-28.192 28.518,-28.192 15.745,0 28.514,12.621 28.514,28.192 z"
-           id="path2471-9-0-7-7-8-7" />
-      </g>
-      <g
-         id="g5934-26"
-         transform="matrix(0.42914256,0,0,0.42299577,230.08701,392.82062)">
         <g
-           id="Group_Button_Ring-6-3-1-9-7-10-6"
-           transform="translate(1.1574088e-5,-5.8366575e-6)">
-          <radialGradient
-             id="radialGradient18791-1-0-2-8-0"
-             cx="57.023399"
-             cy="56.5322"
-             r="43.3326"
-             gradientUnits="userSpaceOnUse">
-            <stop
-               offset="0.72"
-               style="stop-color:#000000"
-               id="stop18779-0-4-0-05-9" />
-            <stop
-               offset="0.73"
-               style="stop-color:#7A7A7A"
-               id="stop18781-1-7-9-2-87" />
-            <stop
-               offset="0.82"
-               style="stop-color:#404040"
-               id="stop18783-7-4-3-6-8" />
-            <stop
-               offset="0.82"
-               style="stop-color:#000000"
-               id="stop18785-5-1-2-2-0" />
-            <stop
-               offset="0.86"
-               style="stop-color:#ADADAD"
-               id="stop18787-5-0-6-87-89" />
-            <stop
-               offset="0.93"
-               style="stop-color:#7A7A7A"
-               id="stop18789-2-4-6-2-8" />
-          </radialGradient>
-          <ellipse
-             cx="57.023998"
-             cy="56.533001"
-             rx="43.423"
-             ry="43.243"
-             id="ellipse2468-7-7-5-2-0-7"
-             style="fill:url(#SVGID_1_-78-7-1-7-9-0-0);stroke:#000000;stroke-width:0.25" />
+           id="Group_Green_Button_Face-94-0-4-9-24">
+          <path
+             id="path2471-9-0-7-7-27"
+             d="m 85.714,56.508 c 0,15.569 -12.769,28.191 -28.514,28.191 -15.749,0 -28.518,-12.622 -28.518,-28.191 0,-15.571 12.769,-28.192 28.518,-28.192 15.745,0 28.514,12.621 28.514,28.192 z"
+             inkscape:connector-curvature="0"
+             style="fill:#33cc33"
+             inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;0&quot;,&quot;param&quot;:&quot;#FF0000&quot;,&quot;tag&quot;:&quot;failure_overload&quot;},{&quot;data&quot;:&quot;1&quot;,&quot;param&quot;:&quot;#18C318&quot;,&quot;tag&quot;:&quot;failure_overload&quot;}]}" />
         </g>
-        <path
-           inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;0&quot;,&quot;param&quot;:&quot;#FF0000&quot;,&quot;tag&quot;:&quot;acdc&quot;},{&quot;data&quot;:&quot;1&quot;,&quot;param&quot;:&quot;#18C318&quot;,&quot;tag&quot;:&quot;acdc&quot;}]}"
-           style="fill:#33cc33"
-           inkscape:connector-curvature="0"
-           d="m 85.714,56.508 c 0,15.569 -12.769,28.191 -28.514,28.191 -15.749,0 -28.518,-12.622 -28.518,-28.191 0,-15.571 12.769,-28.192 28.518,-28.192 15.745,0 28.514,12.621 28.514,28.192 z"
-           id="path2471-9-0-7-7-8-39" />
       </g>
     </g>
     <g
@@ -5175,108 +5252,114 @@
            x="178.33003"
            sodipodi:role="line">%f5.2</tspan></text>
       <g
-         id="g5934-7-5"
-         transform="matrix(0.42914256,0,0,0.42299577,177.76111,552.62677)">
+         id="g2500-0-3-87-8-3"
+         transform="matrix(0.42914256,0,0,0.42299577,177.01891,551.00352)"
+         inkscape:label="">
         <g
-           id="Group_Button_Ring-6-3-1-9-7-10-2-8"
-           transform="translate(1.1574088e-5,-5.8366575e-6)">
+           id="Group_Button_Ring-6-3-1-9-7-10">
           <radialGradient
-             id="radialGradient18791-1-0-2-8-9-1"
-             cx="57.023399"
-             cy="56.5322"
+             gradientUnits="userSpaceOnUse"
              r="43.3326"
-             gradientUnits="userSpaceOnUse">
+             cy="56.5322"
+             cx="57.023399"
+             id="radialGradient18791-1-0-2-05">
             <stop
-               offset="0.72"
+               id="stop18779-0-4-0-69"
                style="stop-color:#000000"
-               id="stop18779-0-4-0-05-5-8" />
+               offset="0.72" />
             <stop
-               offset="0.73"
+               id="stop18781-1-7-9-93"
                style="stop-color:#7A7A7A"
-               id="stop18781-1-7-9-2-8-4" />
+               offset="0.73" />
             <stop
-               offset="0.82"
+               id="stop18783-7-4-3-50"
                style="stop-color:#404040"
-               id="stop18783-7-4-3-6-2-8" />
+               offset="0.82" />
             <stop
-               offset="0.82"
+               id="stop18785-5-1-2-8"
                style="stop-color:#000000"
-               id="stop18785-5-1-2-2-8-5" />
+               offset="0.82" />
             <stop
-               offset="0.86"
+               id="stop18787-5-0-6-37"
                style="stop-color:#ADADAD"
-               id="stop18787-5-0-6-87-2-5" />
+               offset="0.86" />
             <stop
-               offset="0.93"
+               id="stop18789-2-4-6-7"
                style="stop-color:#7A7A7A"
-               id="stop18789-2-4-6-2-3-6" />
+               offset="0.93" />
           </radialGradient>
           <ellipse
-             cx="57.023998"
-             cy="56.533001"
-             rx="43.423"
+             style="fill:url(#SVGID_1_-78-7-1-7-9-42);stroke:#000000;stroke-width:0.25"
+             id="ellipse2468-7-7-5-2-5"
              ry="43.243"
-             id="ellipse2468-7-7-5-2-0-9-4"
-             style="fill:url(#SVGID_1_-78-7-1-7-9-0-5-3);stroke:#000000;stroke-width:0.25" />
+             rx="43.423"
+             cy="56.533001"
+             cx="57.023998" />
         </g>
-        <path
-           inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;0&quot;,&quot;param&quot;:&quot;#FF0000&quot;,&quot;tag&quot;:&quot;acdc&quot;},{&quot;data&quot;:&quot;1&quot;,&quot;param&quot;:&quot;#18C318&quot;,&quot;tag&quot;:&quot;acdc&quot;}]}"
-           style="fill:#33cc33"
-           inkscape:connector-curvature="0"
-           d="m 85.714,56.508 c 0,15.569 -12.769,28.191 -28.514,28.191 -15.749,0 -28.518,-12.622 -28.518,-28.191 0,-15.571 12.769,-28.192 28.518,-28.192 15.745,0 28.514,12.621 28.514,28.192 z"
-           id="path2471-9-0-7-7-8-3-4" />
+        <g
+           id="Group_Green_Button_Face-94-0-4-9-1">
+          <path
+             id="path2471-9-0-7-7-17"
+             d="m 85.714,56.508 c 0,15.569 -12.769,28.191 -28.514,28.191 -15.749,0 -28.518,-12.622 -28.518,-28.191 0,-15.571 12.769,-28.192 28.518,-28.192 15.745,0 28.514,12.621 28.514,28.192 z"
+             inkscape:connector-curvature="0"
+             style="fill:#33cc33"
+             inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;0&quot;,&quot;param&quot;:&quot;#FF0000&quot;,&quot;tag&quot;:&quot;alarm_sonda&quot;},{&quot;data&quot;:&quot;1&quot;,&quot;param&quot;:&quot;#18C318&quot;,&quot;tag&quot;:&quot;alarm_sonda&quot;}]}" />
+        </g>
       </g>
       <g
-         id="g5934-2-6"
-         transform="matrix(0.42914256,0,0,0.42299577,177.76111,609.19531)">
+         id="g2500-0-3-87-8-5"
+         transform="matrix(0.42914256,0,0,0.42299577,176.01891,606.00352)"
+         inkscape:label="">
         <g
-           id="Group_Button_Ring-6-3-1-9-7-10-0-5"
-           transform="translate(1.1574088e-5,-5.8366575e-6)">
+           id="Group_Button_Ring-6-3-1-9-7-4">
           <radialGradient
-             id="radialGradient18791-1-0-2-8-5-8"
-             cx="57.023399"
-             cy="56.5322"
+             gradientUnits="userSpaceOnUse"
              r="43.3326"
-             gradientUnits="userSpaceOnUse">
+             cy="56.5322"
+             cx="57.023399"
+             id="radialGradient18791-1-0-2-9">
             <stop
-               offset="0.72"
+               id="stop18779-0-4-0-9"
                style="stop-color:#000000"
-               id="stop18779-0-4-0-05-7-0" />
+               offset="0.72" />
             <stop
-               offset="0.73"
+               id="stop18781-1-7-9-87"
                style="stop-color:#7A7A7A"
-               id="stop18781-1-7-9-2-7-1" />
+               offset="0.73" />
             <stop
-               offset="0.82"
+               id="stop18783-7-4-3-8"
                style="stop-color:#404040"
-               id="stop18783-7-4-3-6-9-3" />
+               offset="0.82" />
             <stop
-               offset="0.82"
+               id="stop18785-5-1-2-1"
                style="stop-color:#000000"
-               id="stop18785-5-1-2-2-87-0" />
+               offset="0.82" />
             <stop
-               offset="0.86"
+               id="stop18787-5-0-6-31"
                style="stop-color:#ADADAD"
-               id="stop18787-5-0-6-87-8-8" />
+               offset="0.86" />
             <stop
-               offset="0.93"
+               id="stop18789-2-4-6-1"
                style="stop-color:#7A7A7A"
-               id="stop18789-2-4-6-2-6-5" />
+               offset="0.93" />
           </radialGradient>
           <ellipse
-             cx="57.023998"
-             cy="56.533001"
-             rx="43.423"
+             style="fill:url(#SVGID_1_-78-7-1-7-9-06);stroke:#000000;stroke-width:0.25"
+             id="ellipse2468-7-7-5-2-6"
              ry="43.243"
-             id="ellipse2468-7-7-5-2-0-0-9"
-             style="fill:url(#SVGID_1_-78-7-1-7-9-0-1-1);stroke:#000000;stroke-width:0.25" />
+             rx="43.423"
+             cy="56.533001"
+             cx="57.023998" />
         </g>
-        <path
-           inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;0&quot;,&quot;param&quot;:&quot;#FF0000&quot;,&quot;tag&quot;:&quot;acdc&quot;},{&quot;data&quot;:&quot;1&quot;,&quot;param&quot;:&quot;#18C318&quot;,&quot;tag&quot;:&quot;acdc&quot;}]}"
-           style="fill:#33cc33"
-           inkscape:connector-curvature="0"
-           d="m 85.714,56.508 c 0,15.569 -12.769,28.191 -28.514,28.191 -15.749,0 -28.518,-12.622 -28.518,-28.191 0,-15.571 12.769,-28.192 28.518,-28.192 15.745,0 28.514,12.621 28.514,28.192 z"
-           id="path2471-9-0-7-7-8-7-5" />
+        <g
+           id="Group_Green_Button_Face-94-0-4-9-96">
+          <path
+             id="path2471-9-0-7-7-22"
+             d="m 85.714,56.508 c 0,15.569 -12.769,28.191 -28.514,28.191 -15.749,0 -28.518,-12.622 -28.518,-28.191 0,-15.571 12.769,-28.192 28.518,-28.192 15.745,0 28.514,12.621 28.514,28.192 z"
+             inkscape:connector-curvature="0"
+             style="fill:#33cc33"
+             inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;0&quot;,&quot;param&quot;:&quot;#FF0000&quot;,&quot;tag&quot;:&quot;blokada_sonda&quot;},{&quot;data&quot;:&quot;1&quot;,&quot;param&quot;:&quot;#18C318&quot;,&quot;tag&quot;:&quot;blokada_sonda&quot;}]}" />
+        </g>
       </g>
     </g>
     <g
@@ -5729,22 +5812,7 @@
            x="46.697704"
            id="tspan2801-6-7-0-9-8-6-6"
            sodipodi:role="line">AC DC 24V</tspan></text>
-      <flowRoot
-         inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%n=test1&quot;]},{&quot;attr&quot;:&quot;open&quot;,&quot;height&quot;:400,&quot;istag&quot;:1,&quot;src&quot;:&quot;test1&quot;,&quot;type&quot;:&quot;_blank&quot;,&quot;width&quot;:500,&quot;x&quot;:100,&quot;y&quot;:100}"
-         transform="matrix(0.65878311,0,0,1.0325001,74.967583,-74.450872)"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#00ff00;fill-opacity:1;stroke:none"
-         id="flowRoot9507-2-0-7-2-6-8"
-         xml:space="preserve"><flowRegion
-           style="fill:#00ff00"
-           id="flowRegion9509-9-3-2-5-9-5"><rect
-             style="fill:#00ff00"
-             y="150"
-             x="220"
-             height="60"
-             width="220"
-             id="rect9511-2-4-7-6-64-0" /></flowRegion><flowPara
-           id="flowPara9513-0-5-1-8-8-9">%6.2f</flowPara><flowPara
-           id="flowPara9515-6-6-28-1-93-6" /></flowRoot>      <g
+      <g
          transform="matrix(0.13454416,0,0,0.15208905,17.873598,130.12094)"
          id="g7373-05">
         <polygon
@@ -5902,58 +5970,6 @@
            x="59.76424"
            id="tspan19092"
            sodipodi:role="line">CS</tspan></text>
-      <g
-         id="g5934-3"
-         transform="matrix(0.42914256,0,0,0.42299577,231.50123,33.610377)">
-        <g
-           id="Group_Button_Ring-6-3-1-9-7-10-8"
-           transform="translate(1.1574088e-5,-5.8366575e-6)">
-          <radialGradient
-             id="radialGradient18791-1-0-2-8-02"
-             cx="57.023399"
-             cy="56.5322"
-             r="43.3326"
-             gradientUnits="userSpaceOnUse">
-            <stop
-               offset="0.72"
-               style="stop-color:#000000"
-               id="stop18779-0-4-0-05-77" />
-            <stop
-               offset="0.73"
-               style="stop-color:#7A7A7A"
-               id="stop18781-1-7-9-2-3" />
-            <stop
-               offset="0.82"
-               style="stop-color:#404040"
-               id="stop18783-7-4-3-6-4" />
-            <stop
-               offset="0.82"
-               style="stop-color:#000000"
-               id="stop18785-5-1-2-2-08" />
-            <stop
-               offset="0.86"
-               style="stop-color:#ADADAD"
-               id="stop18787-5-0-6-87-7" />
-            <stop
-               offset="0.93"
-               style="stop-color:#7A7A7A"
-               id="stop18789-2-4-6-2-1" />
-          </radialGradient>
-          <ellipse
-             cx="57.023998"
-             cy="56.533001"
-             rx="43.423"
-             ry="43.243"
-             id="ellipse2468-7-7-5-2-0-3"
-             style="fill:url(#SVGID_1_-78-7-1-7-9-0-3);stroke:#000000;stroke-width:0.25" />
-        </g>
-        <path
-           inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;0&quot;,&quot;param&quot;:&quot;#FF0000&quot;,&quot;tag&quot;:&quot;acdc&quot;},{&quot;data&quot;:&quot;1&quot;,&quot;param&quot;:&quot;#18C318&quot;,&quot;tag&quot;:&quot;acdc&quot;}]}"
-           style="fill:#33cc33"
-           inkscape:connector-curvature="0"
-           d="m 85.714,56.508 c 0,15.569 -12.769,28.191 -28.514,28.191 -15.749,0 -28.518,-12.622 -28.518,-28.191 0,-15.571 12.769,-28.192 28.518,-28.192 15.745,0 28.514,12.621 28.514,28.192 z"
-           id="path2471-9-0-7-7-8-79" />
-      </g>
       <text
          transform="scale(0.94070049,1.0630376)"
          id="text2803-6-3-8-0"
@@ -5966,6 +5982,61 @@
            y="25.22942"
            x="76.294083"
            sodipodi:role="line">Energetika CS</tspan></text>
+      <g
+         id="g2500-0-3-87-8-6"
+         transform="matrix(0.42914256,0,0,0.42299577,229.1438,34.045149)"
+         inkscape:label="">
+        <g
+           id="Group_Button_Ring-6-3-1-9-7-7">
+          <radialGradient
+             gradientUnits="userSpaceOnUse"
+             r="43.3326"
+             cy="56.5322"
+             cx="57.023399"
+             id="radialGradient18791-1-0-2-93">
+            <stop
+               id="stop18779-0-4-0-7"
+               style="stop-color:#000000"
+               offset="0.72" />
+            <stop
+               id="stop18781-1-7-9-2"
+               style="stop-color:#7A7A7A"
+               offset="0.73" />
+            <stop
+               id="stop18783-7-4-3-7"
+               style="stop-color:#404040"
+               offset="0.82" />
+            <stop
+               id="stop18785-5-1-2-76"
+               style="stop-color:#000000"
+               offset="0.82" />
+            <stop
+               id="stop18787-5-0-6-34"
+               style="stop-color:#ADADAD"
+               offset="0.86" />
+            <stop
+               id="stop18789-2-4-6-6"
+               style="stop-color:#7A7A7A"
+               offset="0.93" />
+          </radialGradient>
+          <ellipse
+             style="fill:url(#SVGID_1_-78-7-1-7-9-89);stroke:#000000;stroke-width:0.25"
+             id="ellipse2468-7-7-5-2-61"
+             ry="43.243"
+             rx="43.423"
+             cy="56.533001"
+             cx="57.023998" />
+        </g>
+        <g
+           id="Group_Green_Button_Face-94-0-4-9-6">
+          <path
+             id="path2471-9-0-7-7-35"
+             d="m 85.714,56.508 c 0,15.569 -12.769,28.191 -28.514,28.191 -15.749,0 -28.518,-12.622 -28.518,-28.191 0,-15.571 12.769,-28.192 28.518,-28.192 15.745,0 28.514,12.621 28.514,28.192 z"
+             inkscape:connector-curvature="0"
+             style="fill:#33cc33"
+             inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;0&quot;,&quot;param&quot;:&quot;#FF0000&quot;,&quot;tag&quot;:&quot;cs_acdc&quot;},{&quot;data&quot;:&quot;1&quot;,&quot;param&quot;:&quot;#18C318&quot;,&quot;tag&quot;:&quot;cs_acdc&quot;}]}" />
+        </g>
+      </g>
     </g>
     <text
        xml:space="preserve"
@@ -5978,7 +6049,7 @@
          x="1833.6495"
          y="859.80756"
          style="font-size:27.05685806px;fill:#00ffff;stroke-width:1.44947457"
-         id="tspan12846-4-4-2">Energetika CS</tspan></text>
+         id="tspan12846-4-4-2">Energetika VS</tspan></text>
     <rect
        style="opacity:0.528;fill:#0000ff;fill-opacity:1;stroke-width:5.22947788"
        id="rect10257-4"
@@ -6015,5 +6086,299 @@
        y="-1866.8876"
        transform="matrix(0.02508044,0.99968544,-0.99999531,0.00306339,0,0)"
        inkscape:label="{&quot;attr&quot;:&quot;bar&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;idle&quot;}" />
+    <g
+       id="g2500-0-3-87-8-7"
+       transform="matrix(0.42914256,0,0,0.42299577,1329.0286,148.58678)"
+       inkscape:label="">
+      <g
+         id="Group_Button_Ring-6-3-1-9-7-5">
+        <radialGradient
+           gradientUnits="userSpaceOnUse"
+           r="43.3326"
+           cy="56.5322"
+           cx="57.023399"
+           id="radialGradient18791-1-0-2-3">
+          <stop
+             id="stop18779-0-4-0-8"
+             style="stop-color:#000000"
+             offset="0.72" />
+          <stop
+             id="stop18781-1-7-9-4"
+             style="stop-color:#7A7A7A"
+             offset="0.73" />
+          <stop
+             id="stop18783-7-4-3-5"
+             style="stop-color:#404040"
+             offset="0.82" />
+          <stop
+             id="stop18785-5-1-2-4"
+             style="stop-color:#000000"
+             offset="0.82" />
+          <stop
+             id="stop18787-5-0-6-5"
+             style="stop-color:#ADADAD"
+             offset="0.86" />
+          <stop
+             id="stop18789-2-4-6-9"
+             style="stop-color:#7A7A7A"
+             offset="0.93" />
+        </radialGradient>
+        <ellipse
+           style="fill:url(#SVGID_1_-78-7-1-7-9-2);stroke:#000000;stroke-width:0.25"
+           id="ellipse2468-7-7-5-2-3"
+           ry="43.243"
+           rx="43.423"
+           cy="56.533001"
+           cx="57.023998" />
+      </g>
+      <g
+         id="Group_Green_Button_Face-94-0-4-9-5">
+        <path
+           id="path2471-9-0-7-7-1"
+           d="m 85.714,56.508 c 0,15.569 -12.769,28.191 -28.514,28.191 -15.749,0 -28.518,-12.622 -28.518,-28.191 0,-15.571 12.769,-28.192 28.518,-28.192 15.745,0 28.514,12.621 28.514,28.192 z"
+           inkscape:connector-curvature="0"
+           style="fill:#33cc33"
+           inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;0&quot;,&quot;param&quot;:&quot;#FF0000&quot;,&quot;tag&quot;:&quot;max1&quot;},{&quot;data&quot;:&quot;1&quot;,&quot;param&quot;:&quot;#18C318&quot;,&quot;tag&quot;:&quot;max1&quot;}]}" />
+      </g>
+    </g>
+    <g
+       style=""
+       id="g2500-0-3-87-8-79"
+       transform="matrix(0.42914256,0,0,0.42299577,1806.0286,142.58678)"
+       inkscape:label="">
+      <g
+         id="Group_Button_Ring-6-3-1-9-7-54">
+        <radialGradient
+           gradientUnits="userSpaceOnUse"
+           r="43.3326"
+           cy="56.5322"
+           cx="57.023399"
+           id="radialGradient18791-1-0-2-0">
+          <stop
+             id="stop18779-0-4-0-0"
+             style="stop-color:#000000"
+             offset="0.72" />
+          <stop
+             id="stop18781-1-7-9-47"
+             style="stop-color:#7A7A7A"
+             offset="0.73" />
+          <stop
+             id="stop18783-7-4-3-53"
+             style="stop-color:#404040"
+             offset="0.82" />
+          <stop
+             id="stop18785-5-1-2-7"
+             style="stop-color:#000000"
+             offset="0.82" />
+          <stop
+             id="stop18787-5-0-6-6"
+             style="stop-color:#ADADAD"
+             offset="0.86" />
+          <stop
+             id="stop18789-2-4-6-5"
+             style="stop-color:#7A7A7A"
+             offset="0.93" />
+        </radialGradient>
+        <ellipse
+           style="fill:url(#SVGID_1_-78-7-1-7-9-5);stroke:#000000;stroke-width:0.25"
+           id="ellipse2468-7-7-5-2-2"
+           ry="43.243"
+           rx="43.423"
+           cy="56.533001"
+           cx="57.023998" />
+      </g>
+      <g
+         id="Group_Green_Button_Face-94-0-4-9-4">
+        <path
+           id="path2471-9-0-7-7-81"
+           d="m 85.714,56.508 c 0,15.569 -12.769,28.191 -28.514,28.191 -15.749,0 -28.518,-12.622 -28.518,-28.191 0,-15.571 12.769,-28.192 28.518,-28.192 15.745,0 28.514,12.621 28.514,28.192 z"
+           inkscape:connector-curvature="0"
+           style="fill:#33cc33"
+           inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;0&quot;,&quot;param&quot;:&quot;#FF0000&quot;,&quot;tag&quot;:&quot;max2&quot;},{&quot;data&quot;:&quot;1&quot;,&quot;param&quot;:&quot;#18C318&quot;,&quot;tag&quot;:&quot;max2&quot;}]}" />
+      </g>
+    </g>
+    <g
+       style=""
+       id="g2500-0-3-87-8-4"
+       transform="matrix(0.42914256,0,0,0.42299577,1807.5286,286.58678)"
+       inkscape:label="">
+      <g
+         id="Group_Button_Ring-6-3-1-9-7-6">
+        <radialGradient
+           gradientUnits="userSpaceOnUse"
+           r="43.3326"
+           cy="56.5322"
+           cx="57.023399"
+           id="radialGradient18791-1-0-2-00">
+          <stop
+             id="stop18779-0-4-0-5"
+             style="stop-color:#000000"
+             offset="0.72" />
+          <stop
+             id="stop18781-1-7-9-7"
+             style="stop-color:#7A7A7A"
+             offset="0.73" />
+          <stop
+             id="stop18783-7-4-3-64"
+             style="stop-color:#404040"
+             offset="0.82" />
+          <stop
+             id="stop18785-5-1-2-6"
+             style="stop-color:#000000"
+             offset="0.82" />
+          <stop
+             id="stop18787-5-0-6-4"
+             style="stop-color:#ADADAD"
+             offset="0.86" />
+          <stop
+             id="stop18789-2-4-6-94"
+             style="stop-color:#7A7A7A"
+             offset="0.93" />
+        </radialGradient>
+        <ellipse
+           style="fill:url(#SVGID_1_-78-7-1-7-9-14);stroke:#000000;stroke-width:0.25"
+           id="ellipse2468-7-7-5-2-20"
+           ry="43.243"
+           rx="43.423"
+           cy="56.533001"
+           cx="57.023998" />
+      </g>
+      <g
+         id="Group_Green_Button_Face-94-0-4-9-2">
+        <path
+           id="path2471-9-0-7-7-3"
+           d="m 85.714,56.508 c 0,15.569 -12.769,28.191 -28.514,28.191 -15.749,0 -28.518,-12.622 -28.518,-28.191 0,-15.571 12.769,-28.192 28.518,-28.192 15.745,0 28.514,12.621 28.514,28.192 z"
+           inkscape:connector-curvature="0"
+           style="fill:#33cc33"
+           inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;0&quot;,&quot;param&quot;:&quot;#FF0000&quot;,&quot;tag&quot;:&quot;min2&quot;},{&quot;data&quot;:&quot;1&quot;,&quot;param&quot;:&quot;#18C318&quot;,&quot;tag&quot;:&quot;min2&quot;}]}" />
+      </g>
+    </g>
+    <g
+       style=""
+       id="g2500-0-3-87-8-1"
+       transform="matrix(0.42914256,0,0,0.42299577,1874.5286,917.08678)"
+       inkscape:label="">
+      <g
+         id="Group_Button_Ring-6-3-1-9-7-57">
+        <radialGradient
+           gradientUnits="userSpaceOnUse"
+           r="43.3326"
+           cy="56.5322"
+           cx="57.023399"
+           id="radialGradient18791-1-0-2-4">
+          <stop
+             id="stop18779-0-4-0-3"
+             style="stop-color:#000000"
+             offset="0.72" />
+          <stop
+             id="stop18781-1-7-9-1"
+             style="stop-color:#7A7A7A"
+             offset="0.73" />
+          <stop
+             id="stop18783-7-4-3-2"
+             style="stop-color:#404040"
+             offset="0.82" />
+          <stop
+             id="stop18785-5-1-2-70"
+             style="stop-color:#000000"
+             offset="0.82" />
+          <stop
+             id="stop18787-5-0-6-9"
+             style="stop-color:#ADADAD"
+             offset="0.86" />
+          <stop
+             id="stop18789-2-4-6-3"
+             style="stop-color:#7A7A7A"
+             offset="0.93" />
+        </radialGradient>
+        <ellipse
+           style="fill:url(#SVGID_1_-78-7-1-7-9-05);stroke:#000000;stroke-width:0.25"
+           id="ellipse2468-7-7-5-2-0"
+           ry="43.243"
+           rx="43.423"
+           cy="56.533001"
+           cx="57.023998" />
+      </g>
+      <g
+         id="Group_Green_Button_Face-94-0-4-9-44">
+        <path
+           id="path2471-9-0-7-7-4"
+           d="m 85.714,56.508 c 0,15.569 -12.769,28.191 -28.514,28.191 -15.749,0 -28.518,-12.622 -28.518,-28.191 0,-15.571 12.769,-28.192 28.518,-28.192 15.745,0 28.514,12.621 28.514,28.192 z"
+           inkscape:connector-curvature="0"
+           style="fill:#33cc33"
+           inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;0&quot;,&quot;param&quot;:&quot;#FF0000&quot;,&quot;tag&quot;:&quot;vs_acdc&quot;},{&quot;data&quot;:&quot;1&quot;,&quot;param&quot;:&quot;#18C318&quot;,&quot;tag&quot;:&quot;vs_acdc&quot;}]}" />
+      </g>
+    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot9507-2-0-7-2-9-55-3"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#00ff00;fill-opacity:1;stroke:none"
+       transform="matrix(0.65878311,0,0,1.0325001,84.946035,-50.019084)"
+       inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;cs_akumu&quot;,&quot;type&quot;:&quot;Good&quot;}"><flowRegion
+         id="flowRegion9509-9-3-2-5-5-4-0"
+         style="fill:#00ff00"><rect
+           id="rect9511-2-4-7-6-6-5-7"
+           width="220"
+           height="60"
+           x="220"
+           y="150"
+           style="fill:#00ff00" /></flowRegion><flowPara
+         id="flowPara9513-0-5-1-8-5-0-4">%6.2f</flowPara><flowPara
+         id="flowPara9515-6-6-28-1-8-1-7" /></flowRoot>    <g
+       style=""
+       id="g2500-0-3-87-8-0"
+       transform="matrix(0.42914256,0,0,0.42299577,243.52205,335.19142)"
+       inkscape:label="">
+      <g
+         id="Group_Button_Ring-6-3-1-9-7-1">
+        <radialGradient
+           gradientUnits="userSpaceOnUse"
+           r="43.3326"
+           cy="56.5322"
+           cx="57.023399"
+           id="radialGradient18791-1-0-2-8">
+          <stop
+             id="stop18779-0-4-0-6"
+             style="stop-color:#000000"
+             offset="0.72" />
+          <stop
+             id="stop18781-1-7-9-9"
+             style="stop-color:#7A7A7A"
+             offset="0.73" />
+          <stop
+             id="stop18783-7-4-3-9"
+             style="stop-color:#404040"
+             offset="0.82" />
+          <stop
+             id="stop18785-5-1-2-46"
+             style="stop-color:#000000"
+             offset="0.82" />
+          <stop
+             id="stop18787-5-0-6-40"
+             style="stop-color:#ADADAD"
+             offset="0.86" />
+          <stop
+             id="stop18789-2-4-6-0"
+             style="stop-color:#7A7A7A"
+             offset="0.93" />
+        </radialGradient>
+        <ellipse
+           style="fill:url(#SVGID_1_-78-7-1-7-9-26);stroke:#000000;stroke-width:0.25"
+           id="ellipse2468-7-7-5-2-4"
+           ry="43.243"
+           rx="43.423"
+           cy="56.533001"
+           cx="57.023998" />
+      </g>
+      <g
+         id="Group_Green_Button_Face-94-0-4-9-9">
+        <path
+           id="path2471-9-0-7-7-2"
+           d="m 85.714,56.508 c 0,15.569 -12.769,28.191 -28.514,28.191 -15.749,0 -28.518,-12.622 -28.518,-28.191 0,-15.571 12.769,-28.192 28.518,-28.192 15.745,0 28.514,12.621 28.514,28.192 z"
+           inkscape:connector-curvature="0"
+           style="fill:#33cc33"
+           inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;0&quot;,&quot;param&quot;:&quot;#FF0000&quot;,&quot;tag&quot;:&quot;bypassed&quot;},{&quot;data&quot;:&quot;1&quot;,&quot;param&quot;:&quot;#18C318&quot;,&quot;tag&quot;:&quot;bypassed&quot;}]}" />
+      </g>
+    </g>
   </g>
 </svg>
